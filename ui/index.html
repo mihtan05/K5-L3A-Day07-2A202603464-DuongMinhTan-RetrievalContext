@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <script>
+    (function () {
+      try {
+        var saved = localStorage.getItem("color-scheme");
+        if (saved === "dark" || saved === "light") {
+          var meta = document.querySelector('meta[name="color-scheme"]');
+          if (meta) meta.setAttribute("content", saved);
+        }
+      } catch (_) {}
+    })();
+  </script>
+  <title>DocuRAG Studio · Hỏi &amp; Đáp Tài Liệu Đa Phương Thức</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Fira+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Bỏ qua tới nội dung chính</a>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/>
+            <path d="M8 7h6"/>
+            <path d="M8 11h8"/>
+          </svg>
+        </span>
+        <div class="brand-copy">
+          <span class="brand-name">DocuRAG Studio</span>
+          <span class="brand-sub">Agentic Multimodal RAG · Hybrid pgvector + BM25</span>
+        </div>
+      </div>
+
+      <div class="topbar-actions">
+        <span id="header-status-pill" class="header-pill" aria-live="polite">Đang tải dữ liệu...</span>
+        <button type="button" id="theme-toggle" class="btn-icon-text" aria-label="Chuyển giao diện sáng hoặc tối" aria-pressed="false">
+          <svg id="theme-icon-sun" class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4"/>
+            <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/>
+          </svg>
+          <svg id="theme-icon-moon" class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" hidden>
+            <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/>
+          </svg>
+          <span id="theme-label">Giao diện tối</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <nav class="tabbar" aria-label="Khu vực làm việc">
+    <div class="tabbar-inner">
+      <div class="tablist" role="tablist" aria-label="Chuyển chế độ làm việc">
+        <button type="button" role="tab" id="tab-playground" class="tab-btn" aria-selected="true" aria-controls="panel-playground" tabindex="0">
+          <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+          </svg>
+          <span>Hỏi &amp; Đáp RAG</span>
+        </button>
+        <button type="button" role="tab" id="tab-bonus-eval" class="tab-btn" aria-selected="false" aria-controls="panel-bonus-eval" tabindex="-1">
+          <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 3v18h18"/>
+            <path d="m19 9-5 5-4-4-3 3"/>
+          </svg>
+          <span>Báo cáo Bonus (+15đ)</span>
+        </button>
+        <button type="button" role="tab" id="tab-core-eval" class="tab-btn" aria-selected="false" aria-controls="panel-core-eval" tabindex="-1">
+          <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M9 11l3 3L22 4"/>
+            <path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>
+          </svg>
+          <span>Báo cáo Core (85đ)</span>
+        </button>
+        <button type="button" role="tab" id="tab-gallery" class="tab-btn" aria-selected="false" aria-controls="panel-gallery" tabindex="-1">
+          <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect width="18" height="18" x="3" y="3" rx="2" ry="2"/>
+            <circle cx="9" cy="9" r="2"/>
+            <path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"/>
+          </svg>
+          <span>Kho Bảng &amp; Biểu đồ</span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <main id="main-content" class="app-main">
+    <!-- TAB 1: RAG Q&A STUDIO -->
+    <section id="panel-playground" role="tabpanel" aria-labelledby="tab-playground">
+      <div class="panel-inner qa-shell">
+        <section class="composer-card" aria-labelledby="ask-heading">
+          <div class="composer-top">
+            <div>
+              <h1 id="ask-heading" class="composer-title">Đặt câu hỏi cho Tài liệu</h1>
+              <p class="composer-subtitle">Tìm kiếm ngữ nghĩa (pgvector) + từ khóa (BM25), tổng hợp câu trả lời kèm trích dẫn trang và tự động từ chối nếu ngoài tài liệu.</p>
+            </div>
+            <fieldset class="corpus-radios">
+              <legend class="sr-only">Chọn tập tài liệu truy vấn</legend>
+              <label class="corpus-radio-option">
+                <input type="radio" name="corpus" value="bonus" checked>
+                <span>Bonus · 138 trang (Đa phương thức)</span>
+              </label>
+              <label class="corpus-radio-option">
+                <input type="radio" name="corpus" value="core">
+                <span>Core · 94 trang (Văn bản)</span>
+              </label>
+            </fieldset>
+          </div>
+
+          <form id="ask-form" class="ask-form" novalidate>
+            <div class="input-frame">
+              <label for="question-input" class="sr-only">Câu hỏi cần tra cứu trong tài liệu</label>
+              <textarea
+                id="question-input"
+                rows="3"
+                placeholder="Nhập câu hỏi tiếng Việt hoặc tiếng Anh về số liệu, bảng biểu, biểu đồ trong tài liệu PDF..."
+                aria-describedby="question-hint question-error"
+              ></textarea>
+              <p id="question-error" class="field-error" role="alert" hidden></p>
+
+              <div class="composer-footer">
+                <div class="composer-meta-actions">
+                  <span id="question-hint" class="input-hint">Nhấn <kbd>Enter</kbd> để gửi · <kbd>Shift</kbd>+<kbd>Enter</kbd> xuống dòng</span>
+                  <details class="advanced-settings">
+                    <summary>Cấu hình nâng cao</summary>
+                    <div class="advanced-grid">
+                      <label class="field-inline">
+                        <span>Chế độ Agent</span>
+                        <select id="select-config">
+                          <option value="improved" selected>Improved (Agentic Tool-Use)</option>
+                          <option value="baseline">Baseline (Fixed Top-K)</option>
+                        </select>
+                      </label>
+                      <label class="field-inline">
+                        <span>Phương pháp Retrieval</span>
+                        <select id="select-method">
+                          <option value="hybrid" selected>Hybrid (Dense + BM25 + RRF)</option>
+                          <option value="hybrid_rerank">Hybrid + Visual/Numeric Rerank</option>
+                          <option value="dense">Dense Vector Only (pgvector)</option>
+                          <option value="bm25">Sparse Lexical Only (BM25)</option>
+                        </select>
+                      </label>
+                    </div>
+                  </details>
+                </div>
+
+                <button type="submit" id="btn-run-query" class="btn-primary">
+                  <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <path d="m22 2-7 20-4-9-9-4Z"/>
+                    <path d="M22 2 11 13"/>
+                  </svg>
+                  <span id="btn-run-label">Gửi câu hỏi</span>
+                </button>
+              </div>
+            </div>
+          </form>
+
+          <div class="quick-prompts-bar">
+            <div class="chips-group" aria-label="Câu hỏi gợi ý nhanh">
+              <span class="chips-label">Gợi ý nhanh:</span>
+              <div id="quick-chips" class="chips-list"></div>
+            </div>
+            <div class="sample-picker">
+              <label for="sample-select" class="sr-only">Hoặc chọn từ bộ câu hỏi Benchmark</label>
+              <select id="sample-select" aria-label="Chọn câu hỏi từ bộ Benchmark">
+                <option value="">Hoặc chọn từ bộ Benchmark (48 câu)...</option>
+              </select>
+            </div>
+          </div>
+        </section>
+
+        <section class="thread-section" aria-label="Luồng Hỏi và Đáp" aria-live="polite">
+          <div class="thread-toolbar">
+            <div class="thread-heading-wrap">
+              <h2 class="thread-heading">Câu trả lời &amp; Nguồn trích dẫn</h2>
+              <span id="live-status" class="live-status" role="status"></span>
+            </div>
+            <button type="button" id="btn-clear-thread" class="btn-ghost-sm" hidden>Xóa lịch sử hỏi đáp</button>
+          </div>
+
+          <div id="qa-thread" class="qa-thread">
+            <div id="qa-empty-state" class="empty-state-card">
+              <div class="empty-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="11" cy="11" r="8"/>
+                  <path d="m21 21-4.3-4.3"/>
+                </svg>
+              </div>
+              <h3>Sẵn sàng tra cứu tài liệu</h3>
+              <p>Nhập câu hỏi phía trên hoặc bấm một chip gợi ý để nhận câu trả lời kèm <code>[chunk_id]</code> có thể click xem nguyên văn trang PDF.</p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <!-- TAB 2: BONUS EVALUATION REPORT -->
+    <section id="panel-bonus-eval" role="tabpanel" aria-labelledby="tab-bonus-eval" hidden>
+      <div class="panel-inner report-shell">
+        <div id="bonus-kpi-grid" class="kpi-grid" aria-label="Tổng quan điểm đánh giá Bonus"></div>
+
+        <section class="report-card">
+          <div class="card-header-row">
+            <div>
+              <h2 class="section-title">Phân rã kết quả theo nhóm câu hỏi (Bonus +15đ)</h2>
+              <p class="section-subtitle">So sánh độ chính xác trên bảng biểu, đồ thị, sơ đồ, tổng hợp nhiều trang và kiểm tra khả năng từ chối (unanswerable).</p>
+            </div>
+            <label class="select-field">
+              <span>Lượt chạy</span>
+              <select id="bonus-run-select">
+                <option value="test-selected">Test Set (Improved Hybrid · 30 câu)</option>
+                <option value="dev-improved">Dev Set (Improved Hybrid · 18 câu)</option>
+                <option value="dev-baseline">Dev Set (Baseline Dense · 18 câu)</option>
+              </select>
+            </label>
+          </div>
+          <div class="table-wrapper" role="region" aria-label="Bảng phân rã điểm Bonus theo nhóm" tabindex="0">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Nhóm câu hỏi</th>
+                  <th>Đạt / Tổng</th>
+                  <th>Tỷ lệ Pass</th>
+                </tr>
+              </thead>
+              <tbody id="bonus-category-tbody"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="report-card">
+          <div class="card-header-row">
+            <div>
+              <h2 class="section-title">Chi tiết từng câu hỏi Bonus</h2>
+              <p class="section-subtitle">Click vào một hàng bất kỳ để mở lại đầy đủ câu hỏi, câu trả lời, dẫn chứng và trace trong tab Hỏi &amp; Đáp.</p>
+            </div>
+            <label class="select-field">
+              <span>Lọc nhóm</span>
+              <select id="bonus-cat-filter">
+                <option value="all">Tất cả nhóm</option>
+                <option value="table">Bảng số liệu (table)</option>
+                <option value="image_diagram">Ảnh &amp; Sơ đồ (image_diagram)</option>
+                <option value="chart">Biểu đồ (chart)</option>
+                <option value="multi_hop">Tổng hợp đa trang (multi_hop)</option>
+                <option value="text">Văn bản (text)</option>
+                <option value="unanswerable">Không trả lời được (unanswerable)</option>
+              </select>
+            </label>
+          </div>
+          <div class="table-wrapper" role="region" aria-label="Danh sách câu hỏi Bonus và kết quả" tabindex="0">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>ID</th>
+                  <th>Nhóm</th>
+                  <th>Câu hỏi</th>
+                  <th>Trạng thái</th>
+                  <th>Kết quả</th>
+                </tr>
+              </thead>
+              <tbody id="bonus-traces-tbody"></tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <!-- TAB 3: CORE EVALUATION REPORT -->
+    <section id="panel-core-eval" role="tabpanel" aria-labelledby="tab-core-eval" hidden>
+      <div class="panel-inner report-shell">
+        <div id="core-kpi-grid" class="kpi-grid" aria-label="Tổng quan điểm đánh giá Core"></div>
+
+        <section class="report-card">
+          <div class="card-header-row">
+            <div>
+              <h2 class="section-title">So sánh Phương pháp Retrieval (Core 94 trang)</h2>
+              <p class="section-subtitle">Hit@1, Evidence Hit@3, MRR, tỷ lệ Context Coverage và độ trễ truy xuất.</p>
+            </div>
+            <label class="select-field">
+              <span>Cấu hình</span>
+              <select id="core-run-select"></select>
+            </label>
+          </div>
+          <div class="table-wrapper" role="region" aria-label="Bảng đánh giá Retrieval tập Core" tabindex="0">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Phương pháp</th>
+                  <th>Hit@1</th>
+                  <th>Evidence@3</th>
+                  <th>MRR</th>
+                  <th>Context Cov.</th>
+                  <th>Độ trễ TB</th>
+                </tr>
+              </thead>
+              <tbody id="core-retrieval-tbody"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="report-card">
+          <div class="card-header-row">
+            <div>
+              <h2 class="section-title">Tổng hợp Agentic RAG Core (Baseline vs Improved)</h2>
+              <p class="section-subtitle">Điểm Grounded Answer, tính hợp lệ của trích dẫn và khả năng từ chối đúng lúc.</p>
+            </div>
+          </div>
+          <div class="table-wrapper" role="region" aria-label="Bảng tổng hợp Agentic RAG Core" tabindex="0">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Run</th>
+                  <th>Split</th>
+                  <th>Grounded Mean</th>
+                  <th>Citation Validity</th>
+                  <th>Abstention</th>
+                  <th>False Abstention</th>
+                </tr>
+              </thead>
+              <tbody id="core-agent-summary-tbody"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="report-card">
+          <div class="card-header-row">
+            <div>
+              <h2 class="section-title">Chi tiết Trace Core Agent</h2>
+              <p class="section-subtitle">Click vào một hàng để xem câu hỏi, câu trả lời và trích dẫn chi tiết trong tab Hỏi &amp; Đáp.</p>
+            </div>
+            <label class="select-field">
+              <span>Lượt chạy Agent</span>
+              <select id="core-agent-trace-select">
+                <option value="test-improved">Test Set · Improved</option>
+                <option value="test-baseline">Test Set · Baseline</option>
+                <option value="dev-improved">Dev Set · Improved</option>
+                <option value="dev-baseline">Dev Set · Baseline</option>
+              </select>
+            </label>
+          </div>
+          <div class="table-wrapper" role="region" aria-label="Danh sách câu hỏi Core Agent" tabindex="0">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>ID</th>
+                  <th>Loại</th>
+                  <th>Câu hỏi</th>
+                  <th>Trạng thái</th>
+                  <th>Trích dẫn</th>
+                </tr>
+              </thead>
+              <tbody id="core-traces-tbody"></tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <!-- TAB 4: VISUAL ASSET GALLERY -->
+    <section id="panel-gallery" role="tabpanel" aria-labelledby="tab-gallery" hidden>
+      <div class="panel-inner report-shell">
+        <section class="report-card">
+          <div class="card-header-row">
+            <div>
+              <h2 class="section-title">Kho Dữ liệu Bảng &amp; Biểu đồ (80 Assets)</h2>
+              <p class="section-subtitle">Các bảng số liệu, đồ thị và ảnh/sơ đồ đã được trích xuất và lập chỉ mục từ tài liệu 138 trang (World Bank 2022).</p>
+            </div>
+            <div class="gallery-filters">
+              <label class="select-field">
+                <span>Loại</span>
+                <select id="gallery-mod-filter">
+                  <option value="all">Tất cả loại</option>
+                  <option value="table">Bảng số liệu (table)</option>
+                  <option value="image_diagram">Ảnh &amp; Sơ đồ (image_diagram)</option>
+                  <option value="chart">Biểu đồ (chart)</option>
+                </select>
+              </label>
+              <label class="select-field">
+                <span>Tìm kiếm</span>
+                <input type="search" id="gallery-search" placeholder="Từ khóa, trang, ID...">
+              </label>
+            </div>
+          </div>
+          <div id="asset-gallery-grid" class="gallery-grid"></div>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="asset-dialog" class="modal-dialog" closedby="any" aria-labelledby="dialog-title">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <span id="dialog-badge" class="badge badge-info">Asset</span>
+          <h3 id="dialog-title">Chi tiết Trích dẫn</h3>
+        </div>
+        <button type="button" id="dialog-close-btn" class="btn-icon-only" aria-label="Đóng hộp thoại">
+          <svg class="icon-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M18 6 6 18"/>
+            <path d="m6 6 12 12"/>
+          </svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p id="dialog-caption" class="modal-caption"></p>
+        <div id="dialog-figure-wrap" class="modal-figure-wrap" hidden>
+          <img id="dialog-img" alt="Hình ảnh tài liệu trích xuất">
+        </div>
+        <pre id="dialog-text" class="modal-pre"></pre>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="/app.js"></script>
+</body>
+</html>

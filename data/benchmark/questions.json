@@ -1,0 +1,421 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "How much did Viet Nam's GDP, exports, and imports grow year-on-year in the first half of 2024?",
+    "answerable": true,
+    "expected_answer": "GDP grew by 6.4% (y/y) in H1-2024, while merchandise exports and imports grew at 16.9% and 17% (y/y), respectively.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 13,
+        "evidence": "Viet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023"
+      },
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 20,
+        "evidence": "Viet Nam's GDP grew by 6.4 percent (y/y) in H1-2024, after moderate 5 percent growth in 2023"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "What caused corporate bond issuances in Viet Nam to drop after peaking in 2021?",
+    "answerable": true,
+    "expected_answer": "Market activity dampened due to the crackdown on fraudulent practices in bond issuances by Van Thinh Phat and Tan Hoang Minh real estate groups in 2022.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 47,
+        "evidence": "dampened due to the crackdown on fraudulent practices in bond issuances by Van Thinh Phat and Tan Hoang Minh real estate groups in 2022."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Why does the pre-funding and pre-blocking requirement obstruct Viet Nam's upgrade to Emerging Market status?",
+    "answerable": true,
+    "expected_answer": "Buyers must have cash in place and sellers must hold securities before any trade, which immobilizes cash and hinders institutional investors from seamlessly transferring cash or rebalancing portfolios.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 50,
+        "evidence": "Before any trade, buyers must have the cash in place and sellers must hold the securities, which immobilizes cash and obstructs efficient trading by institutional investors"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Under what condition could total problem loans in Viet Nam's banking system reach 7.9 percent instead of the reported 4.6 percent NPL ratio in 2023?",
+    "answerable": true,
+    "expected_answer": "System-wide NPLs were 4.6% of total loans in 2023, but total problem loans could reach 7.9% if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "evidence": "total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included."
+      },
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 31,
+        "evidence": "total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Why are Viet Nam Social Security (VSS) fund investments heavily concentrated in government bonds?",
+    "answerable": true,
+    "expected_answer": "The Law on Social Insurance permits VSS to invest only in government securities or banks, so government bonds make up 86 percent of VSS's assets under management.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 51,
+        "evidence": "The Law on Social Insurance permits VSS to only invest its funds in government securities or banks. As a result, government bonds make up 86 percent of VSS' assets under management (AUM)"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Which organization handles clearing and settlement as the sole central securities depositary in Viet Nam, and what prevents same-day settlement for government bonds?",
+    "answerable": true,
+    "expected_answer": "The Viet Nam Securities Depository and Clearing Corporation (VSDC) is the sole central securities depositary; a mix of manual and electronic processing in government bond settlement prevents same-day settlement.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 57,
+        "evidence": "The sole central securities depositary, the Viet Nam Securities Depository and Clearing Corporation (VSDC), covers government bonds, corporate bonds and equities"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Why do Viet Nam's monetary authorities have limited room for additional interest rate cuts despite seeking to support growth?",
+    "answerable": true,
+    "expected_answer": "Existing large interest rate differentials between domestic and international markets and the resulting pressure on the exchange rate constrain further rate cuts.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 37,
+        "evidence": "monetary authorities continue to face limited room for additional interest rate cuts due to existing large interest rate differentials between domestic and international markets and the pressure it could bear on the exchange rate."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "What were Viet Nam's real GDP growth and total export growth rates for the full year 2024?",
+    "answerable": true,
+    "expected_answer": "Real GDP growth reached 7.1 percent in 2024 and total exports grew 15.5 percent (rebounding from a -2.5 percent contraction in 2023).",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 11,
+        "evidence": "Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers."
+      },
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 19,
+        "evidence": "Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "How did youth unemployment contrast with overall unemployment and underemployment trends in Viet Nam by the end of 2024?",
+    "answerable": true,
+    "expected_answer": "While overall unemployment remained stable at 2.2 percent and underemployment fell to 1.7 percent, youth unemployment rose from 7.6 percent to 8 percent by end-2024.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 27,
+        "evidence": "However, youth unemployment rose, reaching 8 percent by end-2024, from 7.6 percent the previous year."
+      },
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 12,
+        "evidence": "However, youth unemployment rose, reaching 8 percent by"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Why did Viet Nam's fiscal account tighten to a surplus of 1.8 percent of GDP in 2024 despite a large public sector wage hike from July 2024?",
+    "answerable": true,
+    "expected_answer": "Under-disbursement of public investment (77.5% of the approved budget due to land clearance delays, backfill material scarcity, and raw material price fluctuations) combined with reduced recurrent expenditures led to fiscal tightening.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 14,
+        "evidence": "underdisbursement of public investment and reduced recurrent expenditures led to fiscal tightening in 2024, with the fiscal account registering a surplus of 1.8 percent of GDP."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Why will electric two-wheelers (e-2Ws) be the primary driver of Viet Nam's e-mobility transition between 2024 and 2035?",
+    "answerable": true,
+    "expected_answer": "Registered 2Ws totaled 72.16 million in 2022 (94% of total registered vehicles, ~518 units per 1,000 population vs. 22 passenger cars per 1,000), so 2Ws will remain the dominant vehicle choice until 2035.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 44,
+        "evidence": "In 2022, registered 2Ws in Viet Nam totaled 72.16 million (94 percent of total registered vehicles stock)."
+      },
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 17,
+        "evidence": "registered 2Ws in Viet Nam reached 72.16 million (ca. 94 percent of the total registered vehicles stock)."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Does EV charging pose major pressure on Viet Nam's power sector before 2030 under PDP8, and how much additional generation supply is needed by 2030 under ADS?",
+    "answerable": true,
+    "expected_answer": "Although PDP8 (approved May 2023) did not factor e-mobility loads, EV charging is not expected to impose major pressure before 2030, requiring only 2.1 percent additional generation supply even under ADS (which can be absorbed by planned surplus margins).",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 50,
+        "evidence": "To 2030, EV charging demand even under the more ambitious ADS pathway will require only 2.1 percent of generation supply in addition to PDP8 targets"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "What is Viet Nam's GDP growth forecast for 2024 and 2025-26 according to the August 2024 edition?",
+    "answerable": true,
+    "expected_answer": "Viet Nam's economy is forecast to grow by 6.1 percent in 2024, rising to 6.5 percent in 2025-26.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 16,
+        "evidence": "Viet Nam's economy is forecast to grow by 6.1 percent in 2024, rising to 6.5 percent in 2025-26"
+      },
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 33,
+        "evidence": "Viet Nam's economy is forecast to grow by 6.1 percent in 2024 and rising to 6.5 percent in 2025-26"
+      }
+    ],
+    "filter": {
+      "year": 2024
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "In the 2025 report, what credit growth rate was achieved by end-2024 and what quota flexibility did the SBV grant to banks with stronger capital bases?",
+    "answerable": true,
+    "expected_answer": "Credit growth reached the 15 percent target by end-2024, and the SBV allowed selected banks with stronger capital bases to exceed their quotas without seeking approval once they reached 80 percent of their limit by August.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 31,
+        "evidence": "allowing selected banks with stronger capital bases to exceed their quotas once they reached 80 percent of their limit by August, without having to seek approval for additional credit room."
+      },
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 14,
+        "evidence": "cap without having to seek approval for additional credit if they reached 80 percent of their limit by August."
+      }
+    ],
+    "filter": {
+      "year": 2025
+    }
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "In the e-mobility special focus section, what are the three transition pathways analyzed and when are policy levers activated under ADS compared to SPS?",
+    "answerable": true,
+    "expected_answer": "The three pathways are Business-as-Usual (BAU), Stated Policy Scenario (SPS), and Accelerated Decarbonization Scenario (ADS); ADS activates policy levers from 2025 compared to 2030 under SPS.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 47,
+        "evidence": "Based on the pathways - Business-as-Usual (BAU) Scenario, Stated Policy Scenario (SPS) and Accelerated Decarbonization Scenario (ADS)"
+      }
+    ],
+    "filter": {
+      "section": "special_focus_emobility"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "How large were total assets in Viet Nam's life insurance sector by December 2023, and how does it rank among domestic institutional investors?",
+    "answerable": true,
+    "expected_answer": "By December 2023, the life insurance sector held VND 786 trillion (US$31 billion) in total assets, equivalent to 8% of GDP, making it the second largest type of domestic institutional investor in Viet Nam.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 52,
+        "evidence": "By December 2023, the life insurance sector held VND 786 trillion (US$31 billion) in total assets, with a strong average annual growth rate of 20 percent in the last five years. Equivalent to 8 percent of GDP, it is the second largest type of domestic institutional investor in Viet Nam."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "dien_dat_lai",
+    "question": "How does the average maturity of corporate bonds in Viet Nam compare to the regional average, and how much was raised annually via shares versus bonds between 2019 and 2023?",
+    "answerable": true,
+    "expected_answer": "Corporate bond average maturity is short at around four years (less than half the regional average). Between 2019 and 2023, shares raised an average of VND 37 trillion per year, compared to VND 271 trillion in government bonds and VND 403 trillion in corporate bonds.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 40,
+        "evidence": "the average maturity for corporate bonds is short at around four years, less than half the regional average, reflecting limited long-term financing."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Why is e-mobility's contribution to Viet Nam's 2030 NDC emission reduction targets modest compared to its projected impact by 2050?",
+    "answerable": true,
+    "expected_answer": "Until 2030, electrified vehicles are mainly e-2Ws, yielding a modest 5.3 MtCO2eq reduction under SPS (8% of unconditional energy-sector NDC targets under SPS, 15% under ADS). Beyond 2030-2035, shifting cars, trucks, and intercity buses scales reductions to 226 MtCO2eq (60% of transport NDC baseline) by 2050 under SPS (249 MtCO2eq under ADS).",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 53,
+        "evidence": "The level of GHG reductions from e-mobility until 2030 is modest at 5.3 MtCO2eq under the SPS scenario, contributing around 8 and 15 percent to unconditional NDC emission reduction targets"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "According to the 2025 report, what is Viet Nam's GDP growth forecast for 2025 and 2026, and what external factor drives the expected easing of exports?",
+    "answerable": true,
+    "expected_answer": "GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026, as export rebound eases due to projected slowdowns in China and the United States and global trade policy uncertainty.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 37,
+        "evidence": "Viet Nam's GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026 (Table 1.1)."
+      },
+      {
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 15,
+        "evidence": "Viet Nam's GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026"
+      }
+    ],
+    "filter": {
+      "year": 2025
+    }
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "In the 2024 report, what fiscal balance surplus was recorded in the first half of 2024 compared to H1-2023?",
+    "answerable": true,
+    "expected_answer": "The fiscal balance registered a large surplus of 4.2 percent of GDP in H1-2024, compared to 1.5 percent in H1-2023, due to higher total revenues and reduced public spending.",
+    "gold": [
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 32,
+        "evidence": "The large fiscal surplus of 4.2 percent of GDP in H1-2024, compared to 1.5 percent in H1-2023, was due to higher total revenues and reduced public spending"
+      },
+      {
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "evidence": "The fiscal balance registered a surplus of 4.2 percent of GDP in H1-2024, compared to 1.5 percent in H1-2023"
+      }
+    ],
+    "filter": {
+      "year": 2024
+    }
+  },
+  {
+    "id": "u01",
+    "split": "dev",
+    "question": "What was Viet Nam's real GDP growth rate (y/y) in the first quarter of 2025?",
+    "near_topic": "q08 (full-year 2024 GDP growth, Mar-2025 report)",
+    "absence_reason": "The Mar-2025 report covers data up to Q4-2024 and gives forecasts for 2025, but no realized Q1-2025 GDP figure.",
+    "absence_check": "Full-text search of both PDFs for 'Q1-2025', 'Q1 2025', 'first quarter of 2025', '2025Q1': 0 matches (only Q1-19..Q1-24 chart labels).",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "filter": null
+  },
+  {
+    "id": "u02",
+    "split": "dev",
+    "question": "What was the non-performing loan ratio of Vietcombank, Viet Nam's largest state-owned commercial bank, at end-2023?",
+    "near_topic": "q04 (system-wide NPL ratio 4.6% / problem loans 7.9%)",
+    "absence_reason": "The reports discuss NPLs at banking-system level only; no individual bank is named.",
+    "absence_check": "Full-text search for 'Vietcombank', 'BIDV', 'VietinBank', 'Agribank', 'Techcombank': 0 matches.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "filter": null
+  },
+  {
+    "id": "u03",
+    "split": "test",
+    "question": "How many electric two-wheelers did VinFast sell in Viet Nam in 2024?",
+    "near_topic": "q11/q18 (e-mobility special focus, e-2Ws)",
+    "absence_reason": "The e-mobility section discusses the market and pathways, not sales of a specific company.",
+    "absence_check": "Full-text search for 'VinFast': 0 matches in both PDFs.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "filter": null
+  },
+  {
+    "id": "u04",
+    "split": "test",
+    "question": "By what percentage did Viet Nam raise the regional minimum wage for private-sector workers from July 2024?",
+    "near_topic": "q10 (public-sector wage hike from July 2024)",
+    "absence_reason": "The reports mention the public-sector/civil-service wage increase, not the private-sector regional minimum wage.",
+    "absence_check": "Full-text search for 'minimum wage' and 'regional minimum': 0 matches; 'wage' hits refer to public wages/wage growth only.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "filter": null
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "split": "dev",
+  "top_k_context": 5,
+  "budget_chars": 3200,
+  "pack_mode": "score_dedup",
+  "filters": "user-provided",
+  "query": "original question",
+  "embedding_model": "BAAI/bge-base-en-v1.5",
+  "index_strategy": "B",
+  "methods": {
+    "dense": {
+      "n_answerable": 15,
+      "hit_at_1": "11/15",
+      "hit_at_1_rate": 0.7333,
+      "evidence_hit_at_3": "14/15",
+      "evidence_hit_at_3_rate": 0.9333,
+      "mrr_at_5": 0.8389,
+      "context_evidence": "15/15",
+      "context_evidence_rate": 1.0,
+      "avg_latency_s": 0.3347,
+      "errors": [],
+      "cost_usd": 0.0
+    },
+    "hybrid": {
+      "n_answerable": 15,
+      "hit_at_1": "11/15",
+      "hit_at_1_rate": 0.7333,
+      "evidence_hit_at_3": "15/15",
+      "evidence_hit_at_3_rate": 1.0,
+      "mrr_at_5": 0.8667,
+      "context_evidence": "15/15",
+      "context_evidence_rate": 1.0,
+      "avg_latency_s": 0.3143,
+      "errors": [],
+      "cost_usd": 0.0
+    },
+    "hybrid_rerank": {
+      "n_answerable": 15,
+      "hit_at_1": "11/15",
+      "hit_at_1_rate": 0.7333,
+      "evidence_hit_at_3": "15/15",
+      "evidence_hit_at_3_rate": 1.0,
+      "mrr_at_5": 0.8667,
+      "context_evidence": "15/15",
+      "context_evidence_rate": 1.0,
+      "avg_latency_s": 10.0423,
+      "errors": [],
+      "cost_usd": 0.0
+    }
+  }
+}

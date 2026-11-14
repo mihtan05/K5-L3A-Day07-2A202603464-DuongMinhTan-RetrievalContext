@@ -1,0 +1,53 @@
+[
+  {
+    "query_id": "q16",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "notes": "Correctly states VND 786 trillion (US$31 billion), 8% of GDP, and second largest type of domestic institutional investor; fully supported by cited chunk B__wb_taking_stock_aug2024__p052__c001."
+  },
+  {
+    "query_id": "q17",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "notes": "Correctly compares ~4-year corporate bond maturity (< half regional average) and 2019-2023 average annual issuance (VND 37T shares, VND 271T govt bonds, VND 403T corp bonds); fully supported by cited chunk B__wb_taking_stock_aug2024__p040__c001."
+  },
+  {
+    "query_id": "q18",
+    "answer_grade": 0,
+    "citation_support": [],
+    "notes": "False abstention on answerable question: final context only retained p053__c003 and p017__c002 under 1600-char FIFO budget without retrieving p053__c000/p053__c001 comparing 2030 e-2W 5.3 MtCO2eq vs 2050 226 MtCO2eq."
+  },
+  {
+    "query_id": "q19",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "notes": "Correctly cites March 2025 forecast (6.8% in 2025, 6.5% in 2026) and export easing drivers (China/US slowdowns and global trade policy uncertainty) from B__wb_taking_stock_mar2025__p037__c002."
+  },
+  {
+    "query_id": "q20",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "notes": "Correctly cites fiscal balance surplus of 4.2% of GDP in H1-2024 vs 1.5% in H1-2023 from B__wb_taking_stock_aug2024__p015__c004."
+  },
+  {
+    "query_id": "u03",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Correctly abstains; report covers Vietnam e-2W market (37+ suppliers, 12% share) but has no VinFast 2024 unit sales."
+  },
+  {
+    "query_id": "u04",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Correctly abstains; retrieved chunk mentions Decree 73/2024/ND-CP public-sector pay policy, not private-sector regional minimum wage."
+  }
+]
+

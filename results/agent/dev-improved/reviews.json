@@ -1,0 +1,105 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Exact 6.4%, 16.9%, 17.0% H1-2024 growth supported by aug2024__p020__c000."
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 2,
+    "citation_support": [true, true],
+    "notes": "Market turbulence (p040__c002) and crackdown on Van Thinh Phat & Tan Hoang Minh (p047__c001) both verified."
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Recovered via keyword_search('pre-funding'); accurately explains cash immobilization and investor trading obstruction from p050__c001."
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Accurately gives restructured loans and VAMC debts condition from p015__c001."
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 2,
+    "citation_support": [true, true],
+    "notes": "Cites Law on Social Insurance restricting investment to govt securities/banks (p051__c001) and long-term liability matching (p045__c003)."
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 2,
+    "citation_support": [true, true],
+    "notes": "VSDC (p057__c001) and manual/electronic mix (p057__c002) both verified."
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 2,
+    "citation_support": [true, true],
+    "notes": "Synthesizes domestic-international rate differentials (aug2024__p037__c000) and USD strength/exchange rate pressure (mar2025__p039__c002)."
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Exact 7.1% GDP and 15.5% exports in 2024 verified in mar2025__p019__c000."
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Overall 2.2%, underemployment 1.7% (-0.3 pp), youth 8% vs 7.6% verified in mar2025__p012__c000."
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 2,
+    "citation_support": [true, true],
+    "notes": "Wage hike context (p014__c000) and under-disbursement of public investment + reduced recurrent expenditure (p033__c002) verified."
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 2,
+    "citation_support": [true, true],
+    "notes": "72.16M (94%), 518 vs 22 per 1,000 (p044__c001) plus market readiness via get_adjacent_chunks (p044__c002) verified."
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "No major pressure before 2030 and 2.1% additional generation supply under ADS verified in p050__c002."
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Inferred year=2024 filter cleanly; reports 6.1% (2024) and 6.5% (2025-26) from aug2024__p016__c000."
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 2,
+    "citation_support": [true, true],
+    "notes": "Inferred year=2025 filter; 15% credit growth (p031__c000) and SBV 80% quota flexibility (p031__c001) verified."
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 2,
+    "citation_support": [true, true],
+    "notes": "Inferred section='special_focus_emobility' + get_adjacent_chunks; BAU/SPS/ADS (p047__c000) and 2025 vs 2030 (p047__c001) verified."
+  },
+  {
+    "query_id": "u01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Correctly abstained after hybrid + keyword_search('Q1 2025') + reformulated search; grounded note on 6.8% annual forecast from context."
+  },
+  {
+    "query_id": "u02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Correctly abstained after 2 hybrid searches + keyword_search('Vietcombank'); confirms bank-level NPL absent."
+  }
+]
+

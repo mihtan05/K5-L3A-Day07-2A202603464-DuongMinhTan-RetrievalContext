@@ -1,0 +1,105 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Exact H1-2024 GDP (6.4%), exports (16.9%), and imports (17%) supported by p013__c000."
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Correctly attributes post-2021 bond drop to crackdown on Van Thinh Phat and Tan Hoang Minh in 2022, supported by p047__c001."
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 0,
+    "citation_support": [],
+    "notes": "False abstention: dense search + tight 1600-char FIFO budget missed p050__c001 (rank below cutoff)."
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Accurately states condition (restructured loans and VAMC debts) supported by p015__c001."
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 1,
+    "citation_support": [true],
+    "notes": "Partial answer: cites p018__c000 ('legal constraint') and references p045__c002 in prose, but lacks the Law on Social Insurance specifics and 86% AUM figure from p051__c001."
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 2,
+    "citation_support": [true, true],
+    "notes": "Identifies VSDC (p057__c001) and mix of manual/electronic processing (p057__c002); both citations supported."
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 0,
+    "citation_support": [],
+    "notes": "False abstention: p037__c000 was dropped by 1600-char FIFO budget."
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Correctly reports 7.1% GDP growth and 15.5% export growth supported by mar2025__p019__c000."
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Covers 2.2% overall, 1.7% underemployment, and 8% vs 7.6% youth unemployment from mar2025__p012__c000."
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 0,
+    "citation_support": [],
+    "notes": "False abstention: dense search missed mar2025__p014__c000 and filled budget with current-account chunks."
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "Exact 72.16M (94%), 518 vs 22 per 1,000, and dominance until 2035 supported by p044__c001."
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "notes": "No major pressure before 2030 and 2.1% additional supply under ADS supported by p050__c002."
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 0,
+    "citation_support": [],
+    "notes": "False abstention: without year=2024 filter, retrieved only March 2025 chunks and lacked August 2024 forecast."
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 2,
+    "citation_support": [true, true],
+    "notes": "15% credit growth (p013__c004) and 80% SBV quota flexibility (p031__c001) both verified."
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 2,
+    "citation_support": [true, true],
+    "notes": "All three pathways (p047__c000) and ADS 2025 vs SPS 2030 timelines (p047__c001) verified."
+  },
+  {
+    "query_id": "u01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Correctly abstained after 2 searches confirming Q1-2025 realized GDP is absent."
+  },
+  {
+    "query_id": "u02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Correctly abstained after 2 searches confirming no Vietcombank-specific NPL figure exists."
+  }
+]
+

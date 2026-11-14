@@ -1,0 +1,92 @@
+[
+  {
+    "query_id": "bd_q01",
+    "passed": true,
+    "audit_note": "Đạt: Nêu đúng CCI Moderate (5–10), Dirty (10–20) và hệ số k = 20 [BONUS__wb_vn_plastic_2022__p034__table_04]."
+  },
+  {
+    "query_id": "bd_q02",
+    "passed": true,
+    "audit_note": "Đạt: Đúng tỷ lệ thu gom và số cơ sở xử lý cho Hải Phòng (90%, 6–8), Lào Cai/Sa Pa (85%, 1), Hải Dương (80–85%, 2) [BONUS__wb_vn_plastic_2022__p057__table_08]."
+  },
+  {
+    "query_id": "bd_q03",
+    "passed": true,
+    "audit_note": "Đạt: Đúng số liệu Table 19 cho phao xốp (16,800 tons/year, 380k–550k VND, 1–2 năm) vs composite/HDPE (1,500 tons/year, 900k–1.45M VND, 10–15 năm) [BONUS__wb_vn_plastic_2022__p085__table_19]."
+  },
+  {
+    "query_id": "bd_q04",
+    "passed": true,
+    "audit_note": "Đạt: Đủ 4 nhãn vị trí ảnh UAV tại Hải Dương (Thach Khoi 1 site 1 & 2) và Hải Phòng (Chanh Duong 01 (6m) Site 1 & Chanh Duong 02 (6m) site 2) [p020__fig_01, p066__fig_27]."
+  },
+  {
+    "query_id": "bd_q05",
+    "passed": true,
+    "audit_note": "Đạt: Xác định đúng 3 thiết bị trong Figure 25 (camera GoPro gắn cầu, UAV drone, khung lưới lấy mẫu) [BONUS__wb_vn_plastic_2022__p062__fig_25]."
+  },
+  {
+    "query_id": "bd_q06",
+    "passed": true,
+    "audit_note": "Đạt: Đủ 3 thông số Figure 51 trang 125 (ống thép 48 mm, khung lưới 600x600 mm, 240 kg tạ trên 12 thanh ren) [BONUS__wb_vn_plastic_2022__p125__t00]."
+  },
+  {
+    "query_id": "bd_q07",
+    "passed": true,
+    "audit_note": "Đạt: Đủ tỷ lệ Plastic và phân rã nhóm Other cho cả Figure 5 (93.6%, Other 3.6%) và Figure 6 (70.7%, Other 14.1%) [p039__fig_05, p039__fig_06]."
+  },
+  {
+    "query_id": "bd_q08",
+    "passed": true,
+    "audit_note": "Đạt: Đúng tỷ lệ Single-use vs Other tại sông (72% / 28%) và ven biển (52% / 48%) từ Figure 10 [BONUS__wb_vn_plastic_2022__p042__fig_10]."
+  },
+  {
+    "query_id": "bd_q09",
+    "passed": true,
+    "audit_note": "Đạt: Đúng item #1 tại sông Hồng (Plastic bags size 1: 44.7%) và sông Mê Kông (Styrofoam food container: 19.4%) từ Figure 32 & 33 [p108__fig_32, p108__fig_33]."
+  },
+  {
+    "query_id": "bd_q10",
+    "passed": true,
+    "audit_note": "Đạt: Tổng hợp đúng Table 10 (Chanh Duong 2 có đủ 4 phân tích) và Table 9 (Lat 20.641278, Lon 106.566986) [p061__table_10, p059__table_09]."
+  },
+  {
+    "query_id": "bd_q11",
+    "passed": true,
+    "audit_note": "Đạt: Nêu đúng #1 số lượng (Packages and other wrappers: 50 pcs / 41.32%) và #1 trọng lượng (Organic waste: 1,500 g / 58%; nhóm nhựa Other plastic: 571 g / 22%) [p071__fig_30, p071__fig_31, p072__table_14]."
+  },
+  {
+    "query_id": "bd_q12",
+    "passed": true,
+    "audit_note": "Đạt: Kết hợp Table 15 & Table 16 nêu đúng 2 nhóm bị loại (#6 Hard plastic fragments HDPE 6.1% và #9 Other plastic 3.2%) cùng lý do quá đa dạng vật liệu [p078__table_15, p079__table_16, p079__t00]."
+  },
+  {
+    "query_id": "bd_q13",
+    "passed": true,
+    "audit_note": "Đạt: Trích xuất chính xác từ trang 26 lượng nhựa thải đất liền (2.8–3.1M tấn), đại dương (0.28–0.73M tấn) và tỷ lệ chưa thu gom đô thị (10–15%) vs nông thôn (45–60%) [p026__t01, p026__t02]."
+  },
+  {
+    "query_id": "bd_q14",
+    "passed": true,
+    "audit_note": "Đạt: Nêu đúng đơn vị lấy mẫu sông (1 m2 x 0.3 m, đào sâu 30 cm) và ven biển (1 m2, không đào, lấy trên mặt trong 2 ngày liên tiếp) [p032__t01, p034__table_04, p034__t00]."
+  },
+  {
+    "query_id": "bd_q15",
+    "passed": true,
+    "audit_note": "Đạt: Trả lời đúng 1,184/24,461 mẫu gán được cho 266 nhãn hiệu và top 21 nhãn chiếm 56% tại Section 2.1.3.2 trang 42 [BONUS__wb_vn_plastic_2022__p042__t00]."
+  },
+  {
+    "query_id": "bd_u01",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; vịnh Hạ Long không thuộc 14 điểm khảo sát ven biển trong Table 6/Table 5."
+  },
+  {
+    "query_id": "bd_u02",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; Han Bridge đánh dấu '-' ở Table 10 nên không có số liệu trong Table 13 hay Table 14."
+  },
+  {
+    "query_id": "bd_u03",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; báo cáo không đo tốc độ/nồng độ thôi nhiễm BPA hay phthalates (ng/L)."
+  }
+]

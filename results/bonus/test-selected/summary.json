@@ -1,0 +1,84 @@
+{
+  "split": "test",
+  "config": {
+    "name": "improved",
+    "retrieval_method": "hybrid",
+    "top_k": 5,
+    "budget_chars": 4800,
+    "max_searches": 5,
+    "pack_mode": "score_dedup",
+    "allow_filter_inference": true,
+    "enable_multi_tool": true,
+    "corpus_mode": "bonus",
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "temperature": 0.0
+  },
+  "total_questions": 30,
+  "total_passed": 29,
+  "overall_pass_rate_pct": 96.67,
+  "meets_90pct_threshold": true,
+  "by_category": {
+    "table": {
+      "label_vi": "Bảng",
+      "passed": 6,
+      "total": 6,
+      "rate_pct": 100.0,
+      "notes": []
+    },
+    "image_diagram": {
+      "label_vi": "Ảnh, sơ đồ",
+      "passed": 5,
+      "total": 5,
+      "rate_pct": 100.0,
+      "notes": []
+    },
+    "chart": {
+      "label_vi": "Biểu đồ",
+      "passed": 5,
+      "total": 5,
+      "rate_pct": 100.0,
+      "notes": []
+    },
+    "multi_hop": {
+      "label_vi": "Multi-hop",
+      "passed": 4,
+      "total": 4,
+      "rate_pct": 100.0,
+      "notes": []
+    },
+    "text": {
+      "label_vi": "Text",
+      "passed": 3,
+      "total": 4,
+      "rate_pct": 75.0,
+      "notes": [
+        "bt_q21: Không đạt một phần (chấm chặt): Nêu đúng 4 nhóm khuyến nghị, bộ công cụ chính sách (cấm, thuế/phí, EPR) và lĩnh vực trọng tâm (du lịch, bán lẻ) tại trang 23 & 92, nhưng budget bị lấp trước p092__t02 nên bỏ sót danh sách nhóm đồ dùng một lần/mang đi mục tiêu cụ thể (túi nhựa, hộp xốp Styrofoam, dao dĩa nhựa, ống hút, que khuấy)."
+      ]
+    },
+    "unanswerable": {
+      "label_vi": "Thiếu bằng chứng",
+      "passed": 6,
+      "total": 6,
+      "rate_pct": 100.0,
+      "notes": []
+    }
+  },
+  "citation_validity": {
+    "valid": 44,
+    "total": 44,
+    "rate": 1.0
+  },
+  "runtime": {
+    "total_latency_s": 248.31,
+    "mean_latency_s": 8.28,
+    "total_searches": 57,
+    "mean_searches": 1.9,
+    "total_api_calls": 74,
+    "prompt_tokens": 244315,
+    "completion_tokens": 12783,
+    "total_tokens": 260631,
+    "total_cost_usd": 0.0,
+    "provider_errors": 0
+  }
+}

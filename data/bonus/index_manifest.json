@@ -1,0 +1,122 @@
+{
+  "created_at": "2026-11-14T10:31:55.332704+00:00",
+  "index_strategy": "BONUS",
+  "document": {
+    "source_id": "wb_vn_plastic_2022",
+    "title": "Vietnam: Plastic Pollution Diagnostics",
+    "organization": "World Bank",
+    "report_no": "P167307",
+    "year": 2022,
+    "publication_date": "2022-06-28",
+    "license": "CC BY 3.0 IGO (Public Disclosure Authorized)",
+    "url": "http://documents.worldbank.org/curated/en/099731406282241639/pdf/P1673071d02f2c0be180741356b6b0e3deb.pdf",
+    "local_pdf_path": "data/bonus/wb_vietnam_plastic_2022.pdf",
+    "total_pages": 138,
+    "processed_text_pages": 135,
+    "blank_pages_skipped": [
+      {
+        "page": 24,
+        "status": "skipped_blank",
+        "reason": "100% blank separator page between Executive Summary and Section 1 (0 text characters, 0 embedded images)."
+      }
+    ],
+    "decorative_pages_logged": [
+      {
+        "page": 1,
+        "status": "text_only_decorative_cover",
+        "reason": "Front cover artwork; title/date metadata extracted, decorative cover art excluded from visual Q&A."
+      },
+      {
+        "page": 3,
+        "status": "text_only_decorative_title",
+        "reason": "Inner title banner page; title extracted, decorative background excluded."
+      },
+      {
+        "page": 12,
+        "status": "text_only_decorative_divider",
+        "reason": "Executive Summary section divider with blue wave graphic; heading text extracted."
+      },
+      {
+        "page": 13,
+        "status": "text_only_decorative_photo",
+        "reason": "Full-page decorative background photo under Key Messages; text extracted, stock background excluded."
+      },
+      {
+        "page": 25,
+        "status": "text_only_decorative_divider",
+        "reason": "Section 1 (Introduction) divider with blue wave graphic; text extracted."
+      },
+      {
+        "page": 29,
+        "status": "text_only_decorative_divider",
+        "reason": "Section 2 (Main Summaries of Diagnostics Studies) divider; heading text extracted."
+      },
+      {
+        "page": 43,
+        "status": "text_only_decorative_photo",
+        "reason": "Full-page decorative stock photo (Photo: Praneat - Shutterstock) with zero analytical labels; caption logged, photo excluded from visual Q&A."
+      },
+      {
+        "page": 55,
+        "status": "text_only_decorative_photo",
+        "reason": "Full-page decorative stock photo (Photo: Susie Hedberg - Shutterstock); caption logged, photo excluded from visual Q&A."
+      },
+      {
+        "page": 77,
+        "status": "text_only_decorative_photo",
+        "reason": "Full-page decorative stock photo (Photo: Roman Striga - Shutterstock); caption logged, photo excluded from visual Q&A."
+      },
+      {
+        "page": 91,
+        "status": "text_only_decorative_divider",
+        "reason": "Section 3 (Policy Recommendations and Next Steps) divider with blue wave graphic; text extracted."
+      },
+      {
+        "page": 94,
+        "status": "text_only_decorative_photo",
+        "reason": "Decorative photo banner above References; text extracted."
+      },
+      {
+        "page": 95,
+        "status": "text_only_decorative_photo",
+        "reason": "Decorative photo banner on References continuation page; text extracted."
+      },
+      {
+        "page": 101,
+        "status": "text_only_decorative_divider",
+        "reason": "Annexes section divider with blue wave graphic; heading text extracted."
+      },
+      {
+        "page": 110,
+        "status": "chart_plus_decorative_photo",
+        "reason": "Top half contains Figure 36 (indexed chart); bottom half is a decorative stock photo (Photo: xuanhuongho - Shutterstock) excluded from visual Q&A."
+      },
+      {
+        "page": 138,
+        "status": "text_only_back_cover",
+        "reason": "Back cover with World Bank logo only."
+      }
+    ]
+  },
+  "total_chunks": 458,
+  "modality_counts": {
+    "text": 378,
+    "table": 26,
+    "image_diagram": 16,
+    "chart": 38
+  },
+  "table_assets_count": 26,
+  "figure_assets_count": 54,
+  "stored_rows": 458,
+  "embedding_provider": "local",
+  "embedding_model": "BAAI/bge-base-en-v1.5",
+  "dimensions": 768,
+  "vector_store": "PostgreSQL + pgvector (exact cosine, Day 6 docker-compose)",
+  "chunks_sha256": "42b9e358ff922f0461cd550d01e3f4d9ee30b00f6903246191f6eeb362093da2",
+  "upsert": {
+    "upserted": 458,
+    "deleted_obsolete": 0
+  },
+  "embed_seconds": 380.79,
+  "total_seconds": 432.99
+}

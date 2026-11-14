@@ -1,0 +1,25 @@
+{
+  "split": "test",
+  "top_k_context": 3,
+  "budget_chars": 2400,
+  "pack_mode": "fifo",
+  "filters": "none",
+  "query": "original question",
+  "embedding_model": "BAAI/bge-base-en-v1.5",
+  "index_strategy": "B",
+  "methods": {
+    "dense": {
+      "n_answerable": 5,
+      "hit_at_1": "4/5",
+      "hit_at_1_rate": 0.8,
+      "evidence_hit_at_3": "5/5",
+      "evidence_hit_at_3_rate": 1.0,
+      "mrr_at_3": 0.9,
+      "context_evidence": "5/5",
+      "context_evidence_rate": 1.0,
+      "avg_latency_s": 0.2441,
+      "errors": [],
+      "cost_usd": 0.0
+    }
+  }
+}

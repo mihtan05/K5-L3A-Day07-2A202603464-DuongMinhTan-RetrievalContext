@@ -1,0 +1,152 @@
+[
+  {
+    "query_id": "bt_q01",
+    "passed": true,
+    "audit_note": "Đạt: Đối chiếu Table 6 trang 52 đúng hoàn toàn Binh Lap (18.9 item/m2, 76.7 g/m2, CCI 379.8 Extremely Dirty) và Ho Be (0.39 item/m2, 3.63 g/m2, CCI 7.80 Moderate) [BONUS__wb_vn_plastic_2022__p052__table_06]."
+  },
+  {
+    "query_id": "bt_q02",
+    "passed": true,
+    "audit_note": "Đạt: Đúng từng điểm và tổng gộp Thach Khoi 1 (2,986 / 25 m2 / 6 m3 và 2,521 / 20 m2 / 5 m3; tổng 5,507 / 45 m2 / 11 m3) cùng số hiệu chỉnh Suoi Cat 01_1 (296) và 01_2 (116) [BONUS__wb_vn_plastic_2022__p065__table_11]."
+  },
+  {
+    "query_id": "bt_q03",
+    "passed": true,
+    "audit_note": "Đạt: Khớp cả 5 giá trị dòng SUM của Table 13 trang 69: Thach Khoi 2 (236), Chanh Duong 01 (286 (600)), Chanh Duong 02 (465 (600)), Dang bridge (140), Suoi Cat 2 (360) [BONUS__wb_vn_plastic_2022__p069__table_13]."
+  },
+  {
+    "query_id": "bt_q04",
+    "passed": true,
+    "audit_note": "Đạt: Đủ sản lượng và giá sỉ Table 17 cho PE bag (284,692 tons/yr, 30–40k VND/kg), HDPE bag (360,000 tons/yr, 36–48k VND/kg) và Compostable bag (51,897 tons/yr, 160k VND/kg) [BONUS__wb_vn_plastic_2022__p081__table_17]."
+  },
+  {
+    "query_id": "bt_q05",
+    "passed": true,
+    "audit_note": "Đạt: Đúng số liệu Table 21 trang 88 cho Straight PP (1,257M pcs, 200–1,000 VND), U-shaped PP (2,560M pcs, 100–300 VND) và sản lượng 4 nhóm thay thế (Paper 850M + U-shaped 680M, Rice 580M, Grass 85M, Bamboo 65M) [BONUS__wb_vn_plastic_2022__p088__table_21]."
+  },
+  {
+    "query_id": "bt_q06",
+    "passed": true,
+    "audit_note": "Đạt: Đúng đủ 6 mốc thời gian đo vận tốc lưới trên/lưới dưới tại Pos.1–Pos.3 trong Table 26 trang 130 [p130__table_26, p130__t00]."
+  },
+  {
+    "query_id": "bt_q07",
+    "passed": true,
+    "audit_note": "Đạt: Liệt kê chính xác toàn bộ 10 điểm khảo sát trên bản đồ Figure 4 trang 35 cùng số liệu R/C trong callout và 2 điểm chỉ có sông là Lao Cai, Can Tho [BONUS__wb_vn_plastic_2022__p035__fig_04]."
+  },
+  {
+    "query_id": "bt_q08",
+    "passed": true,
+    "audit_note": "Đạt: Xác định đúng Cau Rao Bridge bắc qua Lach Tray River, vùng bay cao 250 m thượng/hạ lưu (500 m) cách bờ 100 m, ô bay thấp 10x10 m và chưa từng khảo sát thực tế [p063__fig_26, p063__t01, p063__t02]."
+  },
+  {
+    "query_id": "bt_q09",
+    "passed": true,
+    "audit_note": "Đạt: Nêu đúng 3 tầng lấy mẫu (Water surface 600x600 mm: 500 & 250 um; Middle 600x600 mm: 500, 250 & optional 41 um; Near-bed 300x600 mm: 500 um) từ Figure 47 trang 118 [BONUS__wb_vn_plastic_2022__p118__fig_47]."
+  },
+  {
+    "query_id": "bt_q10",
+    "passed": true,
+    "audit_note": "Đạt: Đúng 2 CNN (PLD-CNN 6 lớp, PLQ-CNN) và tham số giả định mật độ/độ dày cho Litter-low (50%, 7 cm) vs Litter-high (100%, 30 cm) từ Figure 48 [BONUS__wb_vn_plastic_2022__p119__fig_48]."
+  },
+  {
+    "query_id": "bt_q11",
+    "passed": true,
+    "audit_note": "Đạt: Trích xuất đúng bảng PLD CNN trong Figure 49 trang 120 (377 Litter-high, 746 Litter-low, 3,377 items, 30 m2, 6 m3) và top 3 biểu đồ tròn (45%, 15%, 13%) [BONUS__wb_vn_plastic_2022__p120__fig_49]."
+  },
+  {
+    "query_id": "bt_q12",
+    "passed": true,
+    "audit_note": "Đạt: Đúng item #1 theo mật độ (Plastic bags size 1: 21.9% mật độ, 14% trọng lượng) và #1 theo trọng lượng (Hard plastic fragments: 15% trọng lượng, 4.6% mật độ) từ Figure 2 [BONUS__wb_vn_plastic_2022__p020__fig_02]."
+  },
+  {
+    "query_id": "bt_q13",
+    "passed": true,
+    "audit_note": "Đạt: Đủ tỷ lệ % của cả 5 nguồn rác nhựa theo Số lượng (43.6/32.6/21.6/1.1/1.1%) và Trọng lượng (35.1/30.6/22.8/8.2/3.3%) trong Figure 7 trang 40 [BONUS__wb_vn_plastic_2022__p040__fig_07]."
+  },
+  {
+    "query_id": "bt_q14",
+    "passed": true,
+    "audit_note": "Đạt: Đúng top 3 Rural vs Urban và 2 item riêng biệt (Fertilizer Bags or containers 3.5% chỉ ở Rural; Other wrappers 4.7% chỉ ở Urban) trong Figure 15 trang 46 [BONUS__wb_vn_plastic_2022__p046__fig_15]."
+  },
+  {
+    "query_id": "bt_q15",
+    "passed": true,
+    "audit_note": "Đạt: Đủ số liệu Single-use vs Other cho cả 8 điểm ven biển trong Figure 23 trang 51, nêu đúng Quang Nam cao nhất Single-use (70.1) và Ho Chi Minh cao nhất Other (78.5) [BONUS__wb_vn_plastic_2022__p051__fig_23]."
+  },
+  {
+    "query_id": "bt_q16",
+    "passed": true,
+    "audit_note": "Đạt: Đọc đúng đỉnh trên biểu đồ đường Figure 29 trang 70 (Camera 01 đạt đỉnh 10:30 ~33 items; Camera 02 đỉnh sáng 11:00 ~25 items; đỉnh phụ chiều đồng thời 14:00 ~22 & 20 items) [BONUS__wb_vn_plastic_2022__p070__fig_29]."
+  },
+  {
+    "query_id": "bt_q17",
+    "passed": true,
+    "audit_note": "Đạt: Kết hợp đúng Figure 38 & Figures 39–40 (#1 Bắc: Fishing gear 1 22.3%; #1 Trung/Nam: Soft plastic fragments 21.7%/19.9%; hộp xốp Styrofoam: 1.4% / 4.4% / 11.7%) [p112__fig_38, p113__fig_39, p113__fig_40]."
+  },
+  {
+    "query_id": "bt_q18",
+    "passed": true,
+    "audit_note": "Đạt: Tổng hợp chính xác Figure 28, Table 12 và Table 25 (Polystyrene 40% = 1,858/4,618 mẫu; Hai Duong 43% vs 3%; Hai Phong 30% vs 23%+3%; Sapa 18% vs 13%+3%; hotspot Chanh Duong 02 s2 LDPE 49%) [p067__fig_28, p068__table_12, p128__table_25]."
+  },
+  {
+    "query_id": "bt_q19",
+    "passed": true,
+    "audit_note": "Đạt: Đối chiếu đầy đủ Soc Trang & Can Tho giữa điểm sông (Table 24, Figure 37, trang 110) và điểm biển (Figure 23 trang 51; Can Tho không có điểm biển) [p111__table_24, p111__fig_37, p110__t00, p051__fig_23]."
+  },
+  {
+    "query_id": "bt_q20",
+    "passed": true,
+    "audit_note": "Đạt: Kết hợp Table 7 (18.5%), Figure 3 (19.1%) và Table 18 (3 loại lưới: Parachute 45,054 tấn / 20.8–25k vs Biodegradable 70–138k; Traditional 29,212 tấn / 2.16–7.63k vs Coir 22–25k; Aquaculture 14,500 tấn / 3–15k vs Metal wire 32–100k) [p021__fig_03, p054__table_07, p084__table_18]."
+  },
+  {
+    "query_id": "bt_q21",
+    "passed": false,
+    "audit_note": "Không đạt một phần (chấm chặt): Nêu đúng 4 nhóm khuyến nghị, bộ công cụ chính sách (cấm, thuế/phí, EPR) và lĩnh vực trọng tâm (du lịch, bán lẻ) tại trang 23 & 92, nhưng budget bị lấp trước p092__t02 nên bỏ sót danh sách nhóm đồ dùng một lần/mang đi mục tiêu cụ thể (túi nhựa, hộp xốp Styrofoam, dao dĩa nhựa, ống hút, que khuấy)."
+  },
+  {
+    "query_id": "bt_q22",
+    "passed": true,
+    "audit_note": "Đạt: Nêu đúng kế hoạch ban đầu (Southwest Monsoon May–Oct), thực tế (July 2020 to January 2021) và 11 địa điểm không cùng mùa gió mùa tại trang 34 [p034__t02, p034__t03]."
+  },
+  {
+    "query_id": "bt_q23",
+    "passed": true,
+    "audit_note": "Đạt: Chính xác phương trình q_{i,j} = C_{i,j} * v_{i,j}, đơn vị từng biến và tên mô hình thủy động lực 3D R-Sim3D (BOKU/IWA) từ trang 122 [p122__t01, p122__t02]."
+  },
+  {
+    "query_id": "bt_q24",
+    "passed": true,
+    "audit_note": "Đạt: Chính xác 4 cỡ mắt lưới & độ rỗng (250 um 34%, 500 um 38%, 2.43 mm 44%, 8 mm undefined), chiều dài lưới 2.5 m và cỡ khuyến nghị 2.43 mm từ trang 125 [p125__t01, p125__t03]."
+  },
+  {
+    "query_id": "bt_u01",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; Vũng Tàu và Quy Nhơn không nằm trong 10 địa điểm / 14 bãi biển của Table 5 & Table 6."
+  },
+  {
+    "query_id": "bt_u02",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; Table 10 không có phân tích drone hoàn chỉnh cho Suoi Cat 3 (ID 9) nên Table 11 và Table 25 đều trống số liệu điểm này."
+  },
+  {
+    "query_id": "bt_u03",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; cột Units sold per year cho 3 loại lưới thay thế trong Table 18 trang 84 đều ghi 'N/A'."
+  },
+  {
+    "query_id": "bt_u04",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; Figure 29 trang 70 chỉ ghi nhận ban ngày từ 08:30 đến 16:30, không có số liệu ban đêm 18:00–06:00."
+  },
+  {
+    "query_id": "bt_u05",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; báo cáo chỉ khảo sát rác vĩ mô và trôi nổi, không giải phẫu dạ dày/ruột cá để đo vi nhựa."
+  },
+  {
+    "query_id": "bt_u06",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; báo cáo xuất bản năm 2022 nên không có tỷ lệ tuân thủ hay số thu thuế EPR giai đoạn 2023–2024."
+  }
+]

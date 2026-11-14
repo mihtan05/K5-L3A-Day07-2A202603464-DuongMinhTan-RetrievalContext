@@ -1,0 +1,19 @@
+{
+  "split": "dev",
+  "config": {
+    "name": "baseline",
+    "retrieval_method": "dense",
+    "top_k": 3,
+    "budget_chars": 1600,
+    "max_searches": 2,
+    "pack_mode": "fifo",
+    "allow_filter_inference": false,
+    "enable_multi_tool": false,
+    "provider": "gemini",
+    "model": "gemini-flash-lite-latest",
+    "temperature": 0.0
+  },
+  "n_questions": 17,
+  "user_filters_passed_to_agent": false,
+  "gold_exposed_to_agent": false
+}

@@ -1,0 +1,82 @@
+{
+  "split": "dev",
+  "config": {
+    "name": "improved",
+    "retrieval_method": "hybrid",
+    "top_k": 5,
+    "budget_chars": 4800,
+    "max_searches": 5,
+    "pack_mode": "score_dedup",
+    "allow_filter_inference": true,
+    "enable_multi_tool": true,
+    "corpus_mode": "bonus",
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "temperature": 0.0
+  },
+  "total_questions": 18,
+  "total_passed": 18,
+  "overall_pass_rate_pct": 100.0,
+  "meets_90pct_threshold": true,
+  "by_category": {
+    "table": {
+      "label_vi": "Bảng",
+      "passed": 3,
+      "total": 3,
+      "rate_pct": 100.0,
+      "notes": []
+    },
+    "image_diagram": {
+      "label_vi": "Ảnh, sơ đồ",
+      "passed": 3,
+      "total": 3,
+      "rate_pct": 100.0,
+      "notes": []
+    },
+    "chart": {
+      "label_vi": "Biểu đồ",
+      "passed": 3,
+      "total": 3,
+      "rate_pct": 100.0,
+      "notes": []
+    },
+    "multi_hop": {
+      "label_vi": "Multi-hop",
+      "passed": 3,
+      "total": 3,
+      "rate_pct": 100.0,
+      "notes": []
+    },
+    "text": {
+      "label_vi": "Text",
+      "passed": 3,
+      "total": 3,
+      "rate_pct": 100.0,
+      "notes": []
+    },
+    "unanswerable": {
+      "label_vi": "Thiếu bằng chứng",
+      "passed": 3,
+      "total": 3,
+      "rate_pct": 100.0,
+      "notes": []
+    }
+  },
+  "citation_validity": {
+    "valid": 26,
+    "total": 26,
+    "rate": 1.0
+  },
+  "runtime": {
+    "total_latency_s": 76.33,
+    "mean_latency_s": 4.24,
+    "total_searches": 35,
+    "mean_searches": 1.94,
+    "total_api_calls": 43,
+    "prompt_tokens": 127839,
+    "completion_tokens": 5158,
+    "total_tokens": 135135,
+    "total_cost_usd": 0.0,
+    "provider_errors": 0
+  }
+}

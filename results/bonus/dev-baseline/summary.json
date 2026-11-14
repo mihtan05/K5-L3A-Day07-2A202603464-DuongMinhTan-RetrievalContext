@@ -1,0 +1,92 @@
+{
+  "split": "dev",
+  "config": {
+    "name": "baseline",
+    "retrieval_method": "dense",
+    "top_k": 3,
+    "budget_chars": 1600,
+    "max_searches": 2,
+    "pack_mode": "fifo",
+    "allow_filter_inference": false,
+    "enable_multi_tool": false,
+    "corpus_mode": "bonus",
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "temperature": 0.0
+  },
+  "total_questions": 18,
+  "total_passed": 11,
+  "overall_pass_rate_pct": 61.11,
+  "meets_90pct_threshold": false,
+  "by_category": {
+    "table": {
+      "label_vi": "Bảng",
+      "passed": 3,
+      "total": 3,
+      "rate_pct": 100.0,
+      "notes": []
+    },
+    "image_diagram": {
+      "label_vi": "Ảnh, sơ đồ",
+      "passed": 3,
+      "total": 3,
+      "rate_pct": 100.0,
+      "notes": []
+    },
+    "chart": {
+      "label_vi": "Biểu đồ",
+      "passed": 2,
+      "total": 3,
+      "rate_pct": 66.67,
+      "notes": [
+        "bd_q09: Không đạt (từ chối nhầm): Lượt search 2 đã tìm ra fig_32 (rank 1) nhưng FIFO budget 1600 ký tự chỉ giữ fig_33 và p020__t00, làm rơi fig_32 nên agent abstain."
+      ]
+    },
+    "multi_hop": {
+      "label_vi": "Multi-hop",
+      "passed": 0,
+      "total": 3,
+      "rate_pct": 0.0,
+      "notes": [
+        "bd_q10: Không đạt (thiếu ý): Nêu đúng Chanh Duong 2 từ table_10 nhưng table_09 (rank 3) bị FIFO budget 1600 cắt bỏ nên thiếu tọa độ Latitude 20.641278, Longitude 106.566986.",
+        "bd_q11: Không đạt (thiếu ý): Chỉ trả lời được hạng #1 theo trọng lượng (Organic waste 1,500 g, 58%) từ fig_31; table_14 bị FIFO budget 1600 cắt mất nên thiếu hạng #1 theo số lượng (Packages and other wrapper: 50 pcs / 41.32%).",
+        "bd_q12: Không đạt (thiếu số liệu Table 15): Chỉ nêu được 2 nhóm loại bỏ #6 và #9 từ table_16 và lý do quá đa dạng, nhưng thiếu tỷ lệ % của từng nhóm trong Table 15 (6.1% và 3.2%)."
+      ]
+    },
+    "text": {
+      "label_vi": "Text",
+      "passed": 0,
+      "total": 3,
+      "rate_pct": 0.0,
+      "notes": [
+        "bd_q13: Không đạt (từ chối nhầm): Search 2 lượt trong baseline dense + FIFO budget 1600 ký tự không pack được chunk trang 26 chứa số liệu 2.8–3.1 million tons trên đất liền và tỷ lệ thu gom đô thị/nông thôn (10–15% / 45–60%), dẫn đến abstain.",
+        "bd_q14: Không đạt (từ chối nhầm): Đã truy xuất trúng p032__t01 và p034__t00 ở lượt 2 nhưng FIFO budget 1600 cắt mất cả hai chunk này sau p106__t00 và p031__t04.",
+        "bd_q15: Không đạt (từ chối nhầm): Search 2 lượt trong baseline dense + FIFO budget 1600 ký tự không pack được p042__t00 (Waste Brand Audit: 1,184/24,461 mẫu thuộc 266 nhãn hiệu, top 21 chiếm 56%), dẫn đến abstain."
+      ]
+    },
+    "unanswerable": {
+      "label_vi": "Thiếu bằng chứng",
+      "passed": 3,
+      "total": 3,
+      "rate_pct": 100.0,
+      "notes": []
+    }
+  },
+  "citation_validity": {
+    "valid": 12,
+    "total": 12,
+    "rate": 1.0
+  },
+  "runtime": {
+    "total_latency_s": 440.02,
+    "mean_latency_s": 24.45,
+    "total_searches": 25,
+    "mean_searches": 1.39,
+    "total_api_calls": 63,
+    "prompt_tokens": 70910,
+    "completion_tokens": 3951,
+    "total_tokens": 74861,
+    "total_cost_usd": 0.002018,
+    "provider_errors": 0
+  }
+}

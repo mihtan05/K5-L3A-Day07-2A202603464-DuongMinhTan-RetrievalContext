@@ -1,0 +1,1537 @@
+[
+  {
+    "query_id": "bd_q01",
+    "status": "answered",
+    "answer": "According to Table 4, a \"Moderate\" grade for the Clean-Coast Index (CCI) corresponds to a numeric index range of 5–10 and is described as \"A few pieces of waste were detected.\" A \"Dirty\" grade has a numeric index range of 10–20 and is described as \"A lot of waste on shore/at sites.\" The coefficient k used in the CCI calculation is 20. [BONUS__wb_vn_plastic_2022__p034__table_04]",
+    "citations": [
+      "BONUS__wb_vn_plastic_2022__p034__table_04"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Table 4 Clean-Coast Index (CCI) numeric index range and description for 'Moderate' and 'Dirty' beaches, and coefficient k value",
+        "filter": null,
+        "latency_s": 0.2419,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p034__table_04",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 34,
+            "score": 0.813152,
+            "text": "[TABLE 4 | Page 34 | Section 2.1.2.4] Table 4: Clean-Coast Index (CCI = Density of plastic items per m2 * k, where coefficient k = 20).\n| CCI Grade | Description | Numeric Index Range |\n| Very clean | No waste was seen | 0–2 |\n| Clean | No waste was seen over a large area | 2–5 |\n| Moderate | A few pieces of waste were detected | 5–10 |\n| Dirty | A lot of waste on shore/at sites | 10–20 |\n| Extremely dirty | Most of the beach/site was covered with waste | 20+ |\nUnit definition on Page 34: For river sites, 1 unit = 1 m2 x 0.3 m depth (1 m length x 1 m width x 0.3 m depth). For coastal sites, 1 unit = 1 m2 (1 m long x 1 m wide)."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p034__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 34,
+            "score": 0.766302,
+            "text": "[Page 34 | 2.1 Plastic Field Surveys  | 33] In addition, the Clean-Coast index (CCI) developed\nby Alkalay, Pasternak, and Zask (2007) was used as a\ntool for the relative evaluation of coastal cleanliness. The calculation used for the CCI is presented in the\nfollowing equation:\nWhere the coefficient k = 20, to simplify the presentation\nof data for communicating with the public, results for\nthe appearance of waste at coastal sites were graded\nas shown in Table 4."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p052__table_06",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 52,
+            "score": 0.705011,
+            "text": "[TABLE 6 | Page 52 | Section 2.1.3.4] Table 6: Clean-Coast Index (CCI) at the 14 Coastal Sites.\n| No | Location | Site Name | Density (item/m2) | Weight (g/m2) | CCI | Rating |\n| 1 | Hai Phong | Do Son | 0.46 | 4.61 | 9.28 | Moderate |\n| 2 | Hai Phong | Cat Hai | 4.30 | 17.6 | 85.9 | Extremely Dirty |\n| 3 | Thua Thien Hue | Thuan An | 2.66 | 14.3 | 53.3 | Extremely Dirty |\n| 4 | Da Nang | Bien Dong | 0.91 | 2.09 | 18.2 | Dirty |\n| 5 | Da Nang | Nam O | 0.89 | 6.86 | 17.7 | Dirty |\n| 6 | Quang Nam | Rang | 5.23 | 34.2 | 104.5 | Extremely Dirty |\n| 7 | Nha Trang (Khanh Hoa) | Vinh Nguyen | 1.63 | 9.33 | 32.6 | Extremely Dirty |\n| 8 | Nha Trang (Khanh Hoa) | My Ca | 1.54 | 8.95 | 30.8 | Extremely Dirty |\n| 9 | Nha Trang (Khanh Hoa) | Binh Lap | 18.9 | 76.7 | 379.8 | Extremely Dirty |\n| 10 | Ho Chi Minh | 30/4 (April 30) | 3.74 | 25.1 | 74.9 | Extremely Dirty |\n| 11 | Soc Trang | Lai Hoa | 3.43 | 22.8 | 68.5 | Extremely Dirty |\n| 12 | Soc Trang | Ho Be | 0.39 | 3.63 | 7.80 | Moderate |\n| 13 | Phu Quoc | Bai Sao | 1.32 | 9.69 | 26.4 | Extremely Dirty |\n| 14 | Phu Quoc | Bai Truong | 2.57 | 13.7 | 51.3 | Extremely Dirty |\nSummary: Out of 14 coastal sites, 10 sites (71.4%) were 'Extremely Dirty' (CCI > 20), 2 sites (14.3%: Bien Dong 18.2 and Nam O 17.7 in Da Nang) were 'Dirty' (CCI 10–20), and 2 sites (14.3%: Do Son 9.28 in Hai Phong and Ho Be 7.80 in Soc Trang) were 'Moderate' (CCI 5–10). Highest CCI: Binh Lap (379.8, density 18.9 items/m2, weight 76.7 g/m2). Lowest CCI: Ho Be (7.80, density 0.39 items/m2, weight 3.63 g/m2)."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p034__table_04] (source: wb_vn_plastic_2022, page 34)\n[TABLE 4 | Page 34 | Section 2.1.2.4] Table 4: Clean-Coast Index (CCI = Density of plastic items per m2 * k, where coefficient k = 20).\n| CCI Grade | Description | Numeric Index Range |\n| Very clean | No waste was seen | 0–2 |\n| Clean | No waste was seen over a large area | 2–5 |\n| Moderate | A few pieces of waste were detected | 5–10 |\n| Dirty | A lot of waste on shore/at sites | 10–20 |\n| Extremely dirty | Most of the beach/site was covered with waste | 20+ |\nUnit definition on Page 34: For river sites, 1 unit = 1 m2 x 0.3 m depth (1 m length x 1 m width x 0.3 m depth). For coastal sites, 1 unit = 1 m2 (1 m long x 1 m wide).\n\n[BONUS__wb_vn_plastic_2022__p034__t01] (source: wb_vn_plastic_2022, page 34)\n[Page 34 | 2.1 Plastic Field Surveys  | 33] In addition, the Clean-Coast index (CCI) developed\nby Alkalay, Pasternak, and Zask (2007) was used as a\ntool for the relative evaluation of coastal cleanliness. The calculation used for the CCI is presented in the\nfollowing equation:\nWhere the coefficient k = 20, to simplify the presentation\nof data for communicating with the public, results for\nthe appearance of waste at coastal sites were graded\nas shown in Table 4.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p034__table_04",
+          "BONUS__wb_vn_plastic_2022__p034__t01"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p052__table_06"
+        ],
+        "context_chars": 1260
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p034__table_04] (source: wb_vn_plastic_2022, page 34)\n[TABLE 4 | Page 34 | Section 2.1.2.4] Table 4: Clean-Coast Index (CCI = Density of plastic items per m2 * k, where coefficient k = 20).\n| CCI Grade | Description | Numeric Index Range |\n| Very clean | No waste was seen | 0–2 |\n| Clean | No waste was seen over a large area | 2–5 |\n| Moderate | A few pieces of waste were detected | 5–10 |\n| Dirty | A lot of waste on shore/at sites | 10–20 |\n| Extremely dirty | Most of the beach/site was covered with waste | 20+ |\nUnit definition on Page 34: For river sites, 1 unit = 1 m2 x 0.3 m depth (1 m length x 1 m width x 0.3 m depth). For coastal sites, 1 unit = 1 m2 (1 m long x 1 m wide).\n\n[BONUS__wb_vn_plastic_2022__p034__t01] (source: wb_vn_plastic_2022, page 34)\n[Page 34 | 2.1 Plastic Field Surveys  | 33] In addition, the Clean-Coast index (CCI) developed\nby Alkalay, Pasternak, and Zask (2007) was used as a\ntool for the relative evaluation of coastal cleanliness. The calculation used for the CCI is presented in the\nfollowing equation:\nWhere the coefficient k = 20, to simplify the presentation\nof data for communicating with the public, results for\nthe appearance of waste at coastal sites were graded\nas shown in Table 4.",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p034__table_04",
+      "BONUS__wb_vn_plastic_2022__p034__t01"
+    ],
+    "num_searches": 1,
+    "api_calls": 3,
+    "latency_s": 3.3932,
+    "usage": {
+      "prompt_tokens": 3459,
+      "completion_tokens": 198,
+      "total_tokens": 3657
+    },
+    "cost_usd": 0.0
+  },
+  {
+    "query_id": "bd_q02",
+    "status": "answered",
+    "answer": "In Table 8, Hai Phong City has a waste collection rate of 90% and 6-8 waste treatment facilities. Lao Cai/Sapa has a waste collection rate of 85% and one waste treatment facility. Hai Duong Province has a waste collection rate of 80-85% and two waste treatment facilities. [BONUS__wb_vn_plastic_2022__p057__t00]",
+    "citations": [
+      "BONUS__wb_vn_plastic_2022__p057__t00"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Table 8 waste collection rates and number of waste treatment facilities for Hai Phong City, Lao Cai/Sapa, and Hai Duong Province",
+        "filter": null,
+        "latency_s": 0.3192,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p057__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 57,
+            "score": 0.737627,
+            "text": "[Page 57 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 57] 2.2 Integrated Plastics Transport River Monitoringand Analysis | 57 Table 8: LOCATION AND SITE SELECTION CRITERIA AND INFORMATION ON SELECTED STUDY LOCATIONS 1 2 3 Criteria Hai Phong City Lao Cai/Sapa Hai Duong Province Population level People impacted from good/bad waste management, including plastic pollution (city’s population number) 2 million people Lao Cai city—25% of province’s population (173,840) About 2 million people Environmental impact Near river/coast, urban and upstream, impacting ocean plastic pollution Urban, coastal, river location Urban, river upstream Urban, river location Waste treatment facilities 6–8 treatment facilities (one new); landfills One treatment facility; landfills Two treatment facilities; landfills Waste collection rate 90% 85% 80–85% Critical ecosystem protection proximity Biosphere Reserve (Cat Ba Island) Hoàng Liên National Park x Potential for"
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p057__table_08",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 57,
+            "score": 0.721857,
+            "text": "[TABLE 8 | Page 57 | Section 2.2.2] Table 8: Location and Site Selection Criteria for Remote Sensing & River Transport Study.\n| Criteria | 1. Hai Phong City | 2. Lao Cai / Sapa | 3. Hai Duong Province |\n| Population level (impacted population) | 2 million people | Lao Cai city — 25% of province's population (173,840) | About 2 million people |\n| Environmental impact (location type) | Urban, coastal, river location | Urban, river upstream | Urban, river location |\n| Waste treatment facilities | 6–8 treatment facilities (one new); landfills | One treatment facility; landfills | Two treatment facilities; landfills |\n| Waste collection rate | 90% | 85% | 80–85% |\n| Critical ecosystem protection proximity | Biosphere Reserve (Cat Ba Island) | Hoang Lien National Park | x (None listed) |\n| Potential for blocking waterways / flooding / health impacts | High impact potential | High impact potential | High impact potential |\n| Economic impact: Tourism share | Significant tourism, including adjacent Cat Ba Island | Significant rural and community tourism | High priority heritage tourism site |\n| Economic impact: Fisheries & aquaculture revenue | Medium fisheries and coastal aquaculture impact | Low fisheries and aquaculture impacts | Low fisheries and aquaculture impacts |"
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p073__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 73,
+            "score": 0.707838,
+            "text": "[Page 73 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 73] The net trawl pilot carried out at Chanh\nDuong 2 bridge, in Hai Phuong, revealed the most\nabundant plastic items in the total waste collected. These were food packages and other wrappers (41.32\npercent), plastic bags (30.58 percent), other plastic\n(18.18 percent), single-use cups/utensils (3.31 percent),\nbottle caps (2.48 percent) and straws (accounting for\n1.65 percent). The results of the study for the different\nwaste type compositions in the cities of Hai Duong,\nSapa, and Hai Phong were noteworthy. In Hai Duong\nthere was more polystyrene food packaging, and in\nHai Phong and Sapa there were comparatively more\nLDPE plastic bags. This may indicate that Hai Duong\nis likely a plastics source site type, and the shores of\nHai Phong are more likely an aggregation site type,\nwhere plastic waste was not dumped, directly."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p057__t00] (source: wb_vn_plastic_2022, page 57)\n[Page 57 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 57] 2.2 Integrated Plastics Transport River Monitoringand Analysis | 57 Table 8: LOCATION AND SITE SELECTION CRITERIA AND INFORMATION ON SELECTED STUDY LOCATIONS 1 2 3 Criteria Hai Phong City Lao Cai/Sapa Hai Duong Province Population level People impacted from good/bad waste management, including plastic pollution (city’s population number) 2 million people Lao Cai city—25% of province’s population (173,840) About 2 million people Environmental impact Near river/coast, urban and upstream, impacting ocean plastic pollution Urban, coastal, river location Urban, river upstream Urban, river location Waste treatment facilities 6–8 treatment facilities (one new); landfills One treatment facility; landfills Two treatment facilities; landfills Waste collection rate 90% 85% 80–85% Critical ecosystem protection proximity Biosphere Reserve (Cat Ba Island) Hoàng Liên National Park x Potential for",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p057__t00"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p057__table_08",
+          "BONUS__wb_vn_plastic_2022__p073__t01"
+        ],
+        "context_chars": 1053
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p057__t00] (source: wb_vn_plastic_2022, page 57)\n[Page 57 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 57] 2.2 Integrated Plastics Transport River Monitoringand Analysis | 57 Table 8: LOCATION AND SITE SELECTION CRITERIA AND INFORMATION ON SELECTED STUDY LOCATIONS 1 2 3 Criteria Hai Phong City Lao Cai/Sapa Hai Duong Province Population level People impacted from good/bad waste management, including plastic pollution (city’s population number) 2 million people Lao Cai city—25% of province’s population (173,840) About 2 million people Environmental impact Near river/coast, urban and upstream, impacting ocean plastic pollution Urban, coastal, river location Urban, river upstream Urban, river location Waste treatment facilities 6–8 treatment facilities (one new); landfills One treatment facility; landfills Two treatment facilities; landfills Waste collection rate 90% 85% 80–85% Critical ecosystem protection proximity Biosphere Reserve (Cat Ba Island) Hoàng Liên National Park x Potential for",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p057__t00"
+    ],
+    "num_searches": 1,
+    "api_calls": 3,
+    "latency_s": 2.8908,
+    "usage": {
+      "prompt_tokens": 3047,
+      "completion_tokens": 176,
+      "total_tokens": 3223
+    },
+    "cost_usd": 0.0
+  },
+  {
+    "query_id": "bd_q03",
+    "status": "answered",
+    "answer": "According to Table 19, 16,800 tons of Styrofoam floats for floating cages/rafts are sold per year in Vietnam, with an average wholesale cost of 380,000–550,000 VND/unit and a lifespan of 1–2 years. In comparison, composite/HDPE floats for cages have annual sales of 1,500 tons, a wholesale cost of 900,000–1,450,000 VND/unit, and a lifespan of 10–15 years. [BONUS__wb_vn_plastic_2022__p085__table_19]",
+    "citations": [
+      "BONUS__wb_vn_plastic_2022__p085__table_19"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Table 19 Styrofoam floats for floating cages/rafts sales, wholesale cost, lifespan, and comparison to composite/HDPE floats",
+        "filter": null,
+        "latency_s": 0.2406,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p085__table_19",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 85,
+            "score": 0.783785,
+            "text": "[TABLE 19 | Page 85 | Section 2.3.3] Table 19: Various Foam Floats and Alternatives – Units Sold and Wholesale Costs.\n- Styrofoam floats for fishing nets: 1,452 tons/year | 500–100,000 VND/unit (lasts 2–3 years) vs. Hard-plastic (HDPE) floats: 5,220 tons/year | 2,000–200,000 VND/unit (lasts 5–10 years).\n- Styrofoam floats for floating cages/rafts (aquaculture): 16,800 tons/year | 380,000–550,000 VND/unit (lasts 1–2 years) vs. Composite/HDPE floats for cages: 1,500 tons/year | 900,000–1,450,000 VND/unit (lasts 10–15 years), Metal drums: 200,000–350,000 VND/unit (lasts 1–2 years), and Bamboo rafts: 70,000–100,000 VND/tree (lasts 1–2 years)."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p085__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 85,
+            "score": 0.707734,
+            "text": "[Page 85 | 2.3 Analysis of Alternatives  | 85] 2.3 Analysis of Alternatives | 85 Table 19: VARIOUS FOAM FLOATS AND ALTERNATIVES – UNITS SOLD AND WHOLESALE COSTS Foam Float Type Units sold per year (estimate) Avg. wholesale cost per unit Alternative Product Types Units sold per year (estimate) Avg. wholesale cost per unit Porous floating fish cage 8,334 tons 350,000 VND/ pcs (durability of 2–3 years) Line X coating float (paint 0.5–0.6 mm thick) 1,300,000 VND/pcs (in piloting, durability of 10 years) Drum float 160 lit–220 lit 800,000– 1,200,000 VND/pcs (durability of 3–5 years) EPS foam float Size 8–15cm 406 tons 8,700–9,000 VND/unit (durability of 1 year) Wooden float 10–14cm 25,000–40,000 VND/pcs (durability of 3–5 years) Small fishing float Weight: 5g Material: foam Size: 1.8cm x 0.4cm 860–1,500 VND/pcs (for single-use) Wooden float Size: 0.8 cm; Length: 6.6 cm 3,000–6,000 VND/pcs (durability of 1 year) PVC fishing float/pool"
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p086__table_20",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 86,
+            "score": 0.685482,
+            "text": "[TABLE 20 | Pages 86-87 | Section 2.3.3] Table 20: Styrofoam Trays/Food Boxes and Alternatives – Units Sold and Wholesale Costs.\n- Styrofoam trays (for fresh food packaging): 25,650 tons/year (approx. 5,700 million pcs) | 180–450 VND/unit.\n  * Alternatives to trays: Compostable tray (PLA/PBAT): 2,200 VND/unit (single-use); Bagasse (sugarcane) tray: 1,200–2,200 VND/unit (single-use); Kraft paper tray: 1,206 million pcs/year | 2,800 VND/unit (single-use).\n- Foam food boxes (for take-away meals): 38,000 tons/year | 473–546 VND/unit (standard) up to 2,760 VND/unit.\n  * Alternatives to foam food boxes: Paper rice box: 5,700–6,900 VND/unit (single-use); Glass box: 99,000–180,000 VND/unit (reusable); Aluminum box: 5,000 VND/unit (single-use); Bagasse rice box: 2,300–5,500 VND/unit (single-use)."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p085__table_19] (source: wb_vn_plastic_2022, page 85)\n[TABLE 19 | Page 85 | Section 2.3.3] Table 19: Various Foam Floats and Alternatives – Units Sold and Wholesale Costs.\n- Styrofoam floats for fishing nets: 1,452 tons/year | 500–100,000 VND/unit (lasts 2–3 years) vs. Hard-plastic (HDPE) floats: 5,220 tons/year | 2,000–200,000 VND/unit (lasts 5–10 years).\n- Styrofoam floats for floating cages/rafts (aquaculture): 16,800 tons/year | 380,000–550,000 VND/unit (lasts 1–2 years) vs. Composite/HDPE floats for cages: 1,500 tons/year | 900,000–1,450,000 VND/unit (lasts 10–15 years), Metal drums: 200,000–350,000 VND/unit (lasts 1–2 years), and Bamboo rafts: 70,000–100,000 VND/tree (lasts 1–2 years).",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p085__table_19"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p085__t00",
+          "BONUS__wb_vn_plastic_2022__p086__table_20"
+        ],
+        "context_chars": 728
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p085__table_19] (source: wb_vn_plastic_2022, page 85)\n[TABLE 19 | Page 85 | Section 2.3.3] Table 19: Various Foam Floats and Alternatives – Units Sold and Wholesale Costs.\n- Styrofoam floats for fishing nets: 1,452 tons/year | 500–100,000 VND/unit (lasts 2–3 years) vs. Hard-plastic (HDPE) floats: 5,220 tons/year | 2,000–200,000 VND/unit (lasts 5–10 years).\n- Styrofoam floats for floating cages/rafts (aquaculture): 16,800 tons/year | 380,000–550,000 VND/unit (lasts 1–2 years) vs. Composite/HDPE floats for cages: 1,500 tons/year | 900,000–1,450,000 VND/unit (lasts 10–15 years), Metal drums: 200,000–350,000 VND/unit (lasts 1–2 years), and Bamboo rafts: 70,000–100,000 VND/tree (lasts 1–2 years).",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p085__table_19"
+    ],
+    "num_searches": 1,
+    "api_calls": 3,
+    "latency_s": 2.9403,
+    "usage": {
+      "prompt_tokens": 3239,
+      "completion_tokens": 232,
+      "total_tokens": 3471
+    },
+    "cost_usd": 0.0
+  },
+  {
+    "query_id": "bd_q04",
+    "status": "answered",
+    "answer": "The aerial drone photographs in Figure 27 under the 'Hai Duong' column show pollution hotspot sites at 'Hai Duong, Thach Khoi 1, site 1' and 'Hai Duong, Thach Khoi 1, site 2'. Under the 'Hai Phong' column, the sites shown are 'Chanh Duong 01 (6m), Site 1' and 'Chanh Duong 02 (6m), site 2' [BONUS__wb_vn_plastic_2022__p066__fig_27]. The question also references Figure 1, which contains identical scene sets to Figure 27 [BONUS__wb_vn_plastic_2022__p066__fig_27].",
+    "citations": [
+      "BONUS__wb_vn_plastic_2022__p066__fig_27"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Figure 1 and Figure 27 aerial drone photographs Hai Duong and Hai Phong pollution hotspot sites",
+        "filter": null,
+        "latency_s": 0.2076,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p066__fig_27",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 66,
+            "score": 0.849014,
+            "text": "[FIGURE 27 | image_diagram | Page 66 | Section 2.2.4.1] Figure 27: Pictures of Pollution Hotspots in Hai Duong and Hai Phong.\nVisual Layout: 2x2 grid of low-altitude (6m) UAV hotspot photos (identical scene set to Figure 1): Left column 'Hai Duong' ('Hai Duong, Thach Khoi 1, site 1' top; 'Hai Duong, Thach Khoi 1, site 2' bottom) showing massive white styrofoam/plastic bank accumulations (5,507 items across 45 m2); Right column 'Hai Phong' ('Chanh Duong 01 (6m), Site 1' top; 'Chanh Duong 02 (6m), site 2' bottom) showing plastic debris trapped in floating water hyacinth."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p020__fig_01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 20,
+            "score": 0.794485,
+            "text": "[FIGURE 1 | image_diagram | Page 20 | Executive Summary] Figure 1: Examples of hotspots investigated through drone surveys.\nVisual Layout: A 2x2 grid of low-altitude (6m height) UAV aerial photographs organized into two labeled columns:\n- Left column header: 'Hai Duong':\n  * Top-left photo label: 'Hai Duong, Thach Khoi 1, site 1' — shows a dense white accumulation of styrofoam boxes, plastic bags, and debris covering the riverbank next to a corrugated roof building with blue lettering 'SIEU THI NOI THAT'.\n  * Bottom-left photo label: 'Hai Duong, Thach Khoi 1, site 2' — shows heavy white plastic and styrofoam litter trapped along the muddy riverbank edge and vegetation.\n- Right column header: 'Hai Phong':\n  * Top-right photo label: 'Chanh Duong 01 (6m), Site 1' — shows floating plastic items entangled in green water hyacinth / aquatic vegetation in the river channel.\n  * Bottom-right photo label: 'Chanh Duong 02 (6m), site 2' — shows scattered plastic bags and styrofoam trapped in green riverside reeds and water hyacinth."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p065__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 65,
+            "score": 0.755127,
+            "text": "[Page 65 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 65] 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 65\n2.2.4.1 Results of the Drone Surveys\nWaste Quantities\nThe high-altitude imagery enabled analysis of a total\nof nine pollution hotspots across four survey sites with\nlow altitude high-resolution imagery. The two most polluted hotspots were the Thach Khoi\n1 site, Hai Duong, which had large accumulations\nof plastic waste in the tributary. Over 5,000 waste\nitems were found in two pollution hotspots with an\nestimated combined covered waste area of 45m². The tributary sites in Hai Phong and Sapa both\ncontained rather low amounts of plastic waste. In\nthe five assessed pollution hotspots of Hai Phong, the\ndrone monitoring detected and assessed around 700\nitems."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p066__fig_27] (source: wb_vn_plastic_2022, page 66)\n[FIGURE 27 | image_diagram | Page 66 | Section 2.2.4.1] Figure 27: Pictures of Pollution Hotspots in Hai Duong and Hai Phong.\nVisual Layout: 2x2 grid of low-altitude (6m) UAV hotspot photos (identical scene set to Figure 1): Left column 'Hai Duong' ('Hai Duong, Thach Khoi 1, site 1' top; 'Hai Duong, Thach Khoi 1, site 2' bottom) showing massive white styrofoam/plastic bank accumulations (5,507 items across 45 m2); Right column 'Hai Phong' ('Chanh Duong 01 (6m), Site 1' top; 'Chanh Duong 02 (6m), site 2' bottom) showing plastic debris trapped in floating water hyacinth.\n\n[BONUS__wb_vn_plastic_2022__p065__t00] (source: wb_vn_plastic_2022, page 65)\n[Page 65 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 65] 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 65\n2.2.4.1 Results of the Drone Surveys\nWaste Quantities\nThe high-altitude imagery enabled analysis of a total\nof nine pollution hotspots across four survey sites with\nlow altitude high-resolution imagery. The two most polluted hotspots were the Thach Khoi\n1 site, Hai Duong, which had large accumulations\nof plastic waste in the tributary. Over 5,000 waste\nitems were found in two pollution hotspots with an\nestimated combined covered waste area of 45m². The tributary sites in Hai Phong and Sapa both\ncontained rather low amounts of plastic waste. In\nthe five assessed pollution hotspots of Hai Phong, the\ndrone monitoring detected and assessed around 700\nitems.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p066__fig_27",
+          "BONUS__wb_vn_plastic_2022__p065__t00"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p020__fig_01"
+        ],
+        "context_chars": 1547
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p066__fig_27] (source: wb_vn_plastic_2022, page 66)\n[FIGURE 27 | image_diagram | Page 66 | Section 2.2.4.1] Figure 27: Pictures of Pollution Hotspots in Hai Duong and Hai Phong.\nVisual Layout: 2x2 grid of low-altitude (6m) UAV hotspot photos (identical scene set to Figure 1): Left column 'Hai Duong' ('Hai Duong, Thach Khoi 1, site 1' top; 'Hai Duong, Thach Khoi 1, site 2' bottom) showing massive white styrofoam/plastic bank accumulations (5,507 items across 45 m2); Right column 'Hai Phong' ('Chanh Duong 01 (6m), Site 1' top; 'Chanh Duong 02 (6m), site 2' bottom) showing plastic debris trapped in floating water hyacinth.\n\n[BONUS__wb_vn_plastic_2022__p065__t00] (source: wb_vn_plastic_2022, page 65)\n[Page 65 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 65] 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 65\n2.2.4.1 Results of the Drone Surveys\nWaste Quantities\nThe high-altitude imagery enabled analysis of a total\nof nine pollution hotspots across four survey sites with\nlow altitude high-resolution imagery. The two most polluted hotspots were the Thach Khoi\n1 site, Hai Duong, which had large accumulations\nof plastic waste in the tributary. Over 5,000 waste\nitems were found in two pollution hotspots with an\nestimated combined covered waste area of 45m². The tributary sites in Hai Phong and Sapa both\ncontained rather low amounts of plastic waste. In\nthe five assessed pollution hotspots of Hai Phong, the\ndrone monitoring detected and assessed around 700\nitems.",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p066__fig_27",
+      "BONUS__wb_vn_plastic_2022__p065__t00"
+    ],
+    "num_searches": 1,
+    "api_calls": 3,
+    "latency_s": 3.6234,
+    "usage": {
+      "prompt_tokens": 3512,
+      "completion_tokens": 412,
+      "total_tokens": 3924
+    },
+    "cost_usd": 0.0
+  },
+  {
+    "query_id": "bd_q05",
+    "status": "answered",
+    "answer": "Figure 25 depicts three field data collection devices: a stationary GoPro bridge camera, a quadcopter UAV (drone), and a metal net-sampling frame with blue trawl nets. [BONUS__wb_vn_plastic_2022__p062__fig_25]",
+    "citations": [
+      "BONUS__wb_vn_plastic_2022__p062__fig_25"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Figure 25 depicts three field data collection devices side-by-side",
+        "filter": null,
+        "latency_s": 0.2494,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p062__fig_25",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 62,
+            "score": 0.638158,
+            "text": "[FIGURE 25 | image_diagram | Page 62 | Section 2.2.3.1] Figure 25: Data Collection Devices Utilized in the Field Work.\nVisual Layout: Three side-by-side field photographs illustrating the three complementary monitoring technologies:\n- Left photo: Stationary GoPro bridge camera mounted on an extension pole clamped to a rusty bridge railing, being configured via smartphone app by a field engineer.\n- Center photo: White quadcopter UAV (drone, DJI Phantom series) flying over a vegetated riverbank wall to capture aerial orthomosaics.\n- Right photo: Metal net-sampling frame with blue trawl nets deployed vertically into the river water column beneath a concrete bridge."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p104__table_23",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 104,
+            "score": 0.547966,
+            "text": "[TABLE 23 | Pages 104-105 | Annex 2.1.A] Table 23: Field Survey Data Sheet Template.\nHeader fields: Survey site name, ID transect, Time (Start/End), Date (dd/mm/yy), Length of transect (m), Width of transect (m).\nCategories recorded by Number and Weight:\n- P (PLASTIC): 1. Hard plastic fragments; 2. Soft plastic fragments; 3. Film plastic fragments; 4. Crisp/Sweet packages; 5. Food wrappers; 6. Other wrappers; 7. Beverage bottles (PET) Size 1 (0–500 ml) & Size 2 (>500 ml); 8. Other Beverage bottles (HDPE); 9. Containers and bottles; 10. Cleaner and cosmetics bottles Size 1 (0–100 ml) & Size 2 (>100 ml); 11. Bottle caps (HDPE); 12. Cigar/Cigarette butts; 13. Plastic bags Size 1 (0–5 kg) & Size 2 (>5 kg); 14. Styrofoam food containers; 15. Single-use plastic products (Cups, Utensils - PET); 16. Single-use plastic products (Cups, Utensils - PP); 17. Straws; 18. Fertilizer bags or containers; 19. Plastic strings, cords and ropes; 20. Personal hygiene products; 21. Medical products; 22. Fishing gear 1 (plastic ropes, net pieces, lures, lines, hard floats); 23. Fishing gear 2 (Polystyrenes-ESP, buoys & floats); 24. Other plastic; 25. Lighters.\n- Non-plastic categories: M (METAL), G (GLASS), R (RUBBER), P (PAPER), C (CLOTH/FABRIC), O (MIXED WASTE), and L (Large Debris items >1 m or >0.3 m depth)."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p062__t03",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 62,
+            "score": 0.539831,
+            "text": "[Page 62 | 2.2.3 Key Methodologies and Limitations] Data collection in the field utilized i) cameras that\nwere installed at several cross sections along a given\nriver to record floating plastics, ii) unmanned aerial\nvehicles (UAVs) to capture floating and deposited\nplastics along the river and riverbanks, and iii) net\nsampling devices to capture plastic waste in the water\ncolumn and measure water flow rates and currents\n(see Figure 25). Figure 25:\nDATA COLLECTION DEVICES UTILIZED IN THE FIELD WORK"
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p062__fig_25] (source: wb_vn_plastic_2022, page 62)\n[FIGURE 25 | image_diagram | Page 62 | Section 2.2.3.1] Figure 25: Data Collection Devices Utilized in the Field Work.\nVisual Layout: Three side-by-side field photographs illustrating the three complementary monitoring technologies:\n- Left photo: Stationary GoPro bridge camera mounted on an extension pole clamped to a rusty bridge railing, being configured via smartphone app by a field engineer.\n- Center photo: White quadcopter UAV (drone, DJI Phantom series) flying over a vegetated riverbank wall to capture aerial orthomosaics.\n- Right photo: Metal net-sampling frame with blue trawl nets deployed vertically into the river water column beneath a concrete bridge.\n\n[BONUS__wb_vn_plastic_2022__p062__t03] (source: wb_vn_plastic_2022, page 62)\n[Page 62 | 2.2.3 Key Methodologies and Limitations] Data collection in the field utilized i) cameras that\nwere installed at several cross sections along a given\nriver to record floating plastics, ii) unmanned aerial\nvehicles (UAVs) to capture floating and deposited\nplastics along the river and riverbanks, and iii) net\nsampling devices to capture plastic waste in the water\ncolumn and measure water flow rates and currents\n(see Figure 25). Figure 25:\nDATA COLLECTION DEVICES UTILIZED IN THE FIELD WORK",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p062__fig_25",
+          "BONUS__wb_vn_plastic_2022__p062__t03"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p104__table_23"
+        ],
+        "context_chars": 1331
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p062__fig_25] (source: wb_vn_plastic_2022, page 62)\n[FIGURE 25 | image_diagram | Page 62 | Section 2.2.3.1] Figure 25: Data Collection Devices Utilized in the Field Work.\nVisual Layout: Three side-by-side field photographs illustrating the three complementary monitoring technologies:\n- Left photo: Stationary GoPro bridge camera mounted on an extension pole clamped to a rusty bridge railing, being configured via smartphone app by a field engineer.\n- Center photo: White quadcopter UAV (drone, DJI Phantom series) flying over a vegetated riverbank wall to capture aerial orthomosaics.\n- Right photo: Metal net-sampling frame with blue trawl nets deployed vertically into the river water column beneath a concrete bridge.\n\n[BONUS__wb_vn_plastic_2022__p062__t03] (source: wb_vn_plastic_2022, page 62)\n[Page 62 | 2.2.3 Key Methodologies and Limitations] Data collection in the field utilized i) cameras that\nwere installed at several cross sections along a given\nriver to record floating plastics, ii) unmanned aerial\nvehicles (UAVs) to capture floating and deposited\nplastics along the river and riverbanks, and iii) net\nsampling devices to capture plastic waste in the water\ncolumn and measure water flow rates and currents\n(see Figure 25). Figure 25:\nDATA COLLECTION DEVICES UTILIZED IN THE FIELD WORK",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p062__fig_25",
+      "BONUS__wb_vn_plastic_2022__p062__t03"
+    ],
+    "num_searches": 1,
+    "api_calls": 3,
+    "latency_s": 97.006,
+    "usage": {
+      "prompt_tokens": 3221,
+      "completion_tokens": 131,
+      "total_tokens": 3352
+    },
+    "cost_usd": 0.0
+  },
+  {
+    "query_id": "bd_q06",
+    "status": "answered",
+    "answer": "The steel pipe diameter is 48 mm, the macro-plastic net frame dimensions are 600x600 mm, and the total additional ballast weight attached to the threaded bars is 240 kg. [BONUS__wb_vn_plastic_2022__p125__fig_51]",
+    "citations": [
+      "BONUS__wb_vn_plastic_2022__p125__fig_51"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Figure 51 (Page 125) macro-plastic equipment carrier steel pipe diameter, net frame dimensions, and total additional ballast weight",
+        "filter": null,
+        "latency_s": 0.2229,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p125__fig_51",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 125,
+            "score": 0.79774,
+            "text": "[FIGURE 51 | image_diagram | Page 125 | Annex 2.2.B] Figure 51: Visualization of the construction plan of the equipment carrier (left); field test of the newly developed equipment carrier (right).\nVisual & Engineering Specifications:\n- Left image: 3D CAD rendering of the steel equipment carrier frame showing a 600x600 mm vertical rectangular front net frame connected by two lower cross-beams to a rear stabilizing fin, with 3 circular weight plates on each side.\n- Right image: Field test photo showing the carrier being crane-lifted out of a river with green mesh net and circular steel weights attached.\n- Accompanying specifications on Page 125: Frame consists of 48 mm steel pipes; macro-plastic net frame dimensions are 600x600 mm; non-welded bolted connections allow rapid disassembly; 12 threaded bars welded to frame each hold two ~10 kg weights = 240 kg additional ballast weight. Four mesh sizes were tested: 250 um (34% porosity, 2.5 m length), 500 um (38% porosity, 2.5 m length), 2.43 mm (44% porosity), and 8 mm (undefined porosity); the 2.43 mm mesh is recommended for macro-plastic sampling."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p125__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 125,
+            "score": 0.693848,
+            "text": "[Page 125 | Annex 2.2.B: Development of a Net Sampling Device Applicable for Vietnamese Rivers  | 125] Annex 2.2.B: Development of a Net Sampling Device Applicable for Vietnamese Rivers  | 125\nThe resulting device is depicted in Figure 51 as sketch\nand during a field test. The frame consists of 48 mm\nsteel pipes. Two cross beams connect the net frame at\nthe bottom. In the rear the frame is connected at the\nfin, giving stability in the water column. The dimensions\nof the used frame for the macro plastic measurement\nnet are 600x600 mm. Connections between the parts\n(e.g. net frame and cross beams) are not welded in\norder to be able to disassemble the device quickly. To attach the weights, 12 threaded bars are welded\nto the frame. Each bar can be attached with 2 weights\nof approximately 10 kg, so in total 240 kg additionally\nto the weight of the carrier itself."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p126__fig_52",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 126,
+            "score": 0.657952,
+            "text": "[FIGURE 52 | image_diagram | Page 126 | Annex 2.2.B] Figure 52: Assemblage of the macro plastic measurement device.\nVisual Layout (2x2 photo grid):\n- Top-left: Old assemblage suspended by crane (white fine-mesh nets with red bottom torpedo weights).\n- Top-right: Newly developed configuration suspended by crane (green coarse-mesh nets, 1.6 m middle stabilizing fin, and bottom carrier frame with 240 kg circular weights).\n- Bottom-left: Close-up of nets with inclination rack keeping the net opening upright.\n- Bottom-right: Uppermost surface net layer floating on the river surface supported by black buoyant bodies."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p125__fig_51] (source: wb_vn_plastic_2022, page 125)\n[FIGURE 51 | image_diagram | Page 125 | Annex 2.2.B] Figure 51: Visualization of the construction plan of the equipment carrier (left); field test of the newly developed equipment carrier (right).\nVisual & Engineering Specifications:\n- Left image: 3D CAD rendering of the steel equipment carrier frame showing a 600x600 mm vertical rectangular front net frame connected by two lower cross-beams to a rear stabilizing fin, with 3 circular weight plates on each side.\n- Right image: Field test photo showing the carrier being crane-lifted out of a river with green mesh net and circular steel weights attached.\n- Accompanying specifications on Page 125: Frame consists of 48 mm steel pipes; macro-plastic net frame dimensions are 600x600 mm; non-welded bolted connections allow rapid disassembly; 12 threaded bars welded to frame each hold two ~10 kg weights = 240 kg additional ballast weight. Four mesh sizes were tested: 250 um (34% porosity, 2.5 m length), 500 um (38% porosity, 2.5 m length), 2.43 mm (44% porosity), and 8 mm (undefined porosity); the 2.43 mm mesh is recommended for macro-plastic sampling.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p125__fig_51"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p125__t00",
+          "BONUS__wb_vn_plastic_2022__p126__fig_52"
+        ],
+        "context_chars": 1191
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p125__fig_51] (source: wb_vn_plastic_2022, page 125)\n[FIGURE 51 | image_diagram | Page 125 | Annex 2.2.B] Figure 51: Visualization of the construction plan of the equipment carrier (left); field test of the newly developed equipment carrier (right).\nVisual & Engineering Specifications:\n- Left image: 3D CAD rendering of the steel equipment carrier frame showing a 600x600 mm vertical rectangular front net frame connected by two lower cross-beams to a rear stabilizing fin, with 3 circular weight plates on each side.\n- Right image: Field test photo showing the carrier being crane-lifted out of a river with green mesh net and circular steel weights attached.\n- Accompanying specifications on Page 125: Frame consists of 48 mm steel pipes; macro-plastic net frame dimensions are 600x600 mm; non-welded bolted connections allow rapid disassembly; 12 threaded bars welded to frame each hold two ~10 kg weights = 240 kg additional ballast weight. Four mesh sizes were tested: 250 um (34% porosity, 2.5 m length), 500 um (38% porosity, 2.5 m length), 2.43 mm (44% porosity), and 8 mm (undefined porosity); the 2.43 mm mesh is recommended for macro-plastic sampling.",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p125__fig_51"
+    ],
+    "num_searches": 1,
+    "api_calls": 3,
+    "latency_s": 274.746,
+    "usage": {
+      "prompt_tokens": 3237,
+      "completion_tokens": 154,
+      "total_tokens": 3391
+    },
+    "cost_usd": 0.0
+  },
+  {
+    "query_id": "bd_q07",
+    "status": "answered",
+    "answer": "According to Figure 5, plastic constituted 93.6% of the total number of waste items on surveyed sites in Vietnam [BONUS__wb_vn_plastic_2022__p039__fig_05]. The 'Other' slice in this chart, representing 3.6% of the total items, was broken down into Mix waste (1.5%), Cloth/fabric (1.5%), and Paper/timber (0.6%) [BONUS__wb_vn_plastic_2022__p039__fig_05].\n\nFigure 6 indicates that plastic accounted for 70.7% of the total weight of waste on surveyed sites [BONUS__wb_vn_plastic_2022__p039__fig_06]. The 'Other' slice in this chart, representing 14.1% of the total weight, was broken down into Mix waste (6.6%), Cloth/fabric (5.1%), and Paper/timber (2.4%) [BONUS__wb_vn_plastic_2022__p039__fig_06].",
+    "citations": [
+      "BONUS__wb_vn_plastic_2022__p039__fig_05",
+      "BONUS__wb_vn_plastic_2022__p039__fig_06"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Figure 5 and Figure 6 pie-of-pie charts showing percentage of total waste by item count and weight, and breakdown of 'Other' slice",
+        "filter": null,
+        "latency_s": 0.253,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p039__fig_05",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 39,
+            "score": 0.776496,
+            "text": "[FIGURE 5 | chart | Page 39 | Section 2.1.3.2] Figure 5: Total Number of Waste Items (percentage) on Surveyed Sites in Vietnam (38 river + coastal sites combined, total 109,259 waste items).\nChart Type: Pie-of-pie chart.\n- Main Pie Slices: Plastic = 93.6% | Glass = 1.4% | Metal = 0.7% | Rubber = 0.6% | Other = 3.6%.\n- Secondary Breakout Pie (breaking down 'Other, 3.6%'): Mix waste = 1.5% | Cloth/fabric = 1.5% | Paper/timber = 0.6%."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p039__fig_06",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 39,
+            "score": 0.770015,
+            "text": "[FIGURE 6 | chart | Page 39 | Section 2.1.3.2] Figure 6: Total Weight of Waste (percentage) on Surveyed Sites in Vietnam 2020 (total 757.8 kg of waste).\nChart Type: Pie-of-pie chart.\n- Main Pie Slices: Plastic = 70.7% | Glass = 8.9% | Metal = 3.3% | Rubber = 3.0% | Other = 14.1%.\n- Secondary Breakout Pie (breaking down 'Other, 14.1%'): Mix waste = 6.6% | Cloth/fabric = 5.1% | Paper/timber = 2.4%."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p071__fig_30",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 71,
+            "score": 0.742243,
+            "text": "[FIGURE 30 | chart | Page 71 | Section 2.2.4.3] Figure 30: Waste Classification by Quantity from Net Sampling at Chanh Duong 2 (Pie chart of 121 plastic pieces).\nExact Pie Slice Shares:\n1. Packages and other wrapper: 41.32% (50 pieces)\n2. Plastic bag: 30.58% (37 pieces)\n3. Other plastic: 18.18% (22 pieces)\n4. Single use plastic product (cups, utensils): 3.31% (4 pieces)\n5. Beverage bottle: 2.48% (3 pieces)\n6. Bottle cap: 2.48% (3 pieces)\n7. Straws: 1.65% (2 pieces)"
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p039__fig_05] (source: wb_vn_plastic_2022, page 39)\n[FIGURE 5 | chart | Page 39 | Section 2.1.3.2] Figure 5: Total Number of Waste Items (percentage) on Surveyed Sites in Vietnam (38 river + coastal sites combined, total 109,259 waste items).\nChart Type: Pie-of-pie chart.\n- Main Pie Slices: Plastic = 93.6% | Glass = 1.4% | Metal = 0.7% | Rubber = 0.6% | Other = 3.6%.\n- Secondary Breakout Pie (breaking down 'Other, 3.6%'): Mix waste = 1.5% | Cloth/fabric = 1.5% | Paper/timber = 0.6%.\n\n[BONUS__wb_vn_plastic_2022__p039__fig_06] (source: wb_vn_plastic_2022, page 39)\n[FIGURE 6 | chart | Page 39 | Section 2.1.3.2] Figure 6: Total Weight of Waste (percentage) on Surveyed Sites in Vietnam 2020 (total 757.8 kg of waste).\nChart Type: Pie-of-pie chart.\n- Main Pie Slices: Plastic = 70.7% | Glass = 8.9% | Metal = 3.3% | Rubber = 3.0% | Other = 14.1%.\n- Secondary Breakout Pie (breaking down 'Other, 14.1%'): Mix waste = 6.6% | Cloth/fabric = 5.1% | Paper/timber = 2.4%.\n\n[BONUS__wb_vn_plastic_2022__p071__fig_30] (source: wb_vn_plastic_2022, page 71)\n[FIGURE 30 | chart | Page 71 | Section 2.2.4.3] Figure 30: Waste Classification by Quantity from Net Sampling at Chanh Duong 2 (Pie chart of 121 plastic pieces).\nExact Pie Slice Shares:\n1. Packages and other wrapper: 41.32% (50 pieces)\n2. Plastic bag: 30.58% (37 pieces)\n3. Other plastic: 18.18% (22 pieces)\n4. Single use plastic product (cups, utensils): 3.31% (4 pieces)\n5. Beverage bottle: 2.48% (3 pieces)\n6. Bottle cap: 2.48% (3 pieces)\n7. Straws: 1.65% (2 pieces)",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p039__fig_05",
+          "BONUS__wb_vn_plastic_2022__p039__fig_06",
+          "BONUS__wb_vn_plastic_2022__p071__fig_30"
+        ],
+        "dropped_ids": [],
+        "context_chars": 1547
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p039__fig_05] (source: wb_vn_plastic_2022, page 39)\n[FIGURE 5 | chart | Page 39 | Section 2.1.3.2] Figure 5: Total Number of Waste Items (percentage) on Surveyed Sites in Vietnam (38 river + coastal sites combined, total 109,259 waste items).\nChart Type: Pie-of-pie chart.\n- Main Pie Slices: Plastic = 93.6% | Glass = 1.4% | Metal = 0.7% | Rubber = 0.6% | Other = 3.6%.\n- Secondary Breakout Pie (breaking down 'Other, 3.6%'): Mix waste = 1.5% | Cloth/fabric = 1.5% | Paper/timber = 0.6%.\n\n[BONUS__wb_vn_plastic_2022__p039__fig_06] (source: wb_vn_plastic_2022, page 39)\n[FIGURE 6 | chart | Page 39 | Section 2.1.3.2] Figure 6: Total Weight of Waste (percentage) on Surveyed Sites in Vietnam 2020 (total 757.8 kg of waste).\nChart Type: Pie-of-pie chart.\n- Main Pie Slices: Plastic = 70.7% | Glass = 8.9% | Metal = 3.3% | Rubber = 3.0% | Other = 14.1%.\n- Secondary Breakout Pie (breaking down 'Other, 14.1%'): Mix waste = 6.6% | Cloth/fabric = 5.1% | Paper/timber = 2.4%.\n\n[BONUS__wb_vn_plastic_2022__p071__fig_30] (source: wb_vn_plastic_2022, page 71)\n[FIGURE 30 | chart | Page 71 | Section 2.2.4.3] Figure 30: Waste Classification by Quantity from Net Sampling at Chanh Duong 2 (Pie chart of 121 plastic pieces).\nExact Pie Slice Shares:\n1. Packages and other wrapper: 41.32% (50 pieces)\n2. Plastic bag: 30.58% (37 pieces)\n3. Other plastic: 18.18% (22 pieces)\n4. Single use plastic product (cups, utensils): 3.31% (4 pieces)\n5. Beverage bottle: 2.48% (3 pieces)\n6. Bottle cap: 2.48% (3 pieces)\n7. Straws: 1.65% (2 pieces)",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p039__fig_05",
+      "BONUS__wb_vn_plastic_2022__p039__fig_06",
+      "BONUS__wb_vn_plastic_2022__p071__fig_30"
+    ],
+    "num_searches": 1,
+    "api_calls": 5,
+    "latency_s": 6.8089,
+    "usage": {
+      "prompt_tokens": 4567,
+      "completion_tokens": 579,
+      "total_tokens": 5146
+    },
+    "cost_usd": 0.000688
+  },
+  {
+    "query_id": "bd_q08",
+    "status": "answered",
+    "answer": "At river sites, single-use plastics accounted for 72 percent of plastic waste items, while other plastic waste items accounted for 28 percent. At coastal sites, single-use plastics accounted for 52 percent, and other plastic waste items accounted for 48 percent. [BONUS__wb_vn_plastic_2022__p042__fig_10]",
+    "citations": [
+      "BONUS__wb_vn_plastic_2022__p042__fig_10"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Figure 10 plastic waste items single-use plastics versus other plastic waste items at river sites compared to coastal sites",
+        "filter": null,
+        "latency_s": 0.2436,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p042__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 42,
+            "score": 0.812359,
+            "text": "[Page 42 | 2.1 Plastic Field Surveys  | 41] Figure 10:\nPERCENTAGE OF SINGLE-USE PLASTIC WASTE AT RIVER AND COASTAL SITES\nFigure 11:\nTOTAL NUMBER OF WASTE ITEMS (PERCENTAGE) AT SURVEYED RIVER SITES\nSingle-use Plastics\nBoth at river and coastal sites, plastic waste was\nmainly single-use plastics. In river areas, single-use\nplastics accounted for 72 percent in number, while in\ncoastal areas, they account for 52 percent. Waste Brand Audit\nOf 24,461 waste items collected, 1,184 could be\nassigned to one of 266 brands. Of the items assigned\nto a brand, the 21 top brands comprised about 56\npercent of the total. 2.1.3.3 Results of the surveys conducted at\nriver sites\nMajor Waste Categories\nA total of 24 river sites (120 quadrats) in 10 locations\nwere surveyed and sampled, with 2,707 waste items\nand 27.2 kg quantified. The most common category\non riverbanks was plastic waste (79.7 percent in\nnumber and 57.2 percent in weight)."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p042__fig_10",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 42,
+            "score": 0.793048,
+            "text": "[FIGURE 10 | chart | Page 42 | Section 2.1.3.2] Figure 10: Percentage of Single-use Plastic Waste at River and Coastal Sites (two side-by-side pie charts).\n- Left Pie Chart ('River sites'): Single use waste items = 72% | Other plastic waste items = 28%.\n- Right Pie Chart ('Coastal sites'): Single use waste items = 52% | Other plastic waste items = 48%."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p047__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 47,
+            "score": 0.776315,
+            "text": "[Page 47 | 2.1 Plastic Field Surveys  | 47] 2.1 Plastic Field Surveys  | 47\nFigure 16:\nTOP 10 PLASTIC WASTE ITEMS AT TOURIST AND NON-TOURIST RIVER SITES BY DENSITY\n\nSingle-use Plastics\nAt river sites, single-use plastics accounted for 72 percent of the total number of plastic waste items collected.\nAs shown in Figure 17 single-use plastic items made up between 53 percent and 93 percent of total plastic\nwaste. The locations with the highest percentages of single-use plastic waste were Soc Trang (93 percent),\nHue (80 percent), Hai Phong (76 percent), and Can Tho (72 percent).\nFigure 17:\nSINGLE-USE PLASTIC WASTE BY DENSITY AT RIVER SITES IN SURVEYED LOCATIONS\nMore detailed information on the survey results for river sites can be found in Annex 2.1.C."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p042__t00] (source: wb_vn_plastic_2022, page 42)\n[Page 42 | 2.1 Plastic Field Surveys  | 41] Figure 10:\nPERCENTAGE OF SINGLE-USE PLASTIC WASTE AT RIVER AND COASTAL SITES\nFigure 11:\nTOTAL NUMBER OF WASTE ITEMS (PERCENTAGE) AT SURVEYED RIVER SITES\nSingle-use Plastics\nBoth at river and coastal sites, plastic waste was\nmainly single-use plastics. In river areas, single-use\nplastics accounted for 72 percent in number, while in\ncoastal areas, they account for 52 percent. Waste Brand Audit\nOf 24,461 waste items collected, 1,184 could be\nassigned to one of 266 brands. Of the items assigned\nto a brand, the 21 top brands comprised about 56\npercent of the total. 2.1.3.3 Results of the surveys conducted at\nriver sites\nMajor Waste Categories\nA total of 24 river sites (120 quadrats) in 10 locations\nwere surveyed and sampled, with 2,707 waste items\nand 27.2 kg quantified. The most common category\non riverbanks was plastic waste (79.7 percent in\nnumber and 57.2 percent in weight).\n\n[BONUS__wb_vn_plastic_2022__p042__fig_10] (source: wb_vn_plastic_2022, page 42)\n[FIGURE 10 | chart | Page 42 | Section 2.1.3.2] Figure 10: Percentage of Single-use Plastic Waste at River and Coastal Sites (two side-by-side pie charts).\n- Left Pie Chart ('River sites'): Single use waste items = 72% | Other plastic waste items = 28%.\n- Right Pie Chart ('Coastal sites'): Single use waste items = 52% | Other plastic waste items = 48%.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p042__t00",
+          "BONUS__wb_vn_plastic_2022__p042__fig_10"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p047__t00"
+        ],
+        "context_chars": 1443
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p042__t00] (source: wb_vn_plastic_2022, page 42)\n[Page 42 | 2.1 Plastic Field Surveys  | 41] Figure 10:\nPERCENTAGE OF SINGLE-USE PLASTIC WASTE AT RIVER AND COASTAL SITES\nFigure 11:\nTOTAL NUMBER OF WASTE ITEMS (PERCENTAGE) AT SURVEYED RIVER SITES\nSingle-use Plastics\nBoth at river and coastal sites, plastic waste was\nmainly single-use plastics. In river areas, single-use\nplastics accounted for 72 percent in number, while in\ncoastal areas, they account for 52 percent. Waste Brand Audit\nOf 24,461 waste items collected, 1,184 could be\nassigned to one of 266 brands. Of the items assigned\nto a brand, the 21 top brands comprised about 56\npercent of the total. 2.1.3.3 Results of the surveys conducted at\nriver sites\nMajor Waste Categories\nA total of 24 river sites (120 quadrats) in 10 locations\nwere surveyed and sampled, with 2,707 waste items\nand 27.2 kg quantified. The most common category\non riverbanks was plastic waste (79.7 percent in\nnumber and 57.2 percent in weight).\n\n[BONUS__wb_vn_plastic_2022__p042__fig_10] (source: wb_vn_plastic_2022, page 42)\n[FIGURE 10 | chart | Page 42 | Section 2.1.3.2] Figure 10: Percentage of Single-use Plastic Waste at River and Coastal Sites (two side-by-side pie charts).\n- Left Pie Chart ('River sites'): Single use waste items = 72% | Other plastic waste items = 28%.\n- Right Pie Chart ('Coastal sites'): Single use waste items = 52% | Other plastic waste items = 48%.",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p042__t00",
+      "BONUS__wb_vn_plastic_2022__p042__fig_10"
+    ],
+    "num_searches": 1,
+    "api_calls": 3,
+    "latency_s": 3.4042,
+    "usage": {
+      "prompt_tokens": 2138,
+      "completion_tokens": 160,
+      "total_tokens": 2298
+    },
+    "cost_usd": 0.000145
+  },
+  {
+    "query_id": "bd_q09",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (Information for Red River sites from Figure 32 is not available in the provided search results.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Figure 33 Plastic waste item percentage share at Mekong River sites",
+        "filter": null,
+        "latency_s": 0.2092,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p108__fig_33",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 108,
+            "score": 0.799956,
+            "text": "[FIGURE 33 | chart | Page 108 | Annex 2.1.C] Figure 33: Top 10 Plastic Waste Items at Mekong River Sites (Can Tho and Soc Trang; 25/28 plastic categories detected; Top 10 = 81.5% of plastic waste; horizontal bar chart 0–5 items.unit^-1).\nExact Ranking & Percentages:\n1. Styrofoam food container: 19.4% (~4.3 items.unit^-1)\n2. Plastic bags size 1: 11.9% (~2.65 items.unit^-1)\n3. Soft plastic fragments: 10.3% (~2.3 items.unit^-1)\n4. Hard plastic fragments: 6.6%\n5. Personal hygiene products: 6.4%\n6. Crisp/Sweet packages: 5.9%\n7. Food wrappers: 5.9%\n8. Other wrappers: 5.5%\n9. Plastic strings, cords and ropes: 5.3%\n10. Single use plastic product (cups, utensils): 4.1%"
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p045__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 45,
+            "score": 0.750922,
+            "text": "[Page 45 | 2.1 Plastic Field Surveys  | 45] Figure 14:\nTOP 10 PLASTIC WASTE ITEMS AT RIVER SITES IN VIETNAM\nTop 10 Plastic Waste Items in the Five River Areas\nWhen comparing results between the five river areas\nwhere surveys took place (Central rivers, Phu Quoc\nrivers, Mekong River, Red River, and Dong Nai-Sai\nGon River) these are the key findings:\n•\nThe top 10 plastic waste items accounted between\n81.5 percent (Mekong River) and 93.4 percent\n(Red River) of total plastic waste found in terms\nof density. This underlines the importance for\nfinding solutions that effectively curb plastic\npollution in Vietnam.\n•\nPlastic bags and soft plastic fragments (mostly\nfrom broken down plastic bags) play a dominant\nrole among the top 10 plastic waste items. For\nthe Central and Phu Quoc rivers, soft plastic\nfragments was most prevalent item (25.9 percent\nand 32.3 percent, respectively)."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p020__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 20,
+            "score": 0.74241,
+            "text": "[Page 20 | Executive Summary   | 19] Figure 1. EXAMPLES OF HOTSPOTS INVESTIGATED THROUGH DRONE SURVEYS\n2. What were the top 10 polluting plastic items in\nselected Vietnam riverbank and coastal sites,\nand in selected waterways? Top 10 plastic waste items on riverbanks: With regard\nto density, the top 10 common plastic waste items at\nriverbank sites accounted for between 81.5 percent\n(Mekong River) and 93.4 percent (Red River) of total\nplastic waste. In both rural and urban river sites,\nthe sub-category plastic bags size 1 (0–5kg) was the\nmost frequently encountered item (20.6 percent and\n22 percent, in number, respectively)."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p108__fig_33] (source: wb_vn_plastic_2022, page 108)\n[FIGURE 33 | chart | Page 108 | Annex 2.1.C] Figure 33: Top 10 Plastic Waste Items at Mekong River Sites (Can Tho and Soc Trang; 25/28 plastic categories detected; Top 10 = 81.5% of plastic waste; horizontal bar chart 0–5 items.unit^-1).\nExact Ranking & Percentages:\n1. Styrofoam food container: 19.4% (~4.3 items.unit^-1)\n2. Plastic bags size 1: 11.9% (~2.65 items.unit^-1)\n3. Soft plastic fragments: 10.3% (~2.3 items.unit^-1)\n4. Hard plastic fragments: 6.6%\n5. Personal hygiene products: 6.4%\n6. Crisp/Sweet packages: 5.9%\n7. Food wrappers: 5.9%\n8. Other wrappers: 5.5%\n9. Plastic strings, cords and ropes: 5.3%\n10. Single use plastic product (cups, utensils): 4.1%\n\n[BONUS__wb_vn_plastic_2022__p020__t00] (source: wb_vn_plastic_2022, page 20)\n[Page 20 | Executive Summary   | 19] Figure 1. EXAMPLES OF HOTSPOTS INVESTIGATED THROUGH DRONE SURVEYS\n2. What were the top 10 polluting plastic items in\nselected Vietnam riverbank and coastal sites,\nand in selected waterways? Top 10 plastic waste items on riverbanks: With regard\nto density, the top 10 common plastic waste items at\nriverbank sites accounted for between 81.5 percent\n(Mekong River) and 93.4 percent (Red River) of total\nplastic waste. In both rural and urban river sites,\nthe sub-category plastic bags size 1 (0–5kg) was the\nmost frequently encountered item (20.6 percent and\n22 percent, in number, respectively).",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p108__fig_33",
+          "BONUS__wb_vn_plastic_2022__p020__t00"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p045__t01"
+        ],
+        "context_chars": 1459
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Figure 32 Plastic waste item percentage share at Red River sites",
+        "filter": null,
+        "latency_s": 0.1991,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p108__fig_32",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 108,
+            "score": 0.777319,
+            "text": "[FIGURE 32 | chart | Page 108 | Annex 2.1.C] Figure 32: Top 10 Plastic Waste Items at Red River Sites (Lao Cai and Hai Phong; 20/28 plastic subcategories detected; Top 10 = 93.4% of total plastic waste; horizontal bar chart 0–12 items.unit^-1).\nExact Ranking & Percentages:\n1. Plastic bags size 1: 44.7% (~10.9 items.unit^-1)\n2. Other food wrappers: 16.8% (~4.1 items.unit^-1)\n3. Plastic strings, cords and ropes: 9.7%\n4. Other plastic: 8.6%\n5. Crisp/Sweet packages: 3.6%\n6. Styrofoam food containers: 3.0%\n7. Hard plastic fragments: 2.2%\n8. Soft plastic fragments: 2.2%\n9. Bottle caps: 1.6%\n10. Straws: 1.4%"
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p108__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 108,
+            "score": 0.715216,
+            "text": "[Page 108 | ANNEX 2.1.C:] ANNEX 2.1.C:\nSURVEY RESULTS FROM RIVER SITES\nIn the Red river (Lao Cai and Hai Phong), 20/28 subcategories of plastic were detected,\nand the top 10 items accounted for 93.4% of the total plastic waste.\nFigure 32:\nTOP 10 PLASTIC WASTE ITEMS AT RED RIVER SITES\nIn the Mekong river (Can Tho and Soc Trang), there were 25/28 plastic waste categories, and\nthe top 10 items accounted for 81.5% of all the plastic waste items recorded.\nFigure 33:\nTOP 10 PLASTIC WASTE ITEMS AT MEKONG RIVER SITES"
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p053__t02",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 53,
+            "score": 0.706776,
+            "text": "[Page 53 | 2.1 Plastic Field Surveys  | 53] At\nriver sites, take-away related waste (43.6 percent),\nfisheries-related waste (32.6 percent), and household\nwaste (21.6 percent) accounted for 97.8 percent of the\ntotal number of plastic waste items. At coastal sites,\ntake-away related waste (42.7 percent), fisheries-re-\nlated waste (35 percent), and household waste (20\npercent) made up 97.7 percent of the total number\nof plastic waste items. At all locations, the top 10 plastic waste items\naccounted for 83.2 percent of the total number of\nplastic waste items, and 72.7 percent in weight. With regard to river and coastal sites, the top 10\nplastic waste items at river sites accounted for 81.3\npercent (55 percent in weight) versus 84 percent at\ncoastal sites (75.5 percent in weight)."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p108__fig_33] (source: wb_vn_plastic_2022, page 108)\n[FIGURE 33 | chart | Page 108 | Annex 2.1.C] Figure 33: Top 10 Plastic Waste Items at Mekong River Sites (Can Tho and Soc Trang; 25/28 plastic categories detected; Top 10 = 81.5% of plastic waste; horizontal bar chart 0–5 items.unit^-1).\nExact Ranking & Percentages:\n1. Styrofoam food container: 19.4% (~4.3 items.unit^-1)\n2. Plastic bags size 1: 11.9% (~2.65 items.unit^-1)\n3. Soft plastic fragments: 10.3% (~2.3 items.unit^-1)\n4. Hard plastic fragments: 6.6%\n5. Personal hygiene products: 6.4%\n6. Crisp/Sweet packages: 5.9%\n7. Food wrappers: 5.9%\n8. Other wrappers: 5.5%\n9. Plastic strings, cords and ropes: 5.3%\n10. Single use plastic product (cups, utensils): 4.1%\n\n[BONUS__wb_vn_plastic_2022__p020__t00] (source: wb_vn_plastic_2022, page 20)\n[Page 20 | Executive Summary   | 19] Figure 1. EXAMPLES OF HOTSPOTS INVESTIGATED THROUGH DRONE SURVEYS\n2. What were the top 10 polluting plastic items in\nselected Vietnam riverbank and coastal sites,\nand in selected waterways? Top 10 plastic waste items on riverbanks: With regard\nto density, the top 10 common plastic waste items at\nriverbank sites accounted for between 81.5 percent\n(Mekong River) and 93.4 percent (Red River) of total\nplastic waste. In both rural and urban river sites,\nthe sub-category plastic bags size 1 (0–5kg) was the\nmost frequently encountered item (20.6 percent and\n22 percent, in number, respectively).",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p108__fig_33",
+          "BONUS__wb_vn_plastic_2022__p020__t00"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p045__t01",
+          "BONUS__wb_vn_plastic_2022__p108__fig_32",
+          "BONUS__wb_vn_plastic_2022__p108__t00",
+          "BONUS__wb_vn_plastic_2022__p053__t02"
+        ],
+        "context_chars": 1459
+      },
+      {
+        "event": "abstain",
+        "reason": "Information for Red River sites from Figure 32 is not available in the provided search results."
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p108__fig_33] (source: wb_vn_plastic_2022, page 108)\n[FIGURE 33 | chart | Page 108 | Annex 2.1.C] Figure 33: Top 10 Plastic Waste Items at Mekong River Sites (Can Tho and Soc Trang; 25/28 plastic categories detected; Top 10 = 81.5% of plastic waste; horizontal bar chart 0–5 items.unit^-1).\nExact Ranking & Percentages:\n1. Styrofoam food container: 19.4% (~4.3 items.unit^-1)\n2. Plastic bags size 1: 11.9% (~2.65 items.unit^-1)\n3. Soft plastic fragments: 10.3% (~2.3 items.unit^-1)\n4. Hard plastic fragments: 6.6%\n5. Personal hygiene products: 6.4%\n6. Crisp/Sweet packages: 5.9%\n7. Food wrappers: 5.9%\n8. Other wrappers: 5.5%\n9. Plastic strings, cords and ropes: 5.3%\n10. Single use plastic product (cups, utensils): 4.1%\n\n[BONUS__wb_vn_plastic_2022__p020__t00] (source: wb_vn_plastic_2022, page 20)\n[Page 20 | Executive Summary   | 19] Figure 1. EXAMPLES OF HOTSPOTS INVESTIGATED THROUGH DRONE SURVEYS\n2. What were the top 10 polluting plastic items in\nselected Vietnam riverbank and coastal sites,\nand in selected waterways? Top 10 plastic waste items on riverbanks: With regard\nto density, the top 10 common plastic waste items at\nriverbank sites accounted for between 81.5 percent\n(Mekong River) and 93.4 percent (Red River) of total\nplastic waste. In both rural and urban river sites,\nthe sub-category plastic bags size 1 (0–5kg) was the\nmost frequently encountered item (20.6 percent and\n22 percent, in number, respectively).",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p108__fig_33",
+      "BONUS__wb_vn_plastic_2022__p020__t00"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 3.7181,
+    "usage": {
+      "prompt_tokens": 2936,
+      "completion_tokens": 242,
+      "total_tokens": 3178
+    },
+    "cost_usd": 0.000312
+  },
+  {
+    "query_id": "bd_q10",
+    "status": "answered",
+    "answer": "Chanh Duong 2 in Vinh Bao - Hai Phong is the survey site where all four types of data analysis were carried out: Waste Quantities (drone), Waste Types (drone), Transport (bridge cameras), and Waste Types (net sampling) [BONUS__wb_vn_plastic_2022__p061__table_10]. The exact latitude and longitude coordinates for this site are not available in the provided data.",
+    "citations": [
+      "BONUS__wb_vn_plastic_2022__p061__table_10"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Table 9: Survey sites in Hai Phong and their data analysis types. Table 10: Survey sites and data analysis completion status. Hai Phong survey sites, drone waste quantities, drone waste types, bridge camera transport, net sampling, latitude, longitude.",
+        "filter": null,
+        "latency_s": 0.2548,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p061__table_10",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 61,
+            "score": 0.814732,
+            "text": "[TABLE 10 | Page 61 | Section 2.2.2] Table 10: Data Analysis Carried Out by Survey Site.\n| ID | Survey Site | Location | Waste Quantities (drone) | Waste Types (drone) | Transport (bridge cameras) | Waste Types (net sampling) |\n| 1 | Chanh Duong 1 | Vinh Bao - Hai Phong | Y | Y | Y | - |\n| 2 | Chanh Duong 2 | Vinh Bao - Hai Phong | Y | Y | Y* (two camera surveys) | Y |\n| 3 | Dang bridge | Tien Lang - Hai Phong | - | - | Y | - |\n| 4 | Thach Khoi 1 | Hai Duong | Y | Y | - | - |\n| 5 | Thach Khoi 2 | Hai Duong | - | - | Y | - |\n| 6 | Han bridge | Hai Duong | - | - | - | - |\n| 7 | Suoi Cat 1 | Sa Pa - Lao Cai | Y | Y | - | - |\n| 8 | Suoi Cat 2 | Sa Pa - Lao Cai | - | - | Y | - |\n| 9 | Suoi Cat 3 | Sa Pa - Lao Cai | - | - | - | - |\nSummary: Only Chanh Duong 2 (ID 2, Vinh Bao - Hai Phong) had all four analyses (Drone Quantities, Drone Types, Bridge Camera Transport with 2 camera surveys, and Net Sampling). Han bridge (ID 6) and Suoi Cat 3 (ID 9) had no completed data analysis."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p061__t02",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 61,
+            "score": 0.791135,
+            "text": "[Page 61 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 61] Table 10:\nDATA ANALYSIS CARRIED OUT BY SURVEY SITE\nID\nSurvey Site\nLocation\nResults available for this study\nWaste\nQuantities\n(drone\nsurveys)\nWaste\nTypes\n(drone\nsurveys)\nTransport\n(bridge\ncameras)\nWaste\nTypes (net\nsampling)\n1\nChanh Duong 1\nVinh Bao - Hai Phong\nY\nY\nY\n2\nChanh Duong 2\nVinh Bao - Hai Phong\nY\nY\nY*\nY\n3\nDang bridge\nTien Lang - Hai Phong\nY\n4\nThach Khoi 1\nHai Duong\nY\nY\n5\nThach Khoi 2\nHai Duong\nY\n6\nHan bridge\nHai Duong\n7\nSuoi Cat 1\nSa Pa - Lao Cai\nY\nY\n8\nSuoi Cat 2\nSa Pa - Lao Cai\nY\n9\nSuoi Cat 3\nSa Pa - Lao Cai\nNote: * At Chang Duong 2, two bridge camera surveys were conducted."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p059__table_09",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 59,
+            "score": 0.734297,
+            "text": "[TABLE 9 | Page 59 | Section 2.2.2] Table 9: Survey Sites' Coordinates (9 River Transport Monitoring Sites).\n| ID | Survey Site | Location | Latitude | Longitude |\n| 1 | Chanh Duong 1 | Vinh Bao - Hai Phong | 20.639106 | 106.582464 |\n| 2 | Chanh Duong 2 | Vinh Bao - Hai Phong | 20.641278 | 106.566986 |\n| 3 | Dang bridge | Tien Lang - Hai Phong | 20.677672 | 106.551364 |\n| 4 | Thach Khoi 1 | Hai Duong | 20.882731 | 106.296247 |\n| 5 | Thach Khoi 2 | Hai Duong | 20.818602 | 106.282264 |\n| 6 | Han bridge | Hai Duong | 20.958615 | 106.309602 |\n| 7 | Suoi Cat 1 | Sa Pa - Lao Cai | 22.3052 | 103.889653 |\n| 8 | Suoi Cat 2 | Sa Pa - Lao Cai | 22.309917 | 103.875822 |\n| 9 | Suoi Cat 3 | Sa Pa - Lao Cai | 22.310181 | 103.86015 |"
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p061__table_10] (source: wb_vn_plastic_2022, page 61)\n[TABLE 10 | Page 61 | Section 2.2.2] Table 10: Data Analysis Carried Out by Survey Site.\n| ID | Survey Site | Location | Waste Quantities (drone) | Waste Types (drone) | Transport (bridge cameras) | Waste Types (net sampling) |\n| 1 | Chanh Duong 1 | Vinh Bao - Hai Phong | Y | Y | Y | - |\n| 2 | Chanh Duong 2 | Vinh Bao - Hai Phong | Y | Y | Y* (two camera surveys) | Y |\n| 3 | Dang bridge | Tien Lang - Hai Phong | - | - | Y | - |\n| 4 | Thach Khoi 1 | Hai Duong | Y | Y | - | - |\n| 5 | Thach Khoi 2 | Hai Duong | - | - | Y | - |\n| 6 | Han bridge | Hai Duong | - | - | - | - |\n| 7 | Suoi Cat 1 | Sa Pa - Lao Cai | Y | Y | - | - |\n| 8 | Suoi Cat 2 | Sa Pa - Lao Cai | - | - | Y | - |\n| 9 | Suoi Cat 3 | Sa Pa - Lao Cai | - | - | - | - |\nSummary: Only Chanh Duong 2 (ID 2, Vinh Bao - Hai Phong) had all four analyses (Drone Quantities, Drone Types, Bridge Camera Transport with 2 camera surveys, and Net Sampling). Han bridge (ID 6) and Suoi Cat 3 (ID 9) had no completed data analysis.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p061__table_10"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p061__t02",
+          "BONUS__wb_vn_plastic_2022__p059__table_09"
+        ],
+        "context_chars": 1066
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p061__table_10] (source: wb_vn_plastic_2022, page 61)\n[TABLE 10 | Page 61 | Section 2.2.2] Table 10: Data Analysis Carried Out by Survey Site.\n| ID | Survey Site | Location | Waste Quantities (drone) | Waste Types (drone) | Transport (bridge cameras) | Waste Types (net sampling) |\n| 1 | Chanh Duong 1 | Vinh Bao - Hai Phong | Y | Y | Y | - |\n| 2 | Chanh Duong 2 | Vinh Bao - Hai Phong | Y | Y | Y* (two camera surveys) | Y |\n| 3 | Dang bridge | Tien Lang - Hai Phong | - | - | Y | - |\n| 4 | Thach Khoi 1 | Hai Duong | Y | Y | - | - |\n| 5 | Thach Khoi 2 | Hai Duong | - | - | Y | - |\n| 6 | Han bridge | Hai Duong | - | - | - | - |\n| 7 | Suoi Cat 1 | Sa Pa - Lao Cai | Y | Y | - | - |\n| 8 | Suoi Cat 2 | Sa Pa - Lao Cai | - | - | Y | - |\n| 9 | Suoi Cat 3 | Sa Pa - Lao Cai | - | - | - | - |\nSummary: Only Chanh Duong 2 (ID 2, Vinh Bao - Hai Phong) had all four analyses (Drone Quantities, Drone Types, Bridge Camera Transport with 2 camera surveys, and Net Sampling). Han bridge (ID 6) and Suoi Cat 3 (ID 9) had no completed data analysis.",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p061__table_10"
+    ],
+    "num_searches": 1,
+    "api_calls": 5,
+    "latency_s": 5.2143,
+    "usage": {
+      "prompt_tokens": 3759,
+      "completion_tokens": 295,
+      "total_tokens": 4054
+    },
+    "cost_usd": 0.000359
+  },
+  {
+    "query_id": "bd_q11",
+    "status": "answered",
+    "answer": "The provided context includes Figure 31 which details waste classification by weight at Chanh Duong 2, showing \"Organic waste\" as the #1 category by weight (1,500 g, 58%) [BONUS__wb_vn_plastic_2022__p071__fig_31]. However, information regarding waste classification by quantity (number of pieces and %) for Chanh Duong 2, as well as the specific data from Table 14, is missing from the current packed context. Therefore, a complete comparison as requested cannot be made.",
+    "citations": [
+      "BONUS__wb_vn_plastic_2022__p071__fig_31"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Chanh Duong 2 net sampling waste category quantity and weight comparison with Figure 30, Figure 31, and Table 14",
+        "filter": null,
+        "latency_s": 0.2092,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p071__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 71,
+            "score": 0.758932,
+            "text": "[Page 71 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 71] 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 71\nFigure 30:\nWASTE CLASSIFICATION BY QUANTITY FROM NET SAMPLING AT CHANH DUONG 2\nFigure 31:\nWASTE CLASSIFICATION BY WEIGHT FROM NET SAMPLING AT CHANH DUONG 2\nThe number and weight of waste types collected during a survey day is shown in Table 14."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p071__fig_31",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 71,
+            "score": 0.754472,
+            "text": "[FIGURE 31 | chart | Page 71 | Section 2.2.4.3] Figure 31: Waste Classification by Weight from Net Sampling at Chanh Duong 2 ('Chart of waste classifition by weight in Chanh Duong 2', total 2,586 g).\nExact Pie Slice Shares:\n1. Organic waste: 58% (1,500 g)\n2. Other plastic: 22% (571 g)\n3. Plastic bag: 15% (383 g)\n4. Packages and other wrapper: 3.41% (72 g)\n5. Beverage bottle: 1% (35 g)\n6. Single use plastic product (cups, utensils): 1% (35 g)"
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p072__table_14",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 72,
+            "score": 0.731386,
+            "text": "[TABLE 14 | Page 72 | Section 2.2.4.3] Table 14: Number and Weight of Waste Types Collected During Net Sampling (Chanh Duong 2 Bridge, Hai Phong, 3 vertical positions x 2 depths, 2-hour deployment each).\n- POS 01 (9h40 - 11h40):\n  * Upper net: Beverage bottle (3 pcs, 35 g), Plastic bag (12 pcs, 48 g), Single-use plastic cups/utensils (1 pc, 20 g), Other plastic (5 pcs, 8 g), Organic waste (425 g).\n  * Lower net: Plastic bag (6 pcs, 15 g), Packages & other wrapper (14 pcs, 15 g), Organic waste (275 g).\n- POS 02 (8h30 - 10h30):\n  * Upper net: Straws (2 pcs, 0 g), Bottle cap (1 pc, 0 g), Plastic bag (5 pcs, 65 g), Single-use plastic cups/utensils (1 pc, 5 g), Packages & other wrapper (8 pcs, 10 g), Other plastic (3 pcs, 65 g), Organic waste (145 g).\n  * Lower net: Plastic bag (5 pcs, 70 g), Packages & other wrapper (9 pcs, 10 g), Other plastic (3 pcs, 5 g), Organic waste (335 g).\n- POS 03 (13h20 - 15h20):\n  * Upper net: Bottle cap (2 pcs, 0 g), Plastic bag (4 pcs, 20 g), Single-use plastic cups/utensils (2 pcs, 10 g), Packages & other wrapper (6 pcs, 12 g), Other plastic (10 pcs, 490 g), Organic waste (65 g).\n  * Lower net: Plastic bag (5 pcs, 165 g), Packages & other wrapper (13 pcs, 25 g), Other plastic (1 pc, 3 g), Organic waste (255 g).\n- SUM across all positions (Total = 121 plastic pieces, total weight = 2,586 g including 1,500 g organic waste and 1,086 g plastic):\n  * Packages and other wrapper: 50 pieces (41.32% of quantity), 72 g (2.78% of total weight)\n  * Plastic bag: 37 pieces (30.58% of quantity), 383 g (14.81% of total weight)\n  * Other plastic: 22 pieces (18.18% of quantity), 571 g (22.08% of total weight)\n  * Single-use plastic product (cups, utensils): 4 pieces (3.31% of quantity), 35 g (1.35% of total weight)\n  * Beverage bottle: 3 pieces (2.48% of quantity), 35 g (1.35% of total weight)\n  * Bottle cap: 3 pieces (2.48% of quantity), 0 g\n  * Straws: 2 pieces (1.65% of quantity), 0 g\n  * Organic waste: uncounted quantity (decomposing/fragmented), 1,500 g (58.0% of total weight)."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p071__t00] (source: wb_vn_plastic_2022, page 71)\n[Page 71 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 71] 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 71\nFigure 30:\nWASTE CLASSIFICATION BY QUANTITY FROM NET SAMPLING AT CHANH DUONG 2\nFigure 31:\nWASTE CLASSIFICATION BY WEIGHT FROM NET SAMPLING AT CHANH DUONG 2\nThe number and weight of waste types collected during a survey day is shown in Table 14.\n\n[BONUS__wb_vn_plastic_2022__p071__fig_31] (source: wb_vn_plastic_2022, page 71)\n[FIGURE 31 | chart | Page 71 | Section 2.2.4.3] Figure 31: Waste Classification by Weight from Net Sampling at Chanh Duong 2 ('Chart of waste classifition by weight in Chanh Duong 2', total 2,586 g).\nExact Pie Slice Shares:\n1. Organic waste: 58% (1,500 g)\n2. Other plastic: 22% (571 g)\n3. Plastic bag: 15% (383 g)\n4. Packages and other wrapper: 3.41% (72 g)\n5. Beverage bottle: 1% (35 g)\n6. Single use plastic product (cups, utensils): 1% (35 g)",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p071__t00",
+          "BONUS__wb_vn_plastic_2022__p071__fig_31"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p072__table_14"
+        ],
+        "context_chars": 1000
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p071__t00] (source: wb_vn_plastic_2022, page 71)\n[Page 71 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 71] 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 71\nFigure 30:\nWASTE CLASSIFICATION BY QUANTITY FROM NET SAMPLING AT CHANH DUONG 2\nFigure 31:\nWASTE CLASSIFICATION BY WEIGHT FROM NET SAMPLING AT CHANH DUONG 2\nThe number and weight of waste types collected during a survey day is shown in Table 14.\n\n[BONUS__wb_vn_plastic_2022__p071__fig_31] (source: wb_vn_plastic_2022, page 71)\n[FIGURE 31 | chart | Page 71 | Section 2.2.4.3] Figure 31: Waste Classification by Weight from Net Sampling at Chanh Duong 2 ('Chart of waste classifition by weight in Chanh Duong 2', total 2,586 g).\nExact Pie Slice Shares:\n1. Organic waste: 58% (1,500 g)\n2. Other plastic: 22% (571 g)\n3. Plastic bag: 15% (383 g)\n4. Packages and other wrapper: 3.41% (72 g)\n5. Beverage bottle: 1% (35 g)\n6. Single use plastic product (cups, utensils): 1% (35 g)",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p071__t00",
+      "BONUS__wb_vn_plastic_2022__p071__fig_31"
+    ],
+    "num_searches": 1,
+    "api_calls": 5,
+    "latency_s": 5.0059,
+    "usage": {
+      "prompt_tokens": 3810,
+      "completion_tokens": 347,
+      "total_tokens": 4157
+    },
+    "cost_usd": 0.000387
+  },
+  {
+    "query_id": "bd_q12",
+    "status": "answered",
+    "answer": "The two plastic waste items excluded from the Top 10 list when forming the six product categories for the market alternatives analysis were \"Hard plastic fragments #6\" and \"Other plastics #9\". These were excluded because they were considered too heterogeneous. [BONUS__wb_vn_plastic_2022__p079__table_16]",
+    "citations": [
+      "BONUS__wb_vn_plastic_2022__p079__table_16"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Table 15 Top 10 plastic waste items and their ranks/percentages, and Table 16 six product categories for market alternatives analysis",
+        "filter": null,
+        "latency_s": 0.2167,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p079__table_16",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 79,
+            "score": 0.744981,
+            "text": "[TABLE 16 | Page 79 | Section 2.3.2] Table 16: Categories for Market Alternatives Analysis (Mapping 6 Product Categories to Top 10 Waste Items; Hard plastic fragments #6 and Other plastics #9 excluded as too heterogeneous).\n| Product Type Category for Alternatives Analysis | Corresponding Top 10 Plastic Waste Items |\n| 1. Plastic bags (different sizes) | Plastic bags size 1 (0–5 kg) + Soft plastic fragments (LDPE) |\n| 2. Fishing nets | Fishing gear 1: Plastic rope, net pieces, lures, lines, hard plastic floats (PE & PP) |\n| 3. Various foam floats | Fishing gear 2: Polystyrenes-ESP, buoys, floats (PS & EPS) |\n| 4. Styrofoam food containers | Styrofoam food containers (PS) |\n| 5. Straws | Straws (mainly PP) |\n| 6. Food packaging | Other food wrappers + Crisp/Sweet packages (PP & PS) |"
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p079__t02",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 79,
+            "score": 0.718297,
+            "text": "[Page 79 | 2.3 Analysis of Alternatives  | 79] Table 16: CATEGORIES FOR MARKET ALTERNATIVES ANALYSIS Product Type Categories for Alternatives’ Analysis Corresponding Top 10 Plastic Waste Items Plastic bags (different sizes) Plastic bags size 1 (0-5kg) Soft plastic fragments (LDPE) Fishing nets Fishing gear 1: Plastic rope, net pieces, lures, lines, hard plastic floats (PE & PP) Various foam floats Fishing gear 2: Polystyrenes-ESP, buoys, floats (PS & EPS) Styrofoam food containers Styrofoam food containers (PS) Straws Straws (mainly PP) Food packaging Other food wrappers Crisp/Sweet packages (PP & PS) For each of the six product type categories, this study: • identified the main importers and producers by product category, both for plastic products and their alternatives, • defined product sub-categories (for example, parachute fishing nets and aquaculture nets as a sub-set of fishing nets), • assessed the recyclability of each"
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p079__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 79,
+            "score": 0.716971,
+            "text": "[Page 79 | 2.3 Analysis of Alternatives  | 79] 2.3 Analysis of Alternatives  | 79\nFor analyzing alternatives, the list of the top 10\nplastic waste items was adjusted to reflect the fact\nthat plastic alternatives can be identified by product\ntype (for example, bags) but not by waste item (for\nexample, soft plastic fragments):\n•\nHard plastic fragments (item 6) and other plastics\n(item 9) were excluded; these categories included\na variety of different materials that, thereby, made\nareas of application, and the identification of\npotential alternatives too ambiguous.\n•\nPlastic bags size 1 (item 4) and soft plastic fragments\n(item 1) were combined for the market assessment\nsince the latter category largely consisted of plastic\nbag fragments."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p079__table_16] (source: wb_vn_plastic_2022, page 79)\n[TABLE 16 | Page 79 | Section 2.3.2] Table 16: Categories for Market Alternatives Analysis (Mapping 6 Product Categories to Top 10 Waste Items; Hard plastic fragments #6 and Other plastics #9 excluded as too heterogeneous).\n| Product Type Category for Alternatives Analysis | Corresponding Top 10 Plastic Waste Items |\n| 1. Plastic bags (different sizes) | Plastic bags size 1 (0–5 kg) + Soft plastic fragments (LDPE) |\n| 2. Fishing nets | Fishing gear 1: Plastic rope, net pieces, lures, lines, hard plastic floats (PE & PP) |\n| 3. Various foam floats | Fishing gear 2: Polystyrenes-ESP, buoys, floats (PS & EPS) |\n| 4. Styrofoam food containers | Styrofoam food containers (PS) |\n| 5. Straws | Straws (mainly PP) |\n| 6. Food packaging | Other food wrappers + Crisp/Sweet packages (PP & PS) |",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p079__table_16"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p079__t02",
+          "BONUS__wb_vn_plastic_2022__p079__t00"
+        ],
+        "context_chars": 875
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p079__table_16] (source: wb_vn_plastic_2022, page 79)\n[TABLE 16 | Page 79 | Section 2.3.2] Table 16: Categories for Market Alternatives Analysis (Mapping 6 Product Categories to Top 10 Waste Items; Hard plastic fragments #6 and Other plastics #9 excluded as too heterogeneous).\n| Product Type Category for Alternatives Analysis | Corresponding Top 10 Plastic Waste Items |\n| 1. Plastic bags (different sizes) | Plastic bags size 1 (0–5 kg) + Soft plastic fragments (LDPE) |\n| 2. Fishing nets | Fishing gear 1: Plastic rope, net pieces, lures, lines, hard plastic floats (PE & PP) |\n| 3. Various foam floats | Fishing gear 2: Polystyrenes-ESP, buoys, floats (PS & EPS) |\n| 4. Styrofoam food containers | Styrofoam food containers (PS) |\n| 5. Straws | Straws (mainly PP) |\n| 6. Food packaging | Other food wrappers + Crisp/Sweet packages (PP & PS) |",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p079__table_16"
+    ],
+    "num_searches": 1,
+    "api_calls": 3,
+    "latency_s": 3.1886,
+    "usage": {
+      "prompt_tokens": 1951,
+      "completion_tokens": 157,
+      "total_tokens": 2108
+    },
+    "cost_usd": 0.000127
+  },
+  {
+    "query_id": "bd_q13",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (Although the search targeted Section 1 (Page 26), the system retrieval limits prevented packing page 26 into the context, so the exact figures from Page 26 cannot be verified against the current packed context.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "million tons of plastic waste discharged land oceans Vietnam percentages domestic waste uncollected urban rural Page 26 Section 1 Introduction",
+        "filter": null,
+        "latency_s": 0.3243,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p049__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 49,
+            "score": 0.738582,
+            "text": "[Page 49 | 2.1 Plastic Field Surveys  | 49] 2.1 Plastic Field Surveys  | 49\nPlastic Waste Sources\nCoastal sites in Vietnam were polluted with plastic\nwaste from take-away-related and fishery-related\nsources. Take-away-related waste dominated on\ncoastal sites, and represented 42.7 percent in number\nof items, and 36.3 percent in weight. Unlike river\nsites, fishery-related waste was the second most\nprevalent type (34.9 percent in number and 33.4\npercent in weight), followed by household-related\nwaste (20.4 percent in number and 21.9 percent in\nweight). Agriculture–related and medical-related\nplastic waste each represented around 1 percent\nin number and about 7 percent in weight. Top 10 Plastic Waste Items\nAs described above (2.1.2.2), this study surveyed\nboth the standing stock at coastal sites and the daily\naccumulation rate."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p026__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 26,
+            "score": 0.730955,
+            "text": "[Page 26 | 1. INTRODUCTION] However,\nlimited safeguards, and conflicting and questionable information prevent\nconsumers from making informed choices and reducing their exposure. Vietnam is one of the major polluters of the world’s oceans. Annually, about 2.8\nto 3.1 million tons of plastic waste are discharged on land in Vietnam, and the\ncountry is estimated to be a major plastics polluter. As a result of discharging an\nestimated 0.28 to 0.73 million tons, annually, Vietnam is one of the top five polluters\nof the world’s oceans (Jambeck et al. 2015). Vietnam is also mentioned as one of\nthe countries with the highest level of mismanaged plastic waste generated by\nits coastal population (Law et al. 2020). In 2016, 0.57 million tons of mismanaged\nplastic waste leaked into Vietnamese coastal areas (Law et al. 2020)."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p039__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 39,
+            "score": 0.727969,
+            "text": "[Page 39 | 2.1 Plastic Field Surveys  | 39] 2.1 Plastic Field Surveys  | 39\n2.1.3.2 Combined Survey Results\nMajor Waste Categories\nAt both river and coastal sites, plastic waste dominated\nthe total composition. Across all sites, a total of 24,461\nitems and 164 kg of waste were collected during the\nsurveys; the percentage of plastic waste was 93.6 percent\nin number, and 70.7 percent in weight, followed by\ncloth/fabric (1.5 percent in number and 5.1 percent in\nweight), mixed waste (1.5 percent in number and 6.6\npercent in weight), and glass (1.4 percent in number\nand 8.9 percent in weight). Rubber, metal, and paper/\ntimber comprised less than 1 percent in number, and\nabout 3 percent in weight (see Figure 5 and Figure 6).\nFigure 5:\nTOTAL NUMBER OF WASTE ITEMS (PERCENTAGE) ON SURVEYED SITES IN VIETNAM\nFigure 6:\nTOTAL WEIGHT OF WASTE (PERCENTAGE) ON SURVEYED SITES IN VIETNAM 2020"
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p049__t00] (source: wb_vn_plastic_2022, page 49)\n[Page 49 | 2.1 Plastic Field Surveys  | 49] 2.1 Plastic Field Surveys  | 49\nPlastic Waste Sources\nCoastal sites in Vietnam were polluted with plastic\nwaste from take-away-related and fishery-related\nsources. Take-away-related waste dominated on\ncoastal sites, and represented 42.7 percent in number\nof items, and 36.3 percent in weight. Unlike river\nsites, fishery-related waste was the second most\nprevalent type (34.9 percent in number and 33.4\npercent in weight), followed by household-related\nwaste (20.4 percent in number and 21.9 percent in\nweight). Agriculture–related and medical-related\nplastic waste each represented around 1 percent\nin number and about 7 percent in weight. Top 10 Plastic Waste Items\nAs described above (2.1.2.2), this study surveyed\nboth the standing stock at coastal sites and the daily\naccumulation rate.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p049__t00"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p026__t01",
+          "BONUS__wb_vn_plastic_2022__p039__t00"
+        ],
+        "context_chars": 912
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "plastic waste discharged on land and into the oceans annually Vietnam uncollected urban rural",
+        "filter": null,
+        "latency_s": 0.2116,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p026__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 26,
+            "score": 0.754493,
+            "text": "[Page 26 | 1. INTRODUCTION] However,\nlimited safeguards, and conflicting and questionable information prevent\nconsumers from making informed choices and reducing their exposure. Vietnam is one of the major polluters of the world’s oceans. Annually, about 2.8\nto 3.1 million tons of plastic waste are discharged on land in Vietnam, and the\ncountry is estimated to be a major plastics polluter. As a result of discharging an\nestimated 0.28 to 0.73 million tons, annually, Vietnam is one of the top five polluters\nof the world’s oceans (Jambeck et al. 2015). Vietnam is also mentioned as one of\nthe countries with the highest level of mismanaged plastic waste generated by\nits coastal population (Law et al. 2020). In 2016, 0.57 million tons of mismanaged\nplastic waste leaked into Vietnamese coastal areas (Law et al. 2020)."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p049__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 49,
+            "score": 0.742334,
+            "text": "[Page 49 | 2.1 Plastic Field Surveys  | 49] 2.1 Plastic Field Surveys  | 49\nPlastic Waste Sources\nCoastal sites in Vietnam were polluted with plastic\nwaste from take-away-related and fishery-related\nsources. Take-away-related waste dominated on\ncoastal sites, and represented 42.7 percent in number\nof items, and 36.3 percent in weight. Unlike river\nsites, fishery-related waste was the second most\nprevalent type (34.9 percent in number and 33.4\npercent in weight), followed by household-related\nwaste (20.4 percent in number and 21.9 percent in\nweight). Agriculture–related and medical-related\nplastic waste each represented around 1 percent\nin number and about 7 percent in weight. Top 10 Plastic Waste Items\nAs described above (2.1.2.2), this study surveyed\nboth the standing stock at coastal sites and the daily\naccumulation rate."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p016__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 16,
+            "score": 0.736381,
+            "text": "[Page 16 | Executive Summary   | 15] Rapid economic growth, urbanization, and changing\nlifestyles in Vietnam have led to a country-wide plastic\npollution crisis. Since 1990, there has been a spectacular\nincrease in plastic use in Vietnam, rising from 3.8 kg/\ncapita in 1990 (MONRE 2020) to 81 kg/capita in 2019\n(IUCN-EA-QUANTIS 2020). Only about 15 percent of\nthe country’s plastic waste is recycled, and more than\nhalf—the equivalent of 3.6 MT/year—is mismanaged\n(IUCN-EA-QUANTIS 2020). The remainder of Vietnam’s\nplastic waste, if not disposed of in landfills, is buried\nin dumps, openly burned, or dumped in waterways. As a result of the latter, Vietnam is estimated to be\none of the top five polluters of the world’s oceans\n(Jambeck et al. 2015). Vietnam is committed to addressing its plastic waste\npollution challenges. In October 2018, the 8th plenary\nsession of the Party Central Committee (12th tenure)\nadopted Resolution No."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p049__t00] (source: wb_vn_plastic_2022, page 49)\n[Page 49 | 2.1 Plastic Field Surveys  | 49] 2.1 Plastic Field Surveys  | 49\nPlastic Waste Sources\nCoastal sites in Vietnam were polluted with plastic\nwaste from take-away-related and fishery-related\nsources. Take-away-related waste dominated on\ncoastal sites, and represented 42.7 percent in number\nof items, and 36.3 percent in weight. Unlike river\nsites, fishery-related waste was the second most\nprevalent type (34.9 percent in number and 33.4\npercent in weight), followed by household-related\nwaste (20.4 percent in number and 21.9 percent in\nweight). Agriculture–related and medical-related\nplastic waste each represented around 1 percent\nin number and about 7 percent in weight. Top 10 Plastic Waste Items\nAs described above (2.1.2.2), this study surveyed\nboth the standing stock at coastal sites and the daily\naccumulation rate.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p049__t00"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p026__t01",
+          "BONUS__wb_vn_plastic_2022__p039__t00",
+          "BONUS__wb_vn_plastic_2022__p016__t00"
+        ],
+        "context_chars": 912
+      },
+      {
+        "event": "abstain",
+        "reason": "Although the search targeted Section 1 (Page 26), the system retrieval limits prevented packing page 26 into the context, so the exact figures from Page 26 cannot be verified against the current packed context."
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p049__t00] (source: wb_vn_plastic_2022, page 49)\n[Page 49 | 2.1 Plastic Field Surveys  | 49] 2.1 Plastic Field Surveys  | 49\nPlastic Waste Sources\nCoastal sites in Vietnam were polluted with plastic\nwaste from take-away-related and fishery-related\nsources. Take-away-related waste dominated on\ncoastal sites, and represented 42.7 percent in number\nof items, and 36.3 percent in weight. Unlike river\nsites, fishery-related waste was the second most\nprevalent type (34.9 percent in number and 33.4\npercent in weight), followed by household-related\nwaste (20.4 percent in number and 21.9 percent in\nweight). Agriculture–related and medical-related\nplastic waste each represented around 1 percent\nin number and about 7 percent in weight. Top 10 Plastic Waste Items\nAs described above (2.1.2.2), this study surveyed\nboth the standing stock at coastal sites and the daily\naccumulation rate.",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p049__t00"
+    ],
+    "num_searches": 2,
+    "api_calls": 4,
+    "latency_s": 6.1556,
+    "usage": {
+      "prompt_tokens": 5451,
+      "completion_tokens": 154,
+      "total_tokens": 5605
+    },
+    "cost_usd": 0.0
+  },
+  {
+    "query_id": "bd_q14",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (The packed context does not contain the specific text for Sections 2.1.2.2 and 2.1.2.4 on pages 32 and 34 detailing the differences in physical sampling unit definitions and digging protocols between river sites and coastal sites.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Section 2.1.2.2 2.1.2.4 physical sampling unit definition digging protocol river sites coastal sites page 32 34",
+        "filter": null,
+        "latency_s": 0.3316,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p106__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 106,
+            "score": 0.673092,
+            "text": "[Page 106 | ANNEX 2.1.B:] ANNEX 2.1.B:\nSURVEY PROTOCOLS\nCOASTAL SITES\n•\nBefore arriving at sites\nSurveying should take place at low tide. When planning the monitoring schedule,\nconsult tidal charts to determine the correct time for low tide.\n•\nWorking at sites\nStep 1: Fill out the site characterization\nsheet\nStep 2: Identify a section of 100m on each\nbeach. Each 100m-section is divided into 20\nequal sections, each with a width of 5m, and\nperpendicular to the shore. Step 3: Select 4 randomly divided sections\non the beach, herein called transects\nStep 4: In each transect, walk from the water’s\nedge to the back of the shoreline and collect\nwaste items that are larger than 2.5cm (Plastic,\nmetal, grass, rubber, cloth, wood, others)\nStep 5: Sort, count, and weigh the waste\nitems collected, and fill out the data sheet."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p032__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 32,
+            "score": 0.666905,
+            "text": "[Page 32 | 2.1 Plastic Field Surveys  | 31] While survey teams\nat river sites dug down to a depth of 30cm in an area\none meter square, sampling at coastal sites did not\ninvolve digging, and instead items were collected\nfrom the surface of the ground (see Annex 2.1.B). At coastal sites to assess the impact of the tide on\nstanding stock7 and the accumulation rate,8 surveying\nwas carried out on two consecutive days. 7\nStanding stock is a measure of the amount of debris at a coastal\nsite expressed as the [unit quantity of debris] per [unit length or\narea of the coastal site]. Each survey event was a snapshot of the\nconcentration of debris at a survey site, and a series of these snap-\nshots over time provided information on changes in the baseline\nconcentration of debris. This is an efficient way to assess large-\nscale spatial patterns in the distribution and composition of debris\n(Cheshire et al. 2009; GESAMP 2019; Lippiatt et al."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p031__table_02",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 31,
+            "score": 0.66526,
+            "text": "[TABLE 2 | Page 31 | Section 2.1.2.1] Table 2: Coastal and River Site Selection Criteria.\n- Coastal Site Criteria:\n  1. Sandy beach or pebble shoreline.\n  2. Clear, direct, year-round access.\n  3. No breakwaters or jetties.\n  4. At least 100 meters in length, parallel to the water.\n  5. If two coastal sites are surveyed in a location: choose one beach with no regular clean-up activities (or cleaned at least 3 months prior) and one beach with regular clean-ups. If only one coastal site is included, choose either.\n- River Site Criteria:\n  1. At least 100 meters in length, parallel to the water.\n  2. Digging on the banks is possible (down to 30 cm depth in 1 m x 1 m quadrats).\n  3. Regularly flooded during the rainy season."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p106__t00] (source: wb_vn_plastic_2022, page 106)\n[Page 106 | ANNEX 2.1.B:] ANNEX 2.1.B:\nSURVEY PROTOCOLS\nCOASTAL SITES\n•\nBefore arriving at sites\nSurveying should take place at low tide. When planning the monitoring schedule,\nconsult tidal charts to determine the correct time for low tide.\n•\nWorking at sites\nStep 1: Fill out the site characterization\nsheet\nStep 2: Identify a section of 100m on each\nbeach. Each 100m-section is divided into 20\nequal sections, each with a width of 5m, and\nperpendicular to the shore. Step 3: Select 4 randomly divided sections\non the beach, herein called transects\nStep 4: In each transect, walk from the water’s\nedge to the back of the shoreline and collect\nwaste items that are larger than 2.5cm (Plastic,\nmetal, grass, rubber, cloth, wood, others)\nStep 5: Sort, count, and weigh the waste\nitems collected, and fill out the data sheet.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p106__t00"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p032__t01",
+          "BONUS__wb_vn_plastic_2022__p031__table_02"
+        ],
+        "context_chars": 901
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "sampling unit definition digging protocol river sites coastal sites page 32 page 34",
+        "filter": null,
+        "latency_s": 0.2078,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p032__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 32,
+            "score": 0.667102,
+            "text": "[Page 32 | 2.1 Plastic Field Surveys  | 31] While survey teams\nat river sites dug down to a depth of 30cm in an area\none meter square, sampling at coastal sites did not\ninvolve digging, and instead items were collected\nfrom the surface of the ground (see Annex 2.1.B). At coastal sites to assess the impact of the tide on\nstanding stock7 and the accumulation rate,8 surveying\nwas carried out on two consecutive days. 7\nStanding stock is a measure of the amount of debris at a coastal\nsite expressed as the [unit quantity of debris] per [unit length or\narea of the coastal site]. Each survey event was a snapshot of the\nconcentration of debris at a survey site, and a series of these snap-\nshots over time provided information on changes in the baseline\nconcentration of debris. This is an efficient way to assess large-\nscale spatial patterns in the distribution and composition of debris\n(Cheshire et al. 2009; GESAMP 2019; Lippiatt et al."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p031__t04",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 31,
+            "score": 0.659837,
+            "text": "[Page 31 | 2.1 Plastic Field Surveys  | 31] If the survey includes only one coastal site in a location,\nchoose either.\n•\nAt least 100 meters in length,\nparallel to the water\n•\nDigging on the banks is possible\n•\nRegularly flooded during the rainy\nseason"
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p034__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 34,
+            "score": 0.649134,
+            "text": "[Page 34 | 2.1 Plastic Field Surveys  | 33] Significant Difference) test was performed to identify\nthe beach survey groups that were significantly different\nat the 5 percent level. The combined survey results provided a simple\noverview of the surveyed items, based on the total\nitem numbers and weights observed. However, to\nenable a comparison between different sites, locations,\nand groups of locations (for example, all locations along\na specific river system), the analysis considered the\nnumber of items per unit (called density, henceforth)\nand the weight per unit. The definition of units differed, depending on the type\nof site: for river sites, one unit was defined as 1m2 x\n0.3m depth (1m length x 1m width x 0.3m depth—for\nmore information see 2.1.2.2); for coastal sites, one\nunit was defined as 1m2 (1m long x 1m wide)."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p106__t00] (source: wb_vn_plastic_2022, page 106)\n[Page 106 | ANNEX 2.1.B:] ANNEX 2.1.B:\nSURVEY PROTOCOLS\nCOASTAL SITES\n•\nBefore arriving at sites\nSurveying should take place at low tide. When planning the monitoring schedule,\nconsult tidal charts to determine the correct time for low tide.\n•\nWorking at sites\nStep 1: Fill out the site characterization\nsheet\nStep 2: Identify a section of 100m on each\nbeach. Each 100m-section is divided into 20\nequal sections, each with a width of 5m, and\nperpendicular to the shore. Step 3: Select 4 randomly divided sections\non the beach, herein called transects\nStep 4: In each transect, walk from the water’s\nedge to the back of the shoreline and collect\nwaste items that are larger than 2.5cm (Plastic,\nmetal, grass, rubber, cloth, wood, others)\nStep 5: Sort, count, and weigh the waste\nitems collected, and fill out the data sheet.\n\n[BONUS__wb_vn_plastic_2022__p031__t04] (source: wb_vn_plastic_2022, page 31)\n[Page 31 | 2.1 Plastic Field Surveys  | 31] If the survey includes only one coastal site in a location,\nchoose either.\n•\nAt least 100 meters in length,\nparallel to the water\n•\nDigging on the banks is possible\n•\nRegularly flooded during the rainy\nseason",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p106__t00",
+          "BONUS__wb_vn_plastic_2022__p031__t04"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p032__t01",
+          "BONUS__wb_vn_plastic_2022__p031__table_02",
+          "BONUS__wb_vn_plastic_2022__p034__t00"
+        ],
+        "context_chars": 1232
+      },
+      {
+        "event": "abstain",
+        "reason": "The packed context does not contain the specific text for Sections 2.1.2.2 and 2.1.2.4 on pages 32 and 34 detailing the differences in physical sampling unit definitions and digging protocols between river sites and coastal sites."
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p106__t00] (source: wb_vn_plastic_2022, page 106)\n[Page 106 | ANNEX 2.1.B:] ANNEX 2.1.B:\nSURVEY PROTOCOLS\nCOASTAL SITES\n•\nBefore arriving at sites\nSurveying should take place at low tide. When planning the monitoring schedule,\nconsult tidal charts to determine the correct time for low tide.\n•\nWorking at sites\nStep 1: Fill out the site characterization\nsheet\nStep 2: Identify a section of 100m on each\nbeach. Each 100m-section is divided into 20\nequal sections, each with a width of 5m, and\nperpendicular to the shore. Step 3: Select 4 randomly divided sections\non the beach, herein called transects\nStep 4: In each transect, walk from the water’s\nedge to the back of the shoreline and collect\nwaste items that are larger than 2.5cm (Plastic,\nmetal, grass, rubber, cloth, wood, others)\nStep 5: Sort, count, and weigh the waste\nitems collected, and fill out the data sheet.\n\n[BONUS__wb_vn_plastic_2022__p031__t04] (source: wb_vn_plastic_2022, page 31)\n[Page 31 | 2.1 Plastic Field Surveys  | 31] If the survey includes only one coastal site in a location,\nchoose either.\n•\nAt least 100 meters in length,\nparallel to the water\n•\nDigging on the banks is possible\n•\nRegularly flooded during the rainy\nseason",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p106__t00",
+      "BONUS__wb_vn_plastic_2022__p031__t04"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 4.1304,
+    "usage": {
+      "prompt_tokens": 3911,
+      "completion_tokens": 150,
+      "total_tokens": 4061
+    },
+    "cost_usd": 0.0
+  },
+  {
+    "query_id": "bd_q15",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (Although page 42 and Section 2.1.3.2 are mentioned in the prompt, the retrieved context and search results for '24,461' and 'top 21 brands' did not return the text from page 42 due to search limitations. Therefore, sufficient evidence is absent in the current packed context.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Waste Brand Audit 24461 brand top 21 brands page 42 section 2.1.3.2",
+        "filter": null,
+        "latency_s": 0.2121,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p106__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 106,
+            "score": 0.740973,
+            "text": "[Page 106 | ANNEX 2.1.B:] Audit the brands of the waste and write\nthese on the brand audit sheet\nStep 6: Throw the waste collected into the\ntrash bin\nPhoto source: (Lippiatt, 2013; WIOMSA, n.d)"
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p033__t02",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 33,
+            "score": 0.623515,
+            "text": "[Page 33 | 2.1 Plastic Field Surveys  | 33] No Brand audits were conducted after all waste items had been sorted, tallied, and weighed."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p033__t03",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 33,
+            "score": 0.614877,
+            "text": "[Page 33 | 2.1 Plastic Field Surveys  | 33] The survey\ngroups filtered out all the waste with brands that could\nbe identified, and then classified the waste by the\ncommercial product’s brand name. The item counter\ngathered all the pieces of a specific product, and called\nout to the data recorder: the name of the i) product,\nii) variant, iii) material, and iv) manufacturer, and v)\nthe total number of pieces. The data recorder then\nwrote this information down on a brand audit form. 2.1.2.4 Data Analysis\nStatistical analyses were performed to determine\nwhether the deposition rates of debris differed\nsignificantly across the survey sites (river soil and\ncoastal beaches), with respect to their geographic\nlocation. Kruskal–Wallis one-way analysis of variance\n(ANOVA) by ranks was used for the statistical analyses\nbecause the sample groups did not show normality\nand equal variance, and differed in their sample size."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p106__t01] (source: wb_vn_plastic_2022, page 106)\n[Page 106 | ANNEX 2.1.B:] Audit the brands of the waste and write\nthese on the brand audit sheet\nStep 6: Throw the waste collected into the\ntrash bin\nPhoto source: (Lippiatt, 2013; WIOMSA, n.d)\n\n[BONUS__wb_vn_plastic_2022__p033__t02] (source: wb_vn_plastic_2022, page 33)\n[Page 33 | 2.1 Plastic Field Surveys  | 33] No Brand audits were conducted after all waste items had been sorted, tallied, and weighed.\n\n[BONUS__wb_vn_plastic_2022__p033__t03] (source: wb_vn_plastic_2022, page 33)\n[Page 33 | 2.1 Plastic Field Surveys  | 33] The survey\ngroups filtered out all the waste with brands that could\nbe identified, and then classified the waste by the\ncommercial product’s brand name. The item counter\ngathered all the pieces of a specific product, and called\nout to the data recorder: the name of the i) product,\nii) variant, iii) material, and iv) manufacturer, and v)\nthe total number of pieces. The data recorder then\nwrote this information down on a brand audit form. 2.1.2.4 Data Analysis\nStatistical analyses were performed to determine\nwhether the deposition rates of debris differed\nsignificantly across the survey sites (river soil and\ncoastal beaches), with respect to their geographic\nlocation. Kruskal–Wallis one-way analysis of variance\n(ANOVA) by ranks was used for the statistical analyses\nbecause the sample groups did not show normality\nand equal variance, and differed in their sample size.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p106__t01",
+          "BONUS__wb_vn_plastic_2022__p033__t02",
+          "BONUS__wb_vn_plastic_2022__p033__t03"
+        ],
+        "dropped_ids": [],
+        "context_chars": 1485
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "24,461 brand top 21 brands page 42 section 2.1.3.2",
+        "filter": null,
+        "latency_s": 0.2062,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p106__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 106,
+            "score": 0.527234,
+            "text": "[Page 106 | ANNEX 2.1.B:] Audit the brands of the waste and write\nthese on the brand audit sheet\nStep 6: Throw the waste collected into the\ntrash bin\nPhoto source: (Lippiatt, 2013; WIOMSA, n.d)"
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p104__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 104,
+            "score": 0.506936,
+            "text": "[Page 104 | Annex 2.1.A: Survey Data Sheet Templates  | 103] Table 23:\nFIELD SURVEY DATA SHEET\nThe name of the survey site\nID transect\nTime\nStart\n\nEnd\nDate: dd/mm/yy\nLength of transect (m)\nWidth of transect (m)\n\nID\nItem\nSize(1-2)\nNumber\nWeight\nP\nPLASTIC\n\n1\nHard plastic fragments\n\n2\nSoft plastic fragments\n\n3\nFilm plastic fragments\n\n4\nCrisp/Sweet packages\n\n5\nFood wrappers\n\n6\nOther wrappers\n\n7\nBeverage bottles (PET)\nSize 1 (0-500ml)\n\nSize 2 (> 500ml)\n\n8\nOther Beverage bottles (HDPE,…)\n\n9\nContainers and bottles\n\n10\nCleaner and cosmetics bottles (shampoo\nbottles, cosmetic jars, shower gel\nbottles e.g)\nSize 1 (0-100ml)\n\nSize 2 (>100ml)\n\n11\nBottle caps (HDPE)\n\n12\nCigar/Cigarette butts\n\n13\nPlastic bags\nSize 1 (0-5kg)\n\nSize 2 (>5kg)"
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p033__t03",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 33,
+            "score": 0.496744,
+            "text": "[Page 33 | 2.1 Plastic Field Surveys  | 33] The survey\ngroups filtered out all the waste with brands that could\nbe identified, and then classified the waste by the\ncommercial product’s brand name. The item counter\ngathered all the pieces of a specific product, and called\nout to the data recorder: the name of the i) product,\nii) variant, iii) material, and iv) manufacturer, and v)\nthe total number of pieces. The data recorder then\nwrote this information down on a brand audit form. 2.1.2.4 Data Analysis\nStatistical analyses were performed to determine\nwhether the deposition rates of debris differed\nsignificantly across the survey sites (river soil and\ncoastal beaches), with respect to their geographic\nlocation. Kruskal–Wallis one-way analysis of variance\n(ANOVA) by ranks was used for the statistical analyses\nbecause the sample groups did not show normality\nand equal variance, and differed in their sample size."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p106__t01] (source: wb_vn_plastic_2022, page 106)\n[Page 106 | ANNEX 2.1.B:] Audit the brands of the waste and write\nthese on the brand audit sheet\nStep 6: Throw the waste collected into the\ntrash bin\nPhoto source: (Lippiatt, 2013; WIOMSA, n.d)\n\n[BONUS__wb_vn_plastic_2022__p033__t02] (source: wb_vn_plastic_2022, page 33)\n[Page 33 | 2.1 Plastic Field Surveys  | 33] No Brand audits were conducted after all waste items had been sorted, tallied, and weighed.\n\n[BONUS__wb_vn_plastic_2022__p033__t03] (source: wb_vn_plastic_2022, page 33)\n[Page 33 | 2.1 Plastic Field Surveys  | 33] The survey\ngroups filtered out all the waste with brands that could\nbe identified, and then classified the waste by the\ncommercial product’s brand name. The item counter\ngathered all the pieces of a specific product, and called\nout to the data recorder: the name of the i) product,\nii) variant, iii) material, and iv) manufacturer, and v)\nthe total number of pieces. The data recorder then\nwrote this information down on a brand audit form. 2.1.2.4 Data Analysis\nStatistical analyses were performed to determine\nwhether the deposition rates of debris differed\nsignificantly across the survey sites (river soil and\ncoastal beaches), with respect to their geographic\nlocation. Kruskal–Wallis one-way analysis of variance\n(ANOVA) by ranks was used for the statistical analyses\nbecause the sample groups did not show normality\nand equal variance, and differed in their sample size.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p106__t01",
+          "BONUS__wb_vn_plastic_2022__p033__t02",
+          "BONUS__wb_vn_plastic_2022__p033__t03"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p104__t00"
+        ],
+        "context_chars": 1485
+      },
+      {
+        "event": "abstain",
+        "reason": "Although page 42 and Section 2.1.3.2 are mentioned in the prompt, the retrieved context and search results for '24,461' and 'top 21 brands' did not return the text from page 42 due to search limitations. Therefore, sufficient evidence is absent in the current packed context."
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p106__t01] (source: wb_vn_plastic_2022, page 106)\n[Page 106 | ANNEX 2.1.B:] Audit the brands of the waste and write\nthese on the brand audit sheet\nStep 6: Throw the waste collected into the\ntrash bin\nPhoto source: (Lippiatt, 2013; WIOMSA, n.d)\n\n[BONUS__wb_vn_plastic_2022__p033__t02] (source: wb_vn_plastic_2022, page 33)\n[Page 33 | 2.1 Plastic Field Surveys  | 33] No Brand audits were conducted after all waste items had been sorted, tallied, and weighed.\n\n[BONUS__wb_vn_plastic_2022__p033__t03] (source: wb_vn_plastic_2022, page 33)\n[Page 33 | 2.1 Plastic Field Surveys  | 33] The survey\ngroups filtered out all the waste with brands that could\nbe identified, and then classified the waste by the\ncommercial product’s brand name. The item counter\ngathered all the pieces of a specific product, and called\nout to the data recorder: the name of the i) product,\nii) variant, iii) material, and iv) manufacturer, and v)\nthe total number of pieces. The data recorder then\nwrote this information down on a brand audit form. 2.1.2.4 Data Analysis\nStatistical analyses were performed to determine\nwhether the deposition rates of debris differed\nsignificantly across the survey sites (river soil and\ncoastal beaches), with respect to their geographic\nlocation. Kruskal–Wallis one-way analysis of variance\n(ANOVA) by ranks was used for the statistical analyses\nbecause the sample groups did not show normality\nand equal variance, and differed in their sample size.",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p106__t01",
+      "BONUS__wb_vn_plastic_2022__p033__t02",
+      "BONUS__wb_vn_plastic_2022__p033__t03"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 3.8411,
+    "usage": {
+      "prompt_tokens": 4334,
+      "completion_tokens": 168,
+      "total_tokens": 4502
+    },
+    "cost_usd": 0.0
+  },
+  {
+    "query_id": "bd_u01",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (The search results and current packed context do not contain Table 6 or any data regarding the Clean-Coast Index (CCI) and plastic density for beaches in Ha Long Bay (Quang Ninh Province).)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Ha Long Bay Quang Ninh Province Clean Coast Index CCI plastic density items m2 Table 6",
+        "filter": null,
+        "latency_s": 0.2127,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p019__t03",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 19,
+            "score": 0.728177,
+            "text": "[Page 19 | Executive Summary   | 19] The density of plastic items was\nsignificantly lower in Hai Phong (36.23 items per meter\nof coastline) and Da Nang (27.9 items per meter of\ncoastline). Single-use plastics accounted for 52 percent\n1\nFor riverbank sites, a survey “unit” is an area 1m2 dug to a 0.3\nmeter depth. 2\n“Meter of coastline” was used as the unit for the coastal site\nsurveys.\nof the total plastic waste encountered at coastal survey\nsites. The Clean Coast Index (CCI) measurement results\nshowed that 10 sites (71.4 percent of the total) were\nextremely dirty (a CCI of more than 20), two sites were\ndirty (a CCI of between 10 and 20), and another two\nsites were moderate (a CCI of between 5 and 10). The\nhighest CCIs were recorded at Binh Lap Beach (379)\nand My Ca (192)  in Khanh Hoa, Lai Hoa Beach in Soc\nTrang (176), Truong Beach on Phu Quoc Island (163),\nand Got Ferry Beach in Hai Phong (73)."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p017__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 17,
+            "score": 0.720475,
+            "text": "[Page 17 | Executive Summary   | 17] These were\nin  Lao Cai Province\nand Hai Phong in the\nNorthern region; Thua\nThien Hue Province,\nDa Nang, Quang Nam\nProvince, and Khanh\nHoa Province in the\nCentral region; and\nSoc Trang, Ho Chi Minh\nCity, Can Tho, and Kien\nGiang (Phu Quoc Island)\nin the Southern region. Standardized surveys of\nriver and coastal sites were\ncarried out to identify the\ncomposition of the top 10\nmost common plastic waste\nitems, spanning 7 categories,\nand 38 sub-categories. For\ncoastal sites, a score was\ncalculated for the standard\nmetric of pollution—the\nClean Coast Index (CCI). Section 2.1.2 gives an\noverview of the methodology\nand discusses its limitations. Photo: Al.geba - Shutterstock"
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p052__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 52,
+            "score": 0.716081,
+            "text": "[Page 52 | 2.1 Plastic Field Surveys  | 51] Table 6:\nCLEAN-COAST INDEX FOR SURVEYED COASTAL SITES\nSurvey sites\nSurveyed area (m2)\nDensity\nCCI\nHai Phong\n1\nDo Son\n4,220\n0.46\n9.28\nModerate\n2\nGot Ferry\n1,440\n3.67\n73.41\nExtremely Dirty\nHue\n3\nThuan An\n4,000\n3.53\n70.6\nExtremely Dirty\nDa Nang\n4\nDong\n1,835\n0.64\n12.80\nDirty\n5\nNam O\n1,850\n2.38\n47.56\nExtremely Dirty\nQuang Nam\n6\nRang\n5,000\n2.67\n53.44\nExtremely Dirty\nNha Trang\n7\nVinh Nguyen\n1,000\n1.65\n33.12\nExtremely Dirty\n8\nBinh Lap\n880\n18.9\n379.8\nExtremely Dirty\n9\nMy Ca\n1060\n9.6\n192.1\nExtremely Dirty\nHo Chi Minh City\n10\nApril 30\n17,150\n0.79\n15.81\nDirty\nSoc Trang\n11\nHo Be\n3,025\n0.39\n7.80\nModerate\n12\nLai Hoa\n1,675\n8.84\n176.95\nExtremely Dirty\nPhu Quoc\n13\nTruong\n1,187.6\n8.18\n163.69\nExtremely Dirty\n14\nSao\n3,072.6\n1.28\n25.62\nExtremely Dirty\nA more detailed presentation of survey results from coastal sites can be found in Annex 2.1.D."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p019__t03] (source: wb_vn_plastic_2022, page 19)\n[Page 19 | Executive Summary   | 19] The density of plastic items was\nsignificantly lower in Hai Phong (36.23 items per meter\nof coastline) and Da Nang (27.9 items per meter of\ncoastline). Single-use plastics accounted for 52 percent\n1\nFor riverbank sites, a survey “unit” is an area 1m2 dug to a 0.3\nmeter depth. 2\n“Meter of coastline” was used as the unit for the coastal site\nsurveys.\nof the total plastic waste encountered at coastal survey\nsites. The Clean Coast Index (CCI) measurement results\nshowed that 10 sites (71.4 percent of the total) were\nextremely dirty (a CCI of more than 20), two sites were\ndirty (a CCI of between 10 and 20), and another two\nsites were moderate (a CCI of between 5 and 10). The\nhighest CCIs were recorded at Binh Lap Beach (379)\nand My Ca (192)  in Khanh Hoa, Lai Hoa Beach in Soc\nTrang (176), Truong Beach on Phu Quoc Island (163),\nand Got Ferry Beach in Hai Phong (73).",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p019__t03"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p017__t01",
+          "BONUS__wb_vn_plastic_2022__p052__t00"
+        ],
+        "context_chars": 985
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Table 6 Ha Long Bay Quang Ninh Clean Coast Index CCI plastic density items m2",
+        "filter": null,
+        "latency_s": 0.2121,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p019__t03",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 19,
+            "score": 0.733033,
+            "text": "[Page 19 | Executive Summary   | 19] The density of plastic items was\nsignificantly lower in Hai Phong (36.23 items per meter\nof coastline) and Da Nang (27.9 items per meter of\ncoastline). Single-use plastics accounted for 52 percent\n1\nFor riverbank sites, a survey “unit” is an area 1m2 dug to a 0.3\nmeter depth. 2\n“Meter of coastline” was used as the unit for the coastal site\nsurveys.\nof the total plastic waste encountered at coastal survey\nsites. The Clean Coast Index (CCI) measurement results\nshowed that 10 sites (71.4 percent of the total) were\nextremely dirty (a CCI of more than 20), two sites were\ndirty (a CCI of between 10 and 20), and another two\nsites were moderate (a CCI of between 5 and 10). The\nhighest CCIs were recorded at Binh Lap Beach (379)\nand My Ca (192)  in Khanh Hoa, Lai Hoa Beach in Soc\nTrang (176), Truong Beach on Phu Quoc Island (163),\nand Got Ferry Beach in Hai Phong (73)."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p017__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 17,
+            "score": 0.71535,
+            "text": "[Page 17 | Executive Summary   | 17] These were\nin  Lao Cai Province\nand Hai Phong in the\nNorthern region; Thua\nThien Hue Province,\nDa Nang, Quang Nam\nProvince, and Khanh\nHoa Province in the\nCentral region; and\nSoc Trang, Ho Chi Minh\nCity, Can Tho, and Kien\nGiang (Phu Quoc Island)\nin the Southern region. Standardized surveys of\nriver and coastal sites were\ncarried out to identify the\ncomposition of the top 10\nmost common plastic waste\nitems, spanning 7 categories,\nand 38 sub-categories. For\ncoastal sites, a score was\ncalculated for the standard\nmetric of pollution—the\nClean Coast Index (CCI). Section 2.1.2 gives an\noverview of the methodology\nand discusses its limitations. Photo: Al.geba - Shutterstock"
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p034__table_04",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 34,
+            "score": 0.715109,
+            "text": "[TABLE 4 | Page 34 | Section 2.1.2.4] Table 4: Clean-Coast Index (CCI = Density of plastic items per m2 * k, where coefficient k = 20).\n| CCI Grade | Description | Numeric Index Range |\n| Very clean | No waste was seen | 0–2 |\n| Clean | No waste was seen over a large area | 2–5 |\n| Moderate | A few pieces of waste were detected | 5–10 |\n| Dirty | A lot of waste on shore/at sites | 10–20 |\n| Extremely dirty | Most of the beach/site was covered with waste | 20+ |\nUnit definition on Page 34: For river sites, 1 unit = 1 m2 x 0.3 m depth (1 m length x 1 m width x 0.3 m depth). For coastal sites, 1 unit = 1 m2 (1 m long x 1 m wide)."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p019__t03] (source: wb_vn_plastic_2022, page 19)\n[Page 19 | Executive Summary   | 19] The density of plastic items was\nsignificantly lower in Hai Phong (36.23 items per meter\nof coastline) and Da Nang (27.9 items per meter of\ncoastline). Single-use plastics accounted for 52 percent\n1\nFor riverbank sites, a survey “unit” is an area 1m2 dug to a 0.3\nmeter depth. 2\n“Meter of coastline” was used as the unit for the coastal site\nsurveys.\nof the total plastic waste encountered at coastal survey\nsites. The Clean Coast Index (CCI) measurement results\nshowed that 10 sites (71.4 percent of the total) were\nextremely dirty (a CCI of more than 20), two sites were\ndirty (a CCI of between 10 and 20), and another two\nsites were moderate (a CCI of between 5 and 10). The\nhighest CCIs were recorded at Binh Lap Beach (379)\nand My Ca (192)  in Khanh Hoa, Lai Hoa Beach in Soc\nTrang (176), Truong Beach on Phu Quoc Island (163),\nand Got Ferry Beach in Hai Phong (73).",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p019__t03"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p017__t01",
+          "BONUS__wb_vn_plastic_2022__p052__t00",
+          "BONUS__wb_vn_plastic_2022__p034__table_04"
+        ],
+        "context_chars": 985
+      },
+      {
+        "event": "abstain",
+        "reason": "The search results and current packed context do not contain Table 6 or any data regarding the Clean-Coast Index (CCI) and plastic density for beaches in Ha Long Bay (Quang Ninh Province)."
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p019__t03] (source: wb_vn_plastic_2022, page 19)\n[Page 19 | Executive Summary   | 19] The density of plastic items was\nsignificantly lower in Hai Phong (36.23 items per meter\nof coastline) and Da Nang (27.9 items per meter of\ncoastline). Single-use plastics accounted for 52 percent\n1\nFor riverbank sites, a survey “unit” is an area 1m2 dug to a 0.3\nmeter depth. 2\n“Meter of coastline” was used as the unit for the coastal site\nsurveys.\nof the total plastic waste encountered at coastal survey\nsites. The Clean Coast Index (CCI) measurement results\nshowed that 10 sites (71.4 percent of the total) were\nextremely dirty (a CCI of more than 20), two sites were\ndirty (a CCI of between 10 and 20), and another two\nsites were moderate (a CCI of between 5 and 10). The\nhighest CCIs were recorded at Binh Lap Beach (379)\nand My Ca (192)  in Khanh Hoa, Lai Hoa Beach in Soc\nTrang (176), Truong Beach on Phu Quoc Island (163),\nand Got Ferry Beach in Hai Phong (73).",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p019__t03"
+    ],
+    "num_searches": 2,
+    "api_calls": 4,
+    "latency_s": 5.0162,
+    "usage": {
+      "prompt_tokens": 5684,
+      "completion_tokens": 142,
+      "total_tokens": 5826
+    },
+    "cost_usd": 0.0
+  },
+  {
+    "query_id": "bd_u02",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (Han Bridge in Hai Duong was not surveyed or analyzed in Table 13 or Table 14 of the report (Table 10 and Table 13 show that Han Bridge had no analysis or monitoring data available).)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Table 13 Table 14 Han Bridge Hai Duong floating plastic flow velocity",
+        "filter": null,
+        "latency_s": 0.2234,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p069__table_13",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 69,
+            "score": 0.723087,
+            "text": "[TABLE 13 | Page 69 | Section 2.2.4.2] Table 13: Plastics River Monitoring Results (Half-hourly floating plastic item counts from 0h to 9h across 5 bridges; extrapolated to 600m river width in parentheses).\n| Time Interval | Hai Duong, Thach Khoi 2 | Hai Phong, Chanh Duong 01 | Hai Phong, Chanh Duong 02 | Hai Phong, Dang bridge | Sapa, Suoi Cat 2 |\n| 0h - 0.5h | 17 | 4 (8) | 35 (45) | 0 | 20 |\n| 0.5h - 1h | 15 | 6 (13) | 36 (46) | 0 | 20 |\n| 1h - 1.5h | 22 | 5 (10) | 28 (36) | 3 | 12 |\n| 1.5h - 2h | 11 | 22 (46) | 21 (27) | 10 | 25 |\n| 2h - 2.5h | 16 | 17 (36) | 37 (48) | 10 | 25 |\n| 2.5h - 3h | 16 | 24 (50) | 51 (66) | 41 | 30 |\n| 3h - 3.5h | 24 | 25 (52) | 23 (30) | 14 | 15 |\n| 3.5h - 4h | 12 | 25 (52) | 34 (44) | 9 | 20 |\n| 4h - 4.5h | 9 | 31 (65) | 28 (36) | 9 | 25 |\n| 4.5h - 5h | 5 | 25 (52) | 21 (27) | 6 | 18 |\n| 5h - 5.5h | 12 | 12 (25) | 23 (30) | 10 | 25 |\n| 5.5h - 6h | 18 | 19 (40) | 42 (54) | 21 | 25 |\n| 6h - 6.5h | 2 | 14 (29) | 32 (41) | 4 | 17 |\n| 6.5h - 7h | 17 | 23 (48) | 24 (31) | 2 | 15 |\n| 7h - 7.5h | 11 | 19 (40) | 19 (25) | 0 | 18 |\n| 7.5h - 8h | 10 | 8 (17) | 8 (10) | 1 | 21 |\n| 8h - 8.5h | 11 | 7 (15) | 1 (1) | - | 29 |\n| 8.5h - 9h | 8 | - | - | - | - |\n| SUM (Total items) | 236 | 286 (600) | 465 (600) | 140 | 360 |"
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p130__table_26",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 130,
+            "score": 0.674893,
+            "text": "[TABLE 26 | Page 130 | Annex 2.2.D] Table 26: Flow Velocity Results from Net Sampling (m/s) at Chanh Duong 2 Bridge.\n| Time | Pos. 1 (GOPRO2) Upper net | Pos. 1 (GOPRO2) Lower net | Pos. 2 (GOPRO1) Upper net | Pos. 2 (GOPRO1) Lower net | Pos. 3 (GOPRO3) Upper net | Pos. 3 (GOPRO3) Lower net |\n| 8:30 AM | - | - | 0.26 m/s | 0.18 m/s | - | - |\n| 9:40 AM | 0.35 m/s | 0.24 m/s | - | - | - | - |\n| 10:20 AM | 0.41 m/s | 0.27 m/s | - | - | - | - |\n| 11:30 AM | - | - | 0.43 m/s | 0.30 m/s | - | - |\n| 1:20 PM | - | - | - | - | 0.58 m/s | 0.36 m/s |\n| 2:25 PM | - | - | - | - | 0.63 m/s | 0.41 m/s |\nSummary: Across all measurements, the upper net flow velocity (0.26 to 0.63 m/s) is consistently higher than the lower net flow velocity (0.18 to 0.41 m/s). Peak velocity was recorded at 2:25 PM at Pos. 3 (GOPRO3) with 0.63 m/s in the upper net and 0.41 m/s in the lower net."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p069__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 69,
+            "score": 0.662824,
+            "text": "[Page 69 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 69] 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 69\nTable 13:\nPLASTICS RIVER MONITORING RESULTS FOR HAI DUONG, HAI PHONG, AND SAPA\nHai Duong,\nThach Koi 2\nHai Phong,\nChanh Duong\n011\nHai Phong,\nChanh Duong\n022\nHai Phong,\nDang bridge\nSapa,\nSuoi Cat 2\n(Cau Lao Chai)\n0h - 0.5h\n12\n10\n35\n9\n22\n0.5h - 1h\n22\n15\n36\n7\n31\n1h - 1.5h\n11\n14\n28\n10\n41\n1.5h - 2h\n10\n36\n21\n9\n15\n2h - 2.5h\n2\n40\n37\n10\n7\n2.5h - 3h\n3\n10\n51\n7\n16\n3h - 3.5h\n10\n5\n23\n9\n11\n3.5h - 4h\n9\n8\n34\n5\n41\n4h - 4.5h\n21\n4\n28\n6\n25\n4.5h - 5h\n27\n14\n21\n11\n44\n5h - 5.5h\n26\n9\n24\n3\n36\n5.5h - 6h\n24\n17\n42\n8\n29\n6h - 6.5h\n10\n31\n32\n3\n20\n6.5h - 7h\n11\n16\n24\n8\n9\n7h - 7.5h\n16\n3\n19\n12\n8\n7.5h - 8h\n7\n29\n8\n15\n4\n8h - 8.5h\n15\n25\n2\n8\n1\n8.5h - 9h\n0\nSUM\n236\n286 (600)\n465 (600)\n140\n360\nNote:\t The survey day at Thach Koi 2 lasted 9 hours, while the survey days at other sites lasted 8.5 hours."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p069__table_13] (source: wb_vn_plastic_2022, page 69)\n[TABLE 13 | Page 69 | Section 2.2.4.2] Table 13: Plastics River Monitoring Results (Half-hourly floating plastic item counts from 0h to 9h across 5 bridges; extrapolated to 600m river width in parentheses).\n| Time Interval | Hai Duong, Thach Khoi 2 | Hai Phong, Chanh Duong 01 | Hai Phong, Chanh Duong 02 | Hai Phong, Dang bridge | Sapa, Suoi Cat 2 |\n| 0h - 0.5h | 17 | 4 (8) | 35 (45) | 0 | 20 |\n| 0.5h - 1h | 15 | 6 (13) | 36 (46) | 0 | 20 |\n| 1h - 1.5h | 22 | 5 (10) | 28 (36) | 3 | 12 |\n| 1.5h - 2h | 11 | 22 (46) | 21 (27) | 10 | 25 |\n| 2h - 2.5h | 16 | 17 (36) | 37 (48) | 10 | 25 |\n| 2.5h - 3h | 16 | 24 (50) | 51 (66) | 41 | 30 |\n| 3h - 3.5h | 24 | 25 (52) | 23 (30) | 14 | 15 |\n| 3.5h - 4h | 12 | 25 (52) | 34 (44) | 9 | 20 |\n| 4h - 4.5h | 9 | 31 (65) | 28 (36) | 9 | 25 |\n| 4.5h - 5h | 5 | 25 (52) | 21 (27) | 6 | 18 |\n| 5h - 5.5h | 12 | 12 (25) | 23 (30) | 10 | 25 |\n| 5.5h - 6h | 18 | 19 (40) | 42 (54) | 21 | 25 |\n| 6h - 6.5h | 2 | 14 (29) | 32 (41) | 4 | 17 |\n| 6.5h - 7h | 17 | 23 (48) | 24 (31) | 2 | 15 |\n| 7h - 7.5h | 11 | 19 (40) | 19 (25) | 0 | 18 |\n| 7.5h - 8h | 10 | 8 (17) | 8 (10) | 1 | 21 |\n| 8h - 8.5h | 11 | 7 (15) | 1 (1) | - | 29 |\n| 8.5h - 9h | 8 | - | - | - | - |\n| SUM (Total items) | 236 | 286 (600) | 465 (600) | 140 | 360 |",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p069__table_13"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p130__table_26",
+          "BONUS__wb_vn_plastic_2022__p069__t00"
+        ],
+        "context_chars": 1340
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Table 14 Han Bridge Hai Duong net-sampling flow velocity",
+        "filter": null,
+        "latency_s": 0.2188,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p130__table_26",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 130,
+            "score": 0.745944,
+            "text": "[TABLE 26 | Page 130 | Annex 2.2.D] Table 26: Flow Velocity Results from Net Sampling (m/s) at Chanh Duong 2 Bridge.\n| Time | Pos. 1 (GOPRO2) Upper net | Pos. 1 (GOPRO2) Lower net | Pos. 2 (GOPRO1) Upper net | Pos. 2 (GOPRO1) Lower net | Pos. 3 (GOPRO3) Upper net | Pos. 3 (GOPRO3) Lower net |\n| 8:30 AM | - | - | 0.26 m/s | 0.18 m/s | - | - |\n| 9:40 AM | 0.35 m/s | 0.24 m/s | - | - | - | - |\n| 10:20 AM | 0.41 m/s | 0.27 m/s | - | - | - | - |\n| 11:30 AM | - | - | 0.43 m/s | 0.30 m/s | - | - |\n| 1:20 PM | - | - | - | - | 0.58 m/s | 0.36 m/s |\n| 2:25 PM | - | - | - | - | 0.63 m/s | 0.41 m/s |\nSummary: Across all measurements, the upper net flow velocity (0.26 to 0.63 m/s) is consistently higher than the lower net flow velocity (0.18 to 0.41 m/s). Peak velocity was recorded at 2:25 PM at Pos. 3 (GOPRO3) with 0.63 m/s in the upper net and 0.41 m/s in the lower net."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p070__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 70,
+            "score": 0.676333,
+            "text": "[Page 70 | 2.2.4.3 Net Sampling Results] Figure 29:\nWASTE TRANSPORT OVER THE COURSE OF THE DAY FOR HAI PHONG, CHANH DUONG 02 BRIDGE\n2.2.4.3 Net Sampling Results\nNet sampling via mobile nets at several depths\nwas used to determine plastics transport in a cross\nsection. Thus, all particle sizes (even small objects)\ncould be collected, and the plastic concentration\ncould be determined in connection with flow velocity\nmeasurements. With several recurring measurements,\nan annual load could be estimated. Net sampling also\nallowed calibration of the automated camera-based\nanalyses. Net sampling results included data on i) flow velocity\n(see Annex 2.2.E), ii) quantity and weight of waste\ntypes, and iii) waste transport. The total amount of collected waste was 121 pieces,\nof which packages and other wrappers accounted\nfor the most (41.32 percent and 50 pieces)."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p130__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 130,
+            "score": 0.66972,
+            "text": "[Page 130 | ANNEX 2.2.D:] ANNEX 2.2.D:\nFLOW VELOCITY RESULTS FROM NET\nSAMPLING\nTable 26:\nFLOW VELOCITY RESULTS FROM NET SAMPLING\nTime\nFlow velocity (m/s)\nPos. 1 (GOPRO2)\nPos. 2 (GOPRO1)\nPos. 3 (GOPRO3)\nUpper net\nLower net\nUpper net\nLower net\nUpper net\nLower net\n8:30 AM\n\n0.26\n0.18\n\n9:40 AM\n0.35\n0.24\n\n10:20 AM\n0.41\n0.27\n\n11:30 AM\n\n0.43\n0.3\n\n1:20 PM\n\n0.58\n0.36\n2:25 PM\n\n0.63\n0.41"
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p069__table_13] (source: wb_vn_plastic_2022, page 69)\n[TABLE 13 | Page 69 | Section 2.2.4.2] Table 13: Plastics River Monitoring Results (Half-hourly floating plastic item counts from 0h to 9h across 5 bridges; extrapolated to 600m river width in parentheses).\n| Time Interval | Hai Duong, Thach Khoi 2 | Hai Phong, Chanh Duong 01 | Hai Phong, Chanh Duong 02 | Hai Phong, Dang bridge | Sapa, Suoi Cat 2 |\n| 0h - 0.5h | 17 | 4 (8) | 35 (45) | 0 | 20 |\n| 0.5h - 1h | 15 | 6 (13) | 36 (46) | 0 | 20 |\n| 1h - 1.5h | 22 | 5 (10) | 28 (36) | 3 | 12 |\n| 1.5h - 2h | 11 | 22 (46) | 21 (27) | 10 | 25 |\n| 2h - 2.5h | 16 | 17 (36) | 37 (48) | 10 | 25 |\n| 2.5h - 3h | 16 | 24 (50) | 51 (66) | 41 | 30 |\n| 3h - 3.5h | 24 | 25 (52) | 23 (30) | 14 | 15 |\n| 3.5h - 4h | 12 | 25 (52) | 34 (44) | 9 | 20 |\n| 4h - 4.5h | 9 | 31 (65) | 28 (36) | 9 | 25 |\n| 4.5h - 5h | 5 | 25 (52) | 21 (27) | 6 | 18 |\n| 5h - 5.5h | 12 | 12 (25) | 23 (30) | 10 | 25 |\n| 5.5h - 6h | 18 | 19 (40) | 42 (54) | 21 | 25 |\n| 6h - 6.5h | 2 | 14 (29) | 32 (41) | 4 | 17 |\n| 6.5h - 7h | 17 | 23 (48) | 24 (31) | 2 | 15 |\n| 7h - 7.5h | 11 | 19 (40) | 19 (25) | 0 | 18 |\n| 7.5h - 8h | 10 | 8 (17) | 8 (10) | 1 | 21 |\n| 8h - 8.5h | 11 | 7 (15) | 1 (1) | - | 29 |\n| 8.5h - 9h | 8 | - | - | - | - |\n| SUM (Total items) | 236 | 286 (600) | 465 (600) | 140 | 360 |",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p069__table_13"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p130__table_26",
+          "BONUS__wb_vn_plastic_2022__p069__t00",
+          "BONUS__wb_vn_plastic_2022__p070__t00",
+          "BONUS__wb_vn_plastic_2022__p130__t00"
+        ],
+        "context_chars": 1340
+      },
+      {
+        "event": "abstain",
+        "reason": "Han Bridge in Hai Duong was not surveyed or analyzed in Table 13 or Table 14 of the report (Table 10 and Table 13 show that Han Bridge had no analysis or monitoring data available)."
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p069__table_13] (source: wb_vn_plastic_2022, page 69)\n[TABLE 13 | Page 69 | Section 2.2.4.2] Table 13: Plastics River Monitoring Results (Half-hourly floating plastic item counts from 0h to 9h across 5 bridges; extrapolated to 600m river width in parentheses).\n| Time Interval | Hai Duong, Thach Khoi 2 | Hai Phong, Chanh Duong 01 | Hai Phong, Chanh Duong 02 | Hai Phong, Dang bridge | Sapa, Suoi Cat 2 |\n| 0h - 0.5h | 17 | 4 (8) | 35 (45) | 0 | 20 |\n| 0.5h - 1h | 15 | 6 (13) | 36 (46) | 0 | 20 |\n| 1h - 1.5h | 22 | 5 (10) | 28 (36) | 3 | 12 |\n| 1.5h - 2h | 11 | 22 (46) | 21 (27) | 10 | 25 |\n| 2h - 2.5h | 16 | 17 (36) | 37 (48) | 10 | 25 |\n| 2.5h - 3h | 16 | 24 (50) | 51 (66) | 41 | 30 |\n| 3h - 3.5h | 24 | 25 (52) | 23 (30) | 14 | 15 |\n| 3.5h - 4h | 12 | 25 (52) | 34 (44) | 9 | 20 |\n| 4h - 4.5h | 9 | 31 (65) | 28 (36) | 9 | 25 |\n| 4.5h - 5h | 5 | 25 (52) | 21 (27) | 6 | 18 |\n| 5h - 5.5h | 12 | 12 (25) | 23 (30) | 10 | 25 |\n| 5.5h - 6h | 18 | 19 (40) | 42 (54) | 21 | 25 |\n| 6h - 6.5h | 2 | 14 (29) | 32 (41) | 4 | 17 |\n| 6.5h - 7h | 17 | 23 (48) | 24 (31) | 2 | 15 |\n| 7h - 7.5h | 11 | 19 (40) | 19 (25) | 0 | 18 |\n| 7.5h - 8h | 10 | 8 (17) | 8 (10) | 1 | 21 |\n| 8h - 8.5h | 11 | 7 (15) | 1 (1) | - | 29 |\n| 8.5h - 9h | 8 | - | - | - | - |\n| SUM (Total items) | 236 | 286 (600) | 465 (600) | 140 | 360 |",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p069__table_13"
+    ],
+    "num_searches": 2,
+    "api_calls": 4,
+    "latency_s": 5.0953,
+    "usage": {
+      "prompt_tokens": 8444,
+      "completion_tokens": 142,
+      "total_tokens": 8586
+    },
+    "cost_usd": 0.0
+  },
+  {
+    "query_id": "bd_u03",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (The World Bank Vietnam: Plastic Pollution Diagnostics (2022) report does not measure or contain chemical leaching rates of bisphenol A (BPA) and phthalates in river water samples from the Mekong and Red Rivers.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "bisphenol A BPA phthalates ng/L Mekong Red Rivers leaching rate",
+        "filter": null,
+        "latency_s": 0.213,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p108__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 108,
+            "score": 0.667558,
+            "text": "[Page 108 | ANNEX 2.1.C:] ANNEX 2.1.C:\nSURVEY RESULTS FROM RIVER SITES\nIn the Red river (Lao Cai and Hai Phong), 20/28 subcategories of plastic were detected,\nand the top 10 items accounted for 93.4% of the total plastic waste.\nFigure 32:\nTOP 10 PLASTIC WASTE ITEMS AT RED RIVER SITES\nIn the Mekong river (Can Tho and Soc Trang), there were 25/28 plastic waste categories, and\nthe top 10 items accounted for 81.5% of all the plastic waste items recorded.\nFigure 33:\nTOP 10 PLASTIC WASTE ITEMS AT MEKONG RIVER SITES"
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p045__t02",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 45,
+            "score": 0.637468,
+            "text": "[Page 45 | 2.1 Plastic Field Surveys  | 45] For the Red River,\nplastic bags size 1 were found the most (44.7\npercent), and for the Mekong River and the Dong\nNai-Sai Gon River, Styrofoam food containers were\nmost common (19.4 percent and 31.4 percent,\nrespectively).\n•\nThe average density of waste differed considerably\nacross the surveyed river areas. Locations along\nthe Dong Nai-Sai Gon River (33 items/unit), Red\nRiver (24 items/unit), and Mekong River (22 items/\nunit) showed much higher densities than locations\nalong the Central rivers (9 items/unit) and the Phu\nQuoc rivers (9 items/unit). The Red River had a much\nhigher density of plastic bags than other rivers."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p045__t01",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 45,
+            "score": 0.635878,
+            "text": "[Page 45 | 2.1 Plastic Field Surveys  | 45] Figure 14:\nTOP 10 PLASTIC WASTE ITEMS AT RIVER SITES IN VIETNAM\nTop 10 Plastic Waste Items in the Five River Areas\nWhen comparing results between the five river areas\nwhere surveys took place (Central rivers, Phu Quoc\nrivers, Mekong River, Red River, and Dong Nai-Sai\nGon River) these are the key findings:\n•\nThe top 10 plastic waste items accounted between\n81.5 percent (Mekong River) and 93.4 percent\n(Red River) of total plastic waste found in terms\nof density. This underlines the importance for\nfinding solutions that effectively curb plastic\npollution in Vietnam.\n•\nPlastic bags and soft plastic fragments (mostly\nfrom broken down plastic bags) play a dominant\nrole among the top 10 plastic waste items. For\nthe Central and Phu Quoc rivers, soft plastic\nfragments was most prevalent item (25.9 percent\nand 32.3 percent, respectively)."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p108__t00] (source: wb_vn_plastic_2022, page 108)\n[Page 108 | ANNEX 2.1.C:] ANNEX 2.1.C:\nSURVEY RESULTS FROM RIVER SITES\nIn the Red river (Lao Cai and Hai Phong), 20/28 subcategories of plastic were detected,\nand the top 10 items accounted for 93.4% of the total plastic waste.\nFigure 32:\nTOP 10 PLASTIC WASTE ITEMS AT RED RIVER SITES\nIn the Mekong river (Can Tho and Soc Trang), there were 25/28 plastic waste categories, and\nthe top 10 items accounted for 81.5% of all the plastic waste items recorded.\nFigure 33:\nTOP 10 PLASTIC WASTE ITEMS AT MEKONG RIVER SITES\n\n[BONUS__wb_vn_plastic_2022__p045__t02] (source: wb_vn_plastic_2022, page 45)\n[Page 45 | 2.1 Plastic Field Surveys  | 45] For the Red River,\nplastic bags size 1 were found the most (44.7\npercent), and for the Mekong River and the Dong\nNai-Sai Gon River, Styrofoam food containers were\nmost common (19.4 percent and 31.4 percent,\nrespectively).\n•\nThe average density of waste differed considerably\nacross the surveyed river areas. Locations along\nthe Dong Nai-Sai Gon River (33 items/unit), Red\nRiver (24 items/unit), and Mekong River (22 items/\nunit) showed much higher densities than locations\nalong the Central rivers (9 items/unit) and the Phu\nQuoc rivers (9 items/unit). The Red River had a much\nhigher density of plastic bags than other rivers.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p108__t00",
+          "BONUS__wb_vn_plastic_2022__p045__t02"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p045__t01"
+        ],
+        "context_chars": 1342
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "chemical leaching bisphenol BPA phthalates water samples",
+        "filter": null,
+        "latency_s": 0.2047,
+        "results": [
+          {
+            "rank": 1,
+            "id": "BONUS__wb_vn_plastic_2022__p062__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 62,
+            "score": 0.597681,
+            "text": "[Page 62 | 2.2.3 Key Methodologies and Limitations] 2.2.3 Key Methodologies and Limitations\nIn order to understand the different plastic waste\ntypes and quantities that leak into waterways, the\nassessment looked at plastics that are located on\nthe water’s surface but also plastics submerged\nin the water column. Thus, the project used two\ncomplementary approaches to analyze the different\nplastic types with respect to their location either on\nthe surface, or in the water column. With respect to surface plastics, a plastic analytics\nsystem based on machine learning technology called\nAPLASTIC-Q was developed. APLASTIC-Q took images\nas input data and was deployed to i) detect plastic\npollution and estimate a given area’s waste volume,\nii) identify what type of plastics were present in the\npolluted area, and iii) quantify the different plastic\ntypes in a polluted area."
+          },
+          {
+            "rank": 2,
+            "id": "BONUS__wb_vn_plastic_2022__p031__t02",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 31,
+            "score": 0.595618,
+            "text": "[Page 31 | 2.1 Plastic Field Surveys  | 31] The techniques adapted to Vietnam’s context\nconcerned (i) waste lists and categories, and (ii)\nadditional details for each step, such as division of\nthe two categories plastic bag and beverage bottle\n(PET) into two categories, each: plastic bags size 1\n(bags with a weight-holding capacity of up to 5kg),\nand plastic bag size 2 (bags with a weight-holding\ncapacity of more than 5kg); and beverage bottle size 1\n(0–500 ml), and beverage bottle size 2 (more than 500\nml). While the survey protocol which was employed\nwas based on the GESAMP guidelines, for quality\nchecking purposes, OSPAR’s6 method (González et\nal. 2016) was applied in the Danang river survey. In each location, at least two members of the survey\nteam, together with 6 to 10 local volunteers, carried\nout the surveys. Survey team members focused on\nmanaging the whole survey process and ensuring\nits quality and diligence."
+          },
+          {
+            "rank": 3,
+            "id": "BONUS__wb_vn_plastic_2022__p068__t00",
+            "source_id": "wb_vn_plastic_2022",
+            "page": 68,
+            "score": 0.594927,
+            "text": "[Page 68 | 2.2 Integrated Plastics Transport River Monitoringand Analysis   | 67] Table 12:\nDETAILED PROPORTIONAL WASTE TYPES, TOTALS, AND LOCATIONS\nWaste types\nAll sites\nHai Duong\nHai Phong\nSapa\nPolystyrene\n40%\n43%\n30%\n18%\nCup lids, caps, and small plastics\n19%\n21%\n4%\n17%\nOther non-plastics\n13%\n12%\n20%\n19%\nLDPE bags\n6%\n4%\n26%\n17%\nWrappers\n6%\n7%\n4%\n2%\nPET bottles\n6%\n5%\n7%\n11%\nRobust PET bags\n5%\n5%\n5%\n7%\nOther plastics over 20cm\n4%\n4%\n4%\n6%\nPPCP bottles\n0%\n0%\n0%\n0%\nPPCP medical waste\n0%\n0%\n0%\n0%\nPPCP other\n0%\n0%\n0%\n0%\nFishing gear\n0%\n0%\n0%\n1%\nRubber\n0%\n0%\n0%\n1%\nMetal\n0%\n0%\n0%\n0%\nGlass\n0%\n0%\n0%\n0%\n2.2.4.2 River Bridge Monitoring Surveys\nTo record floating plastics, river monitoring surveys\nwith cameras were carried out at several cross\nsections along the designated rivers in Hai Duong,\nHai Phong, and Sapa. These surveys were carried\nout in tributaries, canals, and main rivers."
+          }
+        ],
+        "context": "[BONUS__wb_vn_plastic_2022__p108__t00] (source: wb_vn_plastic_2022, page 108)\n[Page 108 | ANNEX 2.1.C:] ANNEX 2.1.C:\nSURVEY RESULTS FROM RIVER SITES\nIn the Red river (Lao Cai and Hai Phong), 20/28 subcategories of plastic were detected,\nand the top 10 items accounted for 93.4% of the total plastic waste.\nFigure 32:\nTOP 10 PLASTIC WASTE ITEMS AT RED RIVER SITES\nIn the Mekong river (Can Tho and Soc Trang), there were 25/28 plastic waste categories, and\nthe top 10 items accounted for 81.5% of all the plastic waste items recorded.\nFigure 33:\nTOP 10 PLASTIC WASTE ITEMS AT MEKONG RIVER SITES\n\n[BONUS__wb_vn_plastic_2022__p045__t02] (source: wb_vn_plastic_2022, page 45)\n[Page 45 | 2.1 Plastic Field Surveys  | 45] For the Red River,\nplastic bags size 1 were found the most (44.7\npercent), and for the Mekong River and the Dong\nNai-Sai Gon River, Styrofoam food containers were\nmost common (19.4 percent and 31.4 percent,\nrespectively).\n•\nThe average density of waste differed considerably\nacross the surveyed river areas. Locations along\nthe Dong Nai-Sai Gon River (33 items/unit), Red\nRiver (24 items/unit), and Mekong River (22 items/\nunit) showed much higher densities than locations\nalong the Central rivers (9 items/unit) and the Phu\nQuoc rivers (9 items/unit). The Red River had a much\nhigher density of plastic bags than other rivers.",
+        "context_ids": [
+          "BONUS__wb_vn_plastic_2022__p108__t00",
+          "BONUS__wb_vn_plastic_2022__p045__t02"
+        ],
+        "dropped_ids": [
+          "BONUS__wb_vn_plastic_2022__p045__t01",
+          "BONUS__wb_vn_plastic_2022__p062__t00",
+          "BONUS__wb_vn_plastic_2022__p031__t02",
+          "BONUS__wb_vn_plastic_2022__p068__t00"
+        ],
+        "context_chars": 1342
+      },
+      {
+        "event": "abstain",
+        "reason": "The World Bank Vietnam: Plastic Pollution Diagnostics (2022) report does not measure or contain chemical leaching rates of bisphenol A (BPA) and phthalates in river water samples from the Mekong and Red Rivers."
+      }
+    ],
+    "final_context": "[BONUS__wb_vn_plastic_2022__p108__t00] (source: wb_vn_plastic_2022, page 108)\n[Page 108 | ANNEX 2.1.C:] ANNEX 2.1.C:\nSURVEY RESULTS FROM RIVER SITES\nIn the Red river (Lao Cai and Hai Phong), 20/28 subcategories of plastic were detected,\nand the top 10 items accounted for 93.4% of the total plastic waste.\nFigure 32:\nTOP 10 PLASTIC WASTE ITEMS AT RED RIVER SITES\nIn the Mekong river (Can Tho and Soc Trang), there were 25/28 plastic waste categories, and\nthe top 10 items accounted for 81.5% of all the plastic waste items recorded.\nFigure 33:\nTOP 10 PLASTIC WASTE ITEMS AT MEKONG RIVER SITES\n\n[BONUS__wb_vn_plastic_2022__p045__t02] (source: wb_vn_plastic_2022, page 45)\n[Page 45 | 2.1 Plastic Field Surveys  | 45] For the Red River,\nplastic bags size 1 were found the most (44.7\npercent), and for the Mekong River and the Dong\nNai-Sai Gon River, Styrofoam food containers were\nmost common (19.4 percent and 31.4 percent,\nrespectively).\n•\nThe average density of waste differed considerably\nacross the surveyed river areas. Locations along\nthe Dong Nai-Sai Gon River (33 items/unit), Red\nRiver (24 items/unit), and Mekong River (22 items/\nunit) showed much higher densities than locations\nalong the Central rivers (9 items/unit) and the Phu\nQuoc rivers (9 items/unit). The Red River had a much\nhigher density of plastic bags than other rivers.",
+    "final_context_ids": [
+      "BONUS__wb_vn_plastic_2022__p108__t00",
+      "BONUS__wb_vn_plastic_2022__p045__t02"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 3.8451,
+    "usage": {
+      "prompt_tokens": 4210,
+      "completion_tokens": 112,
+      "total_tokens": 4322
+    },
+    "cost_usd": 0.0
+  }
+]

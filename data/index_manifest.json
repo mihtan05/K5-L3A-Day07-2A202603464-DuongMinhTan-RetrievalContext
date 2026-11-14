@@ -1,0 +1,31 @@
+{
+  "corpus": "Viet Nam Economic Updates (World Bank Taking Stock 2024 & 2025)",
+  "documents": [
+    {
+      "source_id": "wb_taking_stock_aug2024",
+      "url": "https://hdl.handle.net/10986/42084",
+      "license": "Creative Commons Attribution Non-Commercial 3.0 IGO (CC BY-NC 3.0 IGO) — World Bank Open Knowledge Repository"
+    },
+    {
+      "source_id": "wb_taking_stock_mar2025",
+      "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099919303102515323",
+      "license": "World Bank Open Knowledge / Public Disclosure Authorized (CC BY-NC 3.0 IGO)"
+    }
+  ],
+  "pages": 94,
+  "chunks": 407,
+  "stored_rows": 407,
+  "index_strategy": "B",
+  "chunker": "Day 6 by_paragraph(max_size=800)",
+  "embedding_provider": "local",
+  "embedding_model": "BAAI/bge-base-en-v1.5",
+  "dimensions": 768,
+  "vector_store": "PostgreSQL + pgvector (exact cosine, Day 6 docker-compose)",
+  "chunks_sha256": "e349e3a93221dc46cbfa4929aaaa5529937e1bf33933863dc4f05028f6346aa1",
+  "upsert": {
+    "upserted": 407,
+    "deleted_obsolete": 0
+  },
+  "embed_seconds": 159.63,
+  "total_seconds": 238.46
+}

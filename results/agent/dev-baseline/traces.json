@@ -1,0 +1,1707 @@
+[
+  {
+    "query_id": "q01",
+    "status": "answered",
+    "answer": "In the first half of 2024, Viet Nam's GDP grew by 6.4 percent year-on-year, while merchandise exports and imports grew at 16.9 and 17 percent year-on-year, respectively [B__wb_taking_stock_aug2024__p013__c000].",
+    "citations": [
+      "B__wb_taking_stock_aug2024__p013__c000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Viet Nam GDP exports imports growth first half 2024 year on year H1 2024",
+        "filter": null,
+        "latency_s": 0.2182,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p013__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 13,
+            "score": 0.848706,
+            "text": "Growth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p020__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 20,
+            "score": 0.845955,
+            "text": "Growth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024, after moderate 5 percent growth in 2023, driven by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than anticipated in H1-2024, fueled by stronger demand from United States consumers, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by higher industrial production and employment - leading to an uptick in investment and consumption growth of 6.7 and 5.8 percent (y/y) in H1-2024, respectively (Figure 1.1).\n\nI. Recent Economic Developments"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p033__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 33,
+            "score": 0.794539,
+            "text": "Viet Nam's economy is forecast to grow by 6.1 percent in 2024 and rising to 6.5 percent in 2025-26 (Table 1.1). This projection assumes an easing of manufacturing exports growth in H2-2024, after a 16.9 percent rebound growth (y/y) in H1-2024 and the expected moderation of global demand in 2024, in particular from the United States, Viet Nam's largest export market. Export growth is expected to firm up moderately over 2025-26 as global trade prospects and external demand from major trade partners such as the United States, Euro zone, and China improves slightly (Figures 1.31 and 1.32, Box 1.1)."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p013__c000] (source: wb_taking_stock_aug2024, page 13)\nGrowth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively.\n\n[B__wb_taking_stock_aug2024__p020__c000] (source: wb_taking_stock_aug2024, page 20)\nGrowth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024, after moderate 5 percent growth in 2023, driven by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than anticipated in H1-2024, fueled by stronger demand from United States consumers, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by higher industrial production and employment - leading to an uptick in investment and consumption growth of 6.7 and 5.8 percent (y/y) in H1-2024, respectively (Figure 1.1).\n\nI. Recent Economic Developments",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p013__c000",
+          "B__wb_taking_stock_aug2024__p020__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p033__c002"
+        ],
+        "context_chars": 1530
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p013__c000] (source: wb_taking_stock_aug2024, page 13)\nGrowth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively.\n\n[B__wb_taking_stock_aug2024__p020__c000] (source: wb_taking_stock_aug2024, page 20)\nGrowth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024, after moderate 5 percent growth in 2023, driven by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than anticipated in H1-2024, fueled by stronger demand from United States consumers, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by higher industrial production and employment - leading to an uptick in investment and consumption growth of 6.7 and 5.8 percent (y/y) in H1-2024, respectively (Figure 1.1).\n\nI. Recent Economic Developments",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p013__c000",
+      "B__wb_taking_stock_aug2024__p020__c000"
+    ],
+    "num_searches": 1,
+    "api_calls": 3,
+    "latency_s": 5.3888,
+    "usage": {
+      "prompt_tokens": 3226,
+      "completion_tokens": 346,
+      "total_tokens": 3572
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "How much did Viet Nam's GDP, exports, and imports grow year-on-year in the first half of 2024?",
+    "answerable": true
+  },
+  {
+    "query_id": "q02",
+    "status": "answered",
+    "answer": "Corporate bond issuances in Viet Nam dropped after peaking in 2021 due to market turbulence and a regulatory crackdown on fraudulent practices in bond issuances by real estate groups such as Van Thinh Phat and Tan Hoang Minh in 2022 [B__wb_taking_stock_aug2024__p047__c001].",
+    "citations": [
+      "B__wb_taking_stock_aug2024__p047__c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "corporate bond issuances drop peaking 2021 Viet Nam",
+        "filter": null,
+        "latency_s": 0.1995,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p047__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 47,
+            "score": 0.731153,
+            "text": "Growth has been hampered by regulatory violations, highlighting the need for enhanced transparency and market professionalism The corporate bond market was relatively active until mid-2022, when market turbulence simultaneously exposed fundamental weaknesses, yet underscored potential for further growth. Issuances reached a peak of VND 637 trillion (US$28 billion) in 2021 (Figure 2.10), but later dampened due to the crackdown on fraudulent practices in bond issuances by Van Thinh Phat and Tan Hoang Minh real estate groups in 2022. 23 In 2023, the market slowly recovered, representing 12 percent of GDP, compared to a range of 27-105 percent for regional peers."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p015__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 15,
+            "score": 0.716408,
+            "text": "Meanwhile the corporate bond market showed signs of recovery. Corporate bond issuances increased by 2.5-fold in H1-2024 compared to the same period in 2023, as banks took advantage of the lower interest rate environment to refinance bonds. However, bonds maturing in the second half of 2024 are estimated at VND 139.8 trillion (US$5.6 billion), with real estate bonds comprising 42 percent, placing the property sector under pressure amid cash flow challenges. Beyond these short-term developments, the gradual rebalancing of Viet Nam's financial system towards a more prominent role of capital markets remains an important agenda, as discussed further in this edition's special topic chapter. Fiscal consolidation resumed in H1-2024 after a moderately expansionary 2023"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p032__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 32,
+            "score": 0.714577,
+            "text": "Corporate bond issuances rebounded from low levels in 2023, driven by the banking sector's additional need for funding. Total issuances reached VND443 trillion (US$17.6 billion) in 2024, a 37 percent (y/y) rise. The banking sector accounted for issuances, with 69 percent of total issuances, representing a 103 percent (y/y) annual jump (Figure 1.28). The real estate sector, after a period of dampened activity, experienced a recovery in Q4-2024, which led to 26 percent (y/y) growth in issuances. Other sectors, such as consumer goods and construction, saw negligible issuances. Coupon rates averaged 7.5 percent in Q4-2024, slightly higher than the previous quarter, reflecting a higher proportion of real estate bond issuance with higher yields."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p047__c001] (source: wb_taking_stock_aug2024, page 47)\nGrowth has been hampered by regulatory violations, highlighting the need for enhanced transparency and market professionalism The corporate bond market was relatively active until mid-2022, when market turbulence simultaneously exposed fundamental weaknesses, yet underscored potential for further growth. Issuances reached a peak of VND 637 trillion (US$28 billion) in 2021 (Figure 2.10), but later dampened due to the crackdown on fraudulent practices in bond issuances by Van Thinh Phat and Tan Hoang Minh real estate groups in 2022. 23 In 2023, the market slowly recovered, representing 12 percent of GDP, compared to a range of 27-105 percent for regional peers.\n\n[B__wb_taking_stock_mar2025__p032__c002] (source: wb_taking_stock_mar2025, page 32)\nCorporate bond issuances rebounded from low levels in 2023, driven by the banking sector's additional need for funding. Total issuances reached VND443 trillion (US$17.6 billion) in 2024, a 37 percent (y/y) rise. The banking sector accounted for issuances, with 69 percent of total issuances, representing a 103 percent (y/y) annual jump (Figure 1.28). The real estate sector, after a period of dampened activity, experienced a recovery in Q4-2024, which led to 26 percent (y/y) growth in issuances. Other sectors, such as consumer goods and construction, saw negligible issuances. Coupon rates averaged 7.5 percent in Q4-2024, slightly higher than the previous quarter, reflecting a higher proportion of real estate bond issuance with higher yields.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p047__c001",
+          "B__wb_taking_stock_mar2025__p032__c002"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p015__c003"
+        ],
+        "context_chars": 1586
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p047__c001] (source: wb_taking_stock_aug2024, page 47)\nGrowth has been hampered by regulatory violations, highlighting the need for enhanced transparency and market professionalism The corporate bond market was relatively active until mid-2022, when market turbulence simultaneously exposed fundamental weaknesses, yet underscored potential for further growth. Issuances reached a peak of VND 637 trillion (US$28 billion) in 2021 (Figure 2.10), but later dampened due to the crackdown on fraudulent practices in bond issuances by Van Thinh Phat and Tan Hoang Minh real estate groups in 2022. 23 In 2023, the market slowly recovered, representing 12 percent of GDP, compared to a range of 27-105 percent for regional peers.\n\n[B__wb_taking_stock_mar2025__p032__c002] (source: wb_taking_stock_mar2025, page 32)\nCorporate bond issuances rebounded from low levels in 2023, driven by the banking sector's additional need for funding. Total issuances reached VND443 trillion (US$17.6 billion) in 2024, a 37 percent (y/y) rise. The banking sector accounted for issuances, with 69 percent of total issuances, representing a 103 percent (y/y) annual jump (Figure 1.28). The real estate sector, after a period of dampened activity, experienced a recovery in Q4-2024, which led to 26 percent (y/y) growth in issuances. Other sectors, such as consumer goods and construction, saw negligible issuances. Coupon rates averaged 7.5 percent in Q4-2024, slightly higher than the previous quarter, reflecting a higher proportion of real estate bond issuance with higher yields.",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p047__c001",
+      "B__wb_taking_stock_mar2025__p032__c002"
+    ],
+    "num_searches": 1,
+    "api_calls": 2,
+    "latency_s": 10.8836,
+    "usage": {
+      "prompt_tokens": 1655,
+      "completion_tokens": 149,
+      "total_tokens": 1804
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "What caused corporate bond issuances in Viet Nam to drop after peaking in 2021?",
+    "answerable": true
+  },
+  {
+    "query_id": "q03",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (The retrieved text mentions Viet Nam's aspiration for Emerging Market status [B__wb_taking_stock_aug2024__p050__c000] and the need for efficient clearing and settlement infrastructure [B__wb_taking_stock_aug2024__p055__c002], but does not contain the specific explanation of why the 'pre-funding and pre-blocking' requirement obstructs the upgrade.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "pre funding pre blocking requirement Emerging Market status Viet Nam",
+        "filter": null,
+        "latency_s": 0.1941,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p050__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 50,
+            "score": 0.667281,
+            "text": "Going forward, as Viet Nam aspires to become a high-income country, it needs to attract significant international investment to drive its long-term growth. As the size of the domestic investor base remains small (as discussed in Section 2), the country requires additional support from international portfolio investors. Currently, Viet Nam is classified as a Frontier Market by MSCI and FTSE Russell-two of the world's largest index providers by amounts of funds following their indices. An upgrade or reclassification to Emerging Market status would represent a significant boost for Viet Nam's market to be recognized as investable in terms of access for foreign investors and equities of sufficient size and liquidity to be attractive."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p055__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 55,
+            "score": 0.660068,
+            "text": "Significant specific improvements are necessary for Viet Nam's reclassification into Emerging Market status, while the overall environment and infrastructure must be robust. This means regulatory certainty, strong enforcement, credible price formation, and corporate transparency supported by efficient and reliable market infrastructure that encompasses trading, clearing and settlement as well as information infrastructure. Foreign investors are also impacted by administrative approvals required by authorities, which could benefit from streamlining.\n\n3. Issuers"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p059__c004",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 59,
+            "score": 0.65407,
+            "text": "Further, credit ratings should be more widely required, especially where instruments are offered to individual investors. The equity market has a striking potential to develop into an important source of corporate sector financing. Market capitalization headline statistics are impressive, but amounts raised are less remarkable. Compelling international investor interest in Viet Nam's equity market is on hold, waiting for structural adjustments to be implemented and proven. The authorities are making significant efforts to address the three critical areas-prefunding, foreign headroom due to FOL, and equal access to informationto meet these expectations. Continuous dialogues with the international investor community is critical in this process."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p050__c000] (source: wb_taking_stock_aug2024, page 50)\nGoing forward, as Viet Nam aspires to become a high-income country, it needs to attract significant international investment to drive its long-term growth. As the size of the domestic investor base remains small (as discussed in Section 2), the country requires additional support from international portfolio investors. Currently, Viet Nam is classified as a Frontier Market by MSCI and FTSE Russell-two of the world's largest index providers by amounts of funds following their indices. An upgrade or reclassification to Emerging Market status would represent a significant boost for Viet Nam's market to be recognized as investable in terms of access for foreign investors and equities of sufficient size and liquidity to be attractive.\n\n[B__wb_taking_stock_aug2024__p055__c002] (source: wb_taking_stock_aug2024, page 55)\nSignificant specific improvements are necessary for Viet Nam's reclassification into Emerging Market status, while the overall environment and infrastructure must be robust. This means regulatory certainty, strong enforcement, credible price formation, and corporate transparency supported by efficient and reliable market infrastructure that encompasses trading, clearing and settlement as well as information infrastructure. Foreign investors are also impacted by administrative approvals required by authorities, which could benefit from streamlining.\n\n3. Issuers",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p050__c000",
+          "B__wb_taking_stock_aug2024__p055__c002"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p059__c004"
+        ],
+        "context_chars": 1475
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "pre-funding pre-blocking non-centrally cleared delivery versus payment settlement cycle",
+        "filter": null,
+        "latency_s": 0.2028,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p050__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 50,
+            "score": 0.59796,
+            "text": "To achieve this upgrade, specific steps are required in the following key areas:\n\n(i) Pre-funding and pre-blocking of trades. Before any trade, buyers must have the cash in place and sellers must hold the securities, which immobilizes cash and obstructs efficient trading by institutional investors who need to transfer cash to/from other countries or to seamlessly rebalance their portfolios. Removal of this pre-funding practice is critical to attracting large international investors."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p057__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 57,
+            "score": 0.575778,
+            "text": "It is critical that market infrastructure keeps pace with a growing market. Already, the mix of manual and electronic processing in the government bond market settlement process constrains efficiency. Moreover, it prevents same-day settlement of government bonds, limiting liquidity management operations. In the equity market, a central counterparty arrangement is under development to mitigate settlement risks. As a future upgrade to Emerging Market status would bring more international investors into Viet Nam, the process of entering and exiting the market should be as efficient as possible."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p057__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 57,
+            "score": 0.55229,
+            "text": "Numerous entities in Viet Nam provide infrastructural support for the execution, clearing, settlement and recording of transactions - all supervised by the SSC. Trading is carried out on the HNX and HOSE, now being brought into one corporate structure under the Viet Nam Stock Exchange (VNX). The sole central securities depositary, the Viet Nam Securities Depository and Clearing Corporation (VSDC), covers government bonds, corporate bonds and equities, with the responsibility for clearing and settlement of trades. The SBV operates the payments system and acts as the settlement bank for government bond trades, while trades in corporate securities are settled through a state-owned commercial bank."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p050__c000] (source: wb_taking_stock_aug2024, page 50)\nGoing forward, as Viet Nam aspires to become a high-income country, it needs to attract significant international investment to drive its long-term growth. As the size of the domestic investor base remains small (as discussed in Section 2), the country requires additional support from international portfolio investors. Currently, Viet Nam is classified as a Frontier Market by MSCI and FTSE Russell-two of the world's largest index providers by amounts of funds following their indices. An upgrade or reclassification to Emerging Market status would represent a significant boost for Viet Nam's market to be recognized as investable in terms of access for foreign investors and equities of sufficient size and liquidity to be attractive.\n\n[B__wb_taking_stock_aug2024__p055__c002] (source: wb_taking_stock_aug2024, page 55)\nSignificant specific improvements are necessary for Viet Nam's reclassification into Emerging Market status, while the overall environment and infrastructure must be robust. This means regulatory certainty, strong enforcement, credible price formation, and corporate transparency supported by efficient and reliable market infrastructure that encompasses trading, clearing and settlement as well as information infrastructure. Foreign investors are also impacted by administrative approvals required by authorities, which could benefit from streamlining.\n\n3. Issuers",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p050__c000",
+          "B__wb_taking_stock_aug2024__p055__c002"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p059__c004",
+          "B__wb_taking_stock_aug2024__p050__c001",
+          "B__wb_taking_stock_aug2024__p057__c002",
+          "B__wb_taking_stock_aug2024__p057__c001"
+        ],
+        "context_chars": 1475
+      },
+      {
+        "event": "abstain",
+        "reason": "The retrieved text mentions Viet Nam's aspiration for Emerging Market status [B__wb_taking_stock_aug2024__p050__c000] and the need for efficient clearing and settlement infrastructure [B__wb_taking_stock_aug2024__p055__c002], but does not contain the specific explanation of why the 'pre-funding and pre-blocking' requirement obstructs the upgrade."
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p050__c000] (source: wb_taking_stock_aug2024, page 50)\nGoing forward, as Viet Nam aspires to become a high-income country, it needs to attract significant international investment to drive its long-term growth. As the size of the domestic investor base remains small (as discussed in Section 2), the country requires additional support from international portfolio investors. Currently, Viet Nam is classified as a Frontier Market by MSCI and FTSE Russell-two of the world's largest index providers by amounts of funds following their indices. An upgrade or reclassification to Emerging Market status would represent a significant boost for Viet Nam's market to be recognized as investable in terms of access for foreign investors and equities of sufficient size and liquidity to be attractive.\n\n[B__wb_taking_stock_aug2024__p055__c002] (source: wb_taking_stock_aug2024, page 55)\nSignificant specific improvements are necessary for Viet Nam's reclassification into Emerging Market status, while the overall environment and infrastructure must be robust. This means regulatory certainty, strong enforcement, credible price formation, and corporate transparency supported by efficient and reliable market infrastructure that encompasses trading, clearing and settlement as well as information infrastructure. Foreign investors are also impacted by administrative approvals required by authorities, which could benefit from streamlining.\n\n3. Issuers",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p050__c000",
+      "B__wb_taking_stock_aug2024__p055__c002"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 5.5506,
+    "usage": {
+      "prompt_tokens": 3087,
+      "completion_tokens": 168,
+      "total_tokens": 3255
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "Why does the pre-funding and pre-blocking requirement obstruct Viet Nam's upgrade to Emerging Market status?",
+    "answerable": true
+  },
+  {
+    "query_id": "q04",
+    "status": "answered",
+    "answer": "Total problem loans in Viet Nam's banking system could reach 7.9 percent instead of the reported 4.6 percent NPL ratio if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included [B__wb_taking_stock_aug2024__p015__c001].",
+    "citations": [
+      "B__wb_taking_stock_aug2024__p015__c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "problem loans 7.9 percent 4.6 percent NPL ratio 2023 Viet Nam banking system",
+        "filter": null,
+        "latency_s": 0.2079,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p015__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 15,
+            "score": 0.78198,
+            "text": "Bank asset quality has remained a concern since 2023. System-wide non-performing loans (NPLs) have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023, based on the latest available data, driven largely by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included. Latest Q1-2024 data suggests that the NPL ratios of 27 listed commercial banks, which account for 83 percent of total outstanding credit in the banking sector, rose from 1.9 percent in Q4-2023 to 2.2 percent in Q1-2024, amid rising bad debts coupled with sluggish credit growth."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p031__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 31,
+            "score": 0.772635,
+            "text": "Asset quality has remained a significant banking sector concern since 2023, amid increasing NPLs and loan-loss coverage. System-wide on balance sheet NPLs have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023 (Figure 1.27), based on the latest available data, driven by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p031__c003",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 31,
+            "score": 0.703188,
+            "text": "(NPLs) increased slightly from 4.6 percent in 2023 to 4.9 percent in May 2024, before stabilizing at 4.6 percent by September 2024. (Figure 1.27). This improvement may be attributed to a surge in loan disbursements in Q2 and Q3-2024. Total (adjusted) NPLs including restructured loans and Viet Nam Asset Management Company (VAMC) debts held steady at 6.9 percent across the year. In September 2024, the government implemented additional forbearance measures to support households and\n\nFigure 1.26. Inflation\n\nPercent, Percentage points (y/y)\n\n-4% -2% 0% 2% 4% 6% Dec-19 Dec-20 Dec-21 Dec-22 Dec-23 Dec-24\n\nFood Housing Transport\n\nHealth & edu.\n\nOthers\n\nHeadlineCore\n\nSource: GSO, Haver Analytics, and World Bank staff calculations"
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p015__c001] (source: wb_taking_stock_aug2024, page 15)\nBank asset quality has remained a concern since 2023. System-wide non-performing loans (NPLs) have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023, based on the latest available data, driven largely by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included. Latest Q1-2024 data suggests that the NPL ratios of 27 listed commercial banks, which account for 83 percent of total outstanding credit in the banking sector, rose from 1.9 percent in Q4-2023 to 2.2 percent in Q1-2024, amid rising bad debts coupled with sluggish credit growth.\n\n[B__wb_taking_stock_aug2024__p031__c000] (source: wb_taking_stock_aug2024, page 31)\nAsset quality has remained a significant banking sector concern since 2023, amid increasing NPLs and loan-loss coverage. System-wide on balance sheet NPLs have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023 (Figure 1.27), based on the latest available data, driven by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p015__c001",
+          "B__wb_taking_stock_aug2024__p031__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p031__c003"
+        ],
+        "context_chars": 1444
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p015__c001] (source: wb_taking_stock_aug2024, page 15)\nBank asset quality has remained a concern since 2023. System-wide non-performing loans (NPLs) have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023, based on the latest available data, driven largely by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included. Latest Q1-2024 data suggests that the NPL ratios of 27 listed commercial banks, which account for 83 percent of total outstanding credit in the banking sector, rose from 1.9 percent in Q4-2023 to 2.2 percent in Q1-2024, amid rising bad debts coupled with sluggish credit growth.\n\n[B__wb_taking_stock_aug2024__p031__c000] (source: wb_taking_stock_aug2024, page 31)\nAsset quality has remained a significant banking sector concern since 2023, amid increasing NPLs and loan-loss coverage. System-wide on balance sheet NPLs have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023 (Figure 1.27), based on the latest available data, driven by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included.",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p015__c001",
+      "B__wb_taking_stock_aug2024__p031__c000"
+    ],
+    "num_searches": 1,
+    "api_calls": 3,
+    "latency_s": 3.7743,
+    "usage": {
+      "prompt_tokens": 3169,
+      "completion_tokens": 315,
+      "total_tokens": 3484
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "Under what condition could total problem loans in Viet Nam's banking system reach 7.9 percent instead of the reported 4.6 percent NPL ratio in 2023?",
+    "answerable": true
+  },
+  {
+    "query_id": "q05",
+    "status": "answered",
+    "answer": "Viet Nam Social Security (VSS) fund investments are heavily concentrated in government bonds due to a **legal constraint** that restricts its asset allocation [B__wb_taking_stock_aug2024__p018__c000]. This almost exclusive placement has turned VSS into a captive investor for government bonds, simultaneously enabling the government to issue long-term instruments and lengthen the average maturity of its debt portfolio [B__wb_taking_stock_aug2024__p018__c000, B__wb_taking_stock_aug2024__p045__c002].",
+    "citations": [
+      "B__wb_taking_stock_aug2024__p018__c000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Viet Nam Social Security VSS fund investments government bonds concentrated",
+        "filter": null,
+        "latency_s": 0.2125,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p018__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 18,
+            "score": 0.781099,
+            "text": "The almost exclusive placement of the VSS portfolio in government bonds limits investment returns, creates price inefficiencies, and adversely impacts financial sector development. Managing a portfolio equivalent to 10 percent of GDP, VSS is the single largest institutional investor in Viet Nam, larger than all other domestic institutional investors combined. However, due to a legal constraint, VSS assets are heavily concentrated in government bonds. VSS has become a captive investor for government bonds, causing artificially low yields in auctions, and thus distorting the price function of the government bond market."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p045__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 45,
+            "score": 0.776964,
+            "text": "Participation of the Viet Nam Social Security Fund (VSS) in government bonds is significant and has enabled the government to focus on issuing long-term instruments. These longterm instruments dominate the issuance profile of government bonds, helping to lengthen the average maturity and protect the government against short-term shocks, including changes in interest rates and investor sentiment. It has been a strategic goal of the Ministry of Finance (MoF) to gradually increase the average maturity of the government bond portfolio. As such, 95 percent of all issuances in 2021 were 10 years or longer in maturity and this hit 100 percent in 2022."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p050__c005",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 50,
+            "score": 0.761398,
+            "text": "The fund (VSS) is the largest institutional investor in Viet Nam - currently managing a portfolio equivalent to 10 percent of GDP. Funds under VSS management are estimated at VND 1,130 trillion (US$44 billion) and expected to grow to 15 percent over the next few decades. VSS currently covers 32 percent of Viet Nam's working population (17.5 million employees), with a target of 60 percent by 2030."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p018__c000] (source: wb_taking_stock_aug2024, page 18)\nThe almost exclusive placement of the VSS portfolio in government bonds limits investment returns, creates price inefficiencies, and adversely impacts financial sector development. Managing a portfolio equivalent to 10 percent of GDP, VSS is the single largest institutional investor in Viet Nam, larger than all other domestic institutional investors combined. However, due to a legal constraint, VSS assets are heavily concentrated in government bonds. VSS has become a captive investor for government bonds, causing artificially low yields in auctions, and thus distorting the price function of the government bond market.\n\n[B__wb_taking_stock_aug2024__p045__c002] (source: wb_taking_stock_aug2024, page 45)\nParticipation of the Viet Nam Social Security Fund (VSS) in government bonds is significant and has enabled the government to focus on issuing long-term instruments. These longterm instruments dominate the issuance profile of government bonds, helping to lengthen the average maturity and protect the government against short-term shocks, including changes in interest rates and investor sentiment. It has been a strategic goal of the Ministry of Finance (MoF) to gradually increase the average maturity of the government bond portfolio. As such, 95 percent of all issuances in 2021 were 10 years or longer in maturity and this hit 100 percent in 2022.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p018__c000",
+          "B__wb_taking_stock_aug2024__p045__c002"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p050__c005"
+        ],
+        "context_chars": 1447
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "VSS legal constraint investment government bonds Viet Nam Social Security",
+        "filter": null,
+        "latency_s": 0.2248,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p018__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 18,
+            "score": 0.787831,
+            "text": "The almost exclusive placement of the VSS portfolio in government bonds limits investment returns, creates price inefficiencies, and adversely impacts financial sector development. Managing a portfolio equivalent to 10 percent of GDP, VSS is the single largest institutional investor in Viet Nam, larger than all other domestic institutional investors combined. However, due to a legal constraint, VSS assets are heavily concentrated in government bonds. VSS has become a captive investor for government bonds, causing artificially low yields in auctions, and thus distorting the price function of the government bond market."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p045__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 45,
+            "score": 0.754587,
+            "text": "Participation of the Viet Nam Social Security Fund (VSS) in government bonds is significant and has enabled the government to focus on issuing long-term instruments. These longterm instruments dominate the issuance profile of government bonds, helping to lengthen the average maturity and protect the government against short-term shocks, including changes in interest rates and investor sentiment. It has been a strategic goal of the Ministry of Finance (MoF) to gradually increase the average maturity of the government bond portfolio. As such, 95 percent of all issuances in 2021 were 10 years or longer in maturity and this hit 100 percent in 2022."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p051__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 51,
+            "score": 0.746269,
+            "text": "Due to a legal constraint, VSS assets are heavily concentrated in government bonds. This adversely impacts its investment returns, distorts government bond yields, and hinders its contribution to broader capital markets development. The Law on Social Insurance permits VSS to only invest its funds in government securities or banks. As a result, government bonds make up 86 percent of VSS' assets under management (AUM), with the remainder bank deposits. VSS does not have investments in corporate securities. For VSS to be sustainable and deliver long-term financial security to retirees, it needs to generate sustained returns. The law effectively requires it to prevent the risk of losses."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p018__c000] (source: wb_taking_stock_aug2024, page 18)\nThe almost exclusive placement of the VSS portfolio in government bonds limits investment returns, creates price inefficiencies, and adversely impacts financial sector development. Managing a portfolio equivalent to 10 percent of GDP, VSS is the single largest institutional investor in Viet Nam, larger than all other domestic institutional investors combined. However, due to a legal constraint, VSS assets are heavily concentrated in government bonds. VSS has become a captive investor for government bonds, causing artificially low yields in auctions, and thus distorting the price function of the government bond market.\n\n[B__wb_taking_stock_aug2024__p045__c002] (source: wb_taking_stock_aug2024, page 45)\nParticipation of the Viet Nam Social Security Fund (VSS) in government bonds is significant and has enabled the government to focus on issuing long-term instruments. These longterm instruments dominate the issuance profile of government bonds, helping to lengthen the average maturity and protect the government against short-term shocks, including changes in interest rates and investor sentiment. It has been a strategic goal of the Ministry of Finance (MoF) to gradually increase the average maturity of the government bond portfolio. As such, 95 percent of all issuances in 2021 were 10 years or longer in maturity and this hit 100 percent in 2022.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p018__c000",
+          "B__wb_taking_stock_aug2024__p045__c002"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p050__c005",
+          "B__wb_taking_stock_aug2024__p051__c001"
+        ],
+        "context_chars": 1447
+      },
+      {
+        "event": "answer",
+        "via": "text_fallback"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p018__c000] (source: wb_taking_stock_aug2024, page 18)\nThe almost exclusive placement of the VSS portfolio in government bonds limits investment returns, creates price inefficiencies, and adversely impacts financial sector development. Managing a portfolio equivalent to 10 percent of GDP, VSS is the single largest institutional investor in Viet Nam, larger than all other domestic institutional investors combined. However, due to a legal constraint, VSS assets are heavily concentrated in government bonds. VSS has become a captive investor for government bonds, causing artificially low yields in auctions, and thus distorting the price function of the government bond market.\n\n[B__wb_taking_stock_aug2024__p045__c002] (source: wb_taking_stock_aug2024, page 45)\nParticipation of the Viet Nam Social Security Fund (VSS) in government bonds is significant and has enabled the government to focus on issuing long-term instruments. These longterm instruments dominate the issuance profile of government bonds, helping to lengthen the average maturity and protect the government against short-term shocks, including changes in interest rates and investor sentiment. It has been a strategic goal of the Ministry of Finance (MoF) to gradually increase the average maturity of the government bond portfolio. As such, 95 percent of all issuances in 2021 were 10 years or longer in maturity and this hit 100 percent in 2022.",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p018__c000",
+      "B__wb_taking_stock_aug2024__p045__c002"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 3.7425,
+    "usage": {
+      "prompt_tokens": 3085,
+      "completion_tokens": 189,
+      "total_tokens": 3274
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "Why are Viet Nam Social Security (VSS) fund investments heavily concentrated in government bonds?",
+    "answerable": true
+  },
+  {
+    "query_id": "q06",
+    "status": "answered",
+    "answer": "The Viet Nam Securities Depository and Clearing Corporation (VSDC) is the sole central securities depositary responsible for the clearing and settlement of government bonds, corporate bonds, and equities in Viet Nam [B__wb_taking_stock_aug2024__p057__c001]. Same-day settlement of government bonds is prevented by the mix of manual and electronic processing in the government bond market settlement process, which constrains efficiency and limits liquidity management operations [B__wb_taking_stock_aug2024__p057__c002].",
+    "citations": [
+      "B__wb_taking_stock_aug2024__p057__c001",
+      "B__wb_taking_stock_aug2024__p057__c002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "clearing and settlement central securities depositary Viet Nam same-day settlement government bonds",
+        "filter": null,
+        "latency_s": 0.2222,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p057__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 57,
+            "score": 0.748335,
+            "text": "Numerous entities in Viet Nam provide infrastructural support for the execution, clearing, settlement and recording of transactions - all supervised by the SSC. Trading is carried out on the HNX and HOSE, now being brought into one corporate structure under the Viet Nam Stock Exchange (VNX). The sole central securities depositary, the Viet Nam Securities Depository and Clearing Corporation (VSDC), covers government bonds, corporate bonds and equities, with the responsibility for clearing and settlement of trades. The SBV operates the payments system and acts as the settlement bank for government bond trades, while trades in corporate securities are settled through a state-owned commercial bank."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p057__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 57,
+            "score": 0.704216,
+            "text": "It is critical that market infrastructure keeps pace with a growing market. Already, the mix of manual and electronic processing in the government bond market settlement process constrains efficiency. Moreover, it prevents same-day settlement of government bonds, limiting liquidity management operations. In the equity market, a central counterparty arrangement is under development to mitigate settlement risks. As a future upgrade to Emerging Market status would bring more international investors into Viet Nam, the process of entering and exiting the market should be as efficient as possible."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p045__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 45,
+            "score": 0.632485,
+            "text": "This requires a market based on a well-structured bond portfolio with a wide range of maturities available, supported by reasonable liquidity in the secondary market. Deep and efficient local currency government bond markets also help provide resilience to shocks. The government bond market has become a main source of financing for the Government of Viet Nam, with the market size relative to GDP stabilizing in recent years and annual gross issuances reaching VND 298 trillion in 2023 (Figure 2.8)."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p057__c001] (source: wb_taking_stock_aug2024, page 57)\nNumerous entities in Viet Nam provide infrastructural support for the execution, clearing, settlement and recording of transactions - all supervised by the SSC. Trading is carried out on the HNX and HOSE, now being brought into one corporate structure under the Viet Nam Stock Exchange (VNX). The sole central securities depositary, the Viet Nam Securities Depository and Clearing Corporation (VSDC), covers government bonds, corporate bonds and equities, with the responsibility for clearing and settlement of trades. The SBV operates the payments system and acts as the settlement bank for government bond trades, while trades in corporate securities are settled through a state-owned commercial bank.\n\n[B__wb_taking_stock_aug2024__p057__c002] (source: wb_taking_stock_aug2024, page 57)\nIt is critical that market infrastructure keeps pace with a growing market. Already, the mix of manual and electronic processing in the government bond market settlement process constrains efficiency. Moreover, it prevents same-day settlement of government bonds, limiting liquidity management operations. In the equity market, a central counterparty arrangement is under development to mitigate settlement risks. As a future upgrade to Emerging Market status would bring more international investors into Viet Nam, the process of entering and exiting the market should be as efficient as possible.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p057__c001",
+          "B__wb_taking_stock_aug2024__p057__c002"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p045__c001"
+        ],
+        "context_chars": 1471
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "VSDC government bonds same day settlement Viet Nam",
+        "filter": null,
+        "latency_s": 0.2094,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p057__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 57,
+            "score": 0.721406,
+            "text": "Numerous entities in Viet Nam provide infrastructural support for the execution, clearing, settlement and recording of transactions - all supervised by the SSC. Trading is carried out on the HNX and HOSE, now being brought into one corporate structure under the Viet Nam Stock Exchange (VNX). The sole central securities depositary, the Viet Nam Securities Depository and Clearing Corporation (VSDC), covers government bonds, corporate bonds and equities, with the responsibility for clearing and settlement of trades. The SBV operates the payments system and acts as the settlement bank for government bond trades, while trades in corporate securities are settled through a state-owned commercial bank."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p018__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 18,
+            "score": 0.659167,
+            "text": "The almost exclusive placement of the VSS portfolio in government bonds limits investment returns, creates price inefficiencies, and adversely impacts financial sector development. Managing a portfolio equivalent to 10 percent of GDP, VSS is the single largest institutional investor in Viet Nam, larger than all other domestic institutional investors combined. However, due to a legal constraint, VSS assets are heavily concentrated in government bonds. VSS has become a captive investor for government bonds, causing artificially low yields in auctions, and thus distorting the price function of the government bond market."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p057__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 57,
+            "score": 0.646598,
+            "text": "It is critical that market infrastructure keeps pace with a growing market. Already, the mix of manual and electronic processing in the government bond market settlement process constrains efficiency. Moreover, it prevents same-day settlement of government bonds, limiting liquidity management operations. In the equity market, a central counterparty arrangement is under development to mitigate settlement risks. As a future upgrade to Emerging Market status would bring more international investors into Viet Nam, the process of entering and exiting the market should be as efficient as possible."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p057__c001] (source: wb_taking_stock_aug2024, page 57)\nNumerous entities in Viet Nam provide infrastructural support for the execution, clearing, settlement and recording of transactions - all supervised by the SSC. Trading is carried out on the HNX and HOSE, now being brought into one corporate structure under the Viet Nam Stock Exchange (VNX). The sole central securities depositary, the Viet Nam Securities Depository and Clearing Corporation (VSDC), covers government bonds, corporate bonds and equities, with the responsibility for clearing and settlement of trades. The SBV operates the payments system and acts as the settlement bank for government bond trades, while trades in corporate securities are settled through a state-owned commercial bank.\n\n[B__wb_taking_stock_aug2024__p057__c002] (source: wb_taking_stock_aug2024, page 57)\nIt is critical that market infrastructure keeps pace with a growing market. Already, the mix of manual and electronic processing in the government bond market settlement process constrains efficiency. Moreover, it prevents same-day settlement of government bonds, limiting liquidity management operations. In the equity market, a central counterparty arrangement is under development to mitigate settlement risks. As a future upgrade to Emerging Market status would bring more international investors into Viet Nam, the process of entering and exiting the market should be as efficient as possible.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p057__c001",
+          "B__wb_taking_stock_aug2024__p057__c002"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p045__c001",
+          "B__wb_taking_stock_aug2024__p018__c000"
+        ],
+        "context_chars": 1471
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p057__c001] (source: wb_taking_stock_aug2024, page 57)\nNumerous entities in Viet Nam provide infrastructural support for the execution, clearing, settlement and recording of transactions - all supervised by the SSC. Trading is carried out on the HNX and HOSE, now being brought into one corporate structure under the Viet Nam Stock Exchange (VNX). The sole central securities depositary, the Viet Nam Securities Depository and Clearing Corporation (VSDC), covers government bonds, corporate bonds and equities, with the responsibility for clearing and settlement of trades. The SBV operates the payments system and acts as the settlement bank for government bond trades, while trades in corporate securities are settled through a state-owned commercial bank.\n\n[B__wb_taking_stock_aug2024__p057__c002] (source: wb_taking_stock_aug2024, page 57)\nIt is critical that market infrastructure keeps pace with a growing market. Already, the mix of manual and electronic processing in the government bond market settlement process constrains efficiency. Moreover, it prevents same-day settlement of government bonds, limiting liquidity management operations. In the equity market, a central counterparty arrangement is under development to mitigate settlement risks. As a future upgrade to Emerging Market status would bring more international investors into Viet Nam, the process of entering and exiting the market should be as efficient as possible.",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p057__c001",
+      "B__wb_taking_stock_aug2024__p057__c002"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 13.5992,
+    "usage": {
+      "prompt_tokens": 3079,
+      "completion_tokens": 250,
+      "total_tokens": 3329
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "Which organization handles clearing and settlement as the sole central securities depositary in Viet Nam, and what prevents same-day settlement for government bonds?",
+    "answerable": true
+  },
+  {
+    "query_id": "q07",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (The retrieved document excerpts from the World Bank reports do not contain sufficient evidence explaining why Viet Nam's monetary authorities have limited room for additional interest rate cuts.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "monetary authorities limited room interest rate cuts support growth Viet Nam",
+        "filter": null,
+        "latency_s": 0.2028,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p017__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 17,
+            "score": 0.705499,
+            "text": "This outlook could also be subject to potential upside developments. Stronger-than-expected global growth could spur a sustained recovery in Viet Nam's export sector. More accommodative monetary policy in major advanced economies has already been initiated by the European Central Bank and the Bank of England, coupled with the U.S. Federal Reserve signaling a possible rate cut by September, which could further support demand in advanced economies and boost Vietnamese exports. This could also contribute to an easing of global financing costs and close the VND/US$ interest rate gap, with potential positive spillovers into the banking and financial sector in Viet Nam."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p060__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 60,
+            "score": 0.678613,
+            "text": "Towards modern capital markets to unlock growth for Viet Nam\n\nProperly integrated, Viet Nam's capital markets can be an effective tool for financing, savings, and pricing signals needed for efficient allocation of economic resources. Capital markets can amplify the transmission of monetary policy designed to set future pricing signals for financial assets. Credible short-term reference rates, for instance, would boost growth of the interest rate swap market to provide banks and other financial institutions with important risk management tools."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p036__c004",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 36,
+            "score": 0.667311,
+            "text": "This outlook could also be subject to potential upside developments. Stronger-than-expected global growth could spur a faster recovery of Viet Nam's export sector. Higher growth in the United States and European Union, particularly in consumption, could lead to stronger demand for Vietnamese exports than forecasted. Accommodative monetary policy in major advanced economies, already initiated by the European Central Bank and the Bank of England, along with the U.S. Federal Reserve signaling a possible rate cut by September, could further boost Vietnamese exports. This would also contribute to an easing of"
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p017__c000] (source: wb_taking_stock_aug2024, page 17)\nThis outlook could also be subject to potential upside developments. Stronger-than-expected global growth could spur a sustained recovery in Viet Nam's export sector. More accommodative monetary policy in major advanced economies has already been initiated by the European Central Bank and the Bank of England, coupled with the U.S. Federal Reserve signaling a possible rate cut by September, which could further support demand in advanced economies and boost Vietnamese exports. This could also contribute to an easing of global financing costs and close the VND/US$ interest rate gap, with potential positive spillovers into the banking and financial sector in Viet Nam.\n\n[B__wb_taking_stock_aug2024__p060__c000] (source: wb_taking_stock_aug2024, page 60)\nTowards modern capital markets to unlock growth for Viet Nam\n\nProperly integrated, Viet Nam's capital markets can be an effective tool for financing, savings, and pricing signals needed for efficient allocation of economic resources. Capital markets can amplify the transmission of monetary policy designed to set future pricing signals for financial assets. Credible short-term reference rates, for instance, would boost growth of the interest rate swap market to provide banks and other financial institutions with important risk management tools.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p017__c000",
+          "B__wb_taking_stock_aug2024__p060__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p036__c004"
+        ],
+        "context_chars": 1391
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "monetary policy interest rate cuts room exchange rate inflation Viet Nam",
+        "filter": null,
+        "latency_s": 0.2244,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p013__c003",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 13,
+            "score": 0.729608,
+            "text": "Monetary policy remained accommodative, focused on foreign exchange interventions The State Bank of Viet Nam (SBV) intervened to reduce depreciation pressures on the VND via sales of reserves and open market operations (OMOs). The VND depreciated by 4.4 percent (y/y) against the US$ by December 2024, with an exchange rate of VND25,333. Depreciation pressures pushed the exchange rate close to the +/- 5 percent band set by the SBV. In response, the SBV intervened by selling foreign reserves worth US$9.4 billion in 2024, drawing down current reserves to about 2.5 months of imports by Q3-2024, from 3.1 months a year earlier.\n\nThe SBV also withdrew liquidity by using\n\nOMOs and issuing T-bills (worth 82.4 trillion"
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p029__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 29,
+            "score": 0.711903,
+            "text": "Monetary policy remained accommodative, while intervening to contain FX pressures The State Bank of Viet Nam (SBV) intervened to reduce depreciation pressures on the VND via sales of reserves and open market operations (OMOs). The VND depreciated by 4.4 percent (y/y) against the US$ by December 2024, with an exchange rate of VND25,333. Depreciation pressures pushed the exchange rate close to the +/- 5 percent band set by the SBV (Figure 1.22). In response, the SBV intervened by selling foreign reserves worth US$9.4 billion in 2024, drawing down current reserves to about 2.5 months of imports by Q3-2024, from 3.1 months a year earlier (Figure 1.23). The SBV also withdrew liquidity by using OMOs and issuing T-bills (worth 82.4 trillion VND and 60.8 trillion VND, respectively13)."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p017__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 17,
+            "score": 0.704873,
+            "text": "This outlook could also be subject to potential upside developments. Stronger-than-expected global growth could spur a sustained recovery in Viet Nam's export sector. More accommodative monetary policy in major advanced economies has already been initiated by the European Central Bank and the Bank of England, coupled with the U.S. Federal Reserve signaling a possible rate cut by September, which could further support demand in advanced economies and boost Vietnamese exports. This could also contribute to an easing of global financing costs and close the VND/US$ interest rate gap, with potential positive spillovers into the banking and financial sector in Viet Nam."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p017__c000] (source: wb_taking_stock_aug2024, page 17)\nThis outlook could also be subject to potential upside developments. Stronger-than-expected global growth could spur a sustained recovery in Viet Nam's export sector. More accommodative monetary policy in major advanced economies has already been initiated by the European Central Bank and the Bank of England, coupled with the U.S. Federal Reserve signaling a possible rate cut by September, which could further support demand in advanced economies and boost Vietnamese exports. This could also contribute to an easing of global financing costs and close the VND/US$ interest rate gap, with potential positive spillovers into the banking and financial sector in Viet Nam.\n\n[B__wb_taking_stock_aug2024__p060__c000] (source: wb_taking_stock_aug2024, page 60)\nTowards modern capital markets to unlock growth for Viet Nam\n\nProperly integrated, Viet Nam's capital markets can be an effective tool for financing, savings, and pricing signals needed for efficient allocation of economic resources. Capital markets can amplify the transmission of monetary policy designed to set future pricing signals for financial assets. Credible short-term reference rates, for instance, would boost growth of the interest rate swap market to provide banks and other financial institutions with important risk management tools.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p017__c000",
+          "B__wb_taking_stock_aug2024__p060__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p036__c004",
+          "B__wb_taking_stock_mar2025__p013__c003",
+          "B__wb_taking_stock_mar2025__p029__c001"
+        ],
+        "context_chars": 1391
+      },
+      {
+        "event": "abstain",
+        "reason": "The retrieved document excerpts from the World Bank reports do not contain sufficient evidence explaining why Viet Nam's monetary authorities have limited room for additional interest rate cuts."
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p017__c000] (source: wb_taking_stock_aug2024, page 17)\nThis outlook could also be subject to potential upside developments. Stronger-than-expected global growth could spur a sustained recovery in Viet Nam's export sector. More accommodative monetary policy in major advanced economies has already been initiated by the European Central Bank and the Bank of England, coupled with the U.S. Federal Reserve signaling a possible rate cut by September, which could further support demand in advanced economies and boost Vietnamese exports. This could also contribute to an easing of global financing costs and close the VND/US$ interest rate gap, with potential positive spillovers into the banking and financial sector in Viet Nam.\n\n[B__wb_taking_stock_aug2024__p060__c000] (source: wb_taking_stock_aug2024, page 60)\nTowards modern capital markets to unlock growth for Viet Nam\n\nProperly integrated, Viet Nam's capital markets can be an effective tool for financing, savings, and pricing signals needed for efficient allocation of economic resources. Capital markets can amplify the transmission of monetary policy designed to set future pricing signals for financial assets. Credible short-term reference rates, for instance, would boost growth of the interest rate swap market to provide banks and other financial institutions with important risk management tools.",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p017__c000",
+      "B__wb_taking_stock_aug2024__p060__c000"
+    ],
+    "num_searches": 2,
+    "api_calls": 4,
+    "latency_s": 60.9359,
+    "usage": {
+      "prompt_tokens": 4715,
+      "completion_tokens": 124,
+      "total_tokens": 4839
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "Why do Viet Nam's monetary authorities have limited room for additional interest rate cuts despite seeking to support growth?",
+    "answerable": true
+  },
+  {
+    "query_id": "q08",
+    "status": "answered",
+    "answer": "For the full year 2024, Viet Nam's real GDP growth reached 7.1 percent, and total exports grew by 15.5 percent [B__wb_taking_stock_mar2025__p019__c000].",
+    "citations": [
+      "B__wb_taking_stock_mar2025__p019__c000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Viet Nam real GDP growth total export growth full year 2024",
+        "filter": null,
+        "latency_s": 0.2106,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p019__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 19,
+            "score": 0.807283,
+            "text": "Growth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2)."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p013__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 13,
+            "score": 0.802626,
+            "text": "Growth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p011__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 11,
+            "score": 0.792574,
+            "text": "EXECUTIVE SUMMARY\n\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers.\n\nExternal demand strongly rebounded in 2024 after a contraction in 2023. Final consumption and investment growth also accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, supporting the growth momentum. However, private consumption remained a moderate driver of aggregate demand relative to the region (54 percent of GDP compared to a median of 61.7 percent, respectively) as household savings increased amid heightened uncertainty in recent years."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p019__c000] (source: wb_taking_stock_mar2025, page 19)\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2).\n\n[B__wb_taking_stock_aug2024__p013__c000] (source: wb_taking_stock_aug2024, page 13)\nGrowth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively.",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p019__c000",
+          "B__wb_taking_stock_aug2024__p013__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p011__c000"
+        ],
+        "context_chars": 1574
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_mar2025__p019__c000] (source: wb_taking_stock_mar2025, page 19)\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2).\n\n[B__wb_taking_stock_aug2024__p013__c000] (source: wb_taking_stock_aug2024, page 13)\nGrowth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively.",
+    "final_context_ids": [
+      "B__wb_taking_stock_mar2025__p019__c000",
+      "B__wb_taking_stock_aug2024__p013__c000"
+    ],
+    "num_searches": 1,
+    "api_calls": 2,
+    "latency_s": 14.7816,
+    "usage": {
+      "prompt_tokens": 1679,
+      "completion_tokens": 134,
+      "total_tokens": 1813
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "What were Viet Nam's real GDP growth and total export growth rates for the full year 2024?",
+    "answerable": true
+  },
+  {
+    "query_id": "q09",
+    "status": "answered",
+    "answer": "By the end of 2024, labor market improvements such as stable formal employment and lowering underemployment (which dropped to 1.7 percent, a 0.3 percentage point decrease from the same period in 2023) contrasted with persistently high and rising youth unemployment, which reached 8 percent by end-2024 (up from 7.6 percent the previous year) [B__wb_taking_stock_mar2025__p012__c000]. Overall formal unemployment remained relatively stable at 2.2 percent [B__wb_taking_stock_mar2025__p012__c000].",
+    "citations": [
+      "B__wb_taking_stock_mar2025__p012__c000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "youth unemployment overall unemployment underemployment end of 2024 Viet Nam",
+        "filter": null,
+        "latency_s": 0.2364,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p012__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 12,
+            "score": 0.764883,
+            "text": "19.3 percent in 2023, when the 2022-23 post-pandemic fiscal stimulus package was implemented.\n\nLabor market conditions improved as manufacturing job creation recovered Formal employment remained stable, yet small improvements in underemployment contrasted with persistently high youth unemployment. There were 52.1 million Vietnamese employed by December 2024, adding about 550,000 workers over the last 12 months (GSO). Labor force participation and formal unemployment remained relatively stable at 68.5 and 2.2 percent in 2024, respectively, while underemployment rates lowered at 1.7 percent at the end of 2024 (-0.3 pp from the same period in 2023) suggesting greater labor utilization. However, youth unemployment rose, reaching 8 percent by end-2024, from 7.6 percent the previous year."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p027__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 27,
+            "score": 0.752146,
+            "text": "Formal employment remained stable, yet small improvements in underemployment contrasted with persistently high youth unemployment. There were 52.1 million Vietnamese employed by December 2024, adding about 550,000 workers over the last 12 months (GSO). Labor force participation remained relatively stable at 69 percent in December 2024 (Figure 1.17), but below 2019's 71.1 percent partly due to agricultural employment measurement and structural changes since the pandemic.12 Unemployment remained stable at 2.2 percent in 2024, while underemployment rates lowered at 1.7 percent at the end of 2024 (-0.3 pp from the same period in 2023) suggesting greater labor utilization. However, youth unemployment rose, reaching 8 percent by end-2024, from 7.6 percent the previous year."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p025__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 25,
+            "score": 0.65514,
+            "text": "7 Employment changes remained negligible with unemployment and underemployment rates stabilized at 2.3 and 2.1 percent (y/y), respectively in June 2024. Underemployment remains higher than before the health crisis, suggesting more partial employment and plausibly higher informality rates. Real income growth also remained subdued, weighing on domestic consumption. Domestic consumption contributed about 64 percent of GDP growth in 2024. Average monthly earnings of VND 7.45 million (US$293) in June 2024 correspond to 7 percent growth (y/y), or 2.5 percent (y/y) in real terms."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p012__c000] (source: wb_taking_stock_mar2025, page 12)\n19.3 percent in 2023, when the 2022-23 post-pandemic fiscal stimulus package was implemented.\n\nLabor market conditions improved as manufacturing job creation recovered Formal employment remained stable, yet small improvements in underemployment contrasted with persistently high youth unemployment. There were 52.1 million Vietnamese employed by December 2024, adding about 550,000 workers over the last 12 months (GSO). Labor force participation and formal unemployment remained relatively stable at 68.5 and 2.2 percent in 2024, respectively, while underemployment rates lowered at 1.7 percent at the end of 2024 (-0.3 pp from the same period in 2023) suggesting greater labor utilization. However, youth unemployment rose, reaching 8 percent by end-2024, from 7.6 percent the previous year.\n\n[B__wb_taking_stock_aug2024__p025__c001] (source: wb_taking_stock_aug2024, page 25)\n7 Employment changes remained negligible with unemployment and underemployment rates stabilized at 2.3 and 2.1 percent (y/y), respectively in June 2024. Underemployment remains higher than before the health crisis, suggesting more partial employment and plausibly higher informality rates. Real income growth also remained subdued, weighing on domestic consumption. Domestic consumption contributed about 64 percent of GDP growth in 2024. Average monthly earnings of VND 7.45 million (US$293) in June 2024 correspond to 7 percent growth (y/y), or 2.5 percent (y/y) in real terms.",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p012__c000",
+          "B__wb_taking_stock_aug2024__p025__c001"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p027__c000"
+        ],
+        "context_chars": 1542
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_mar2025__p012__c000] (source: wb_taking_stock_mar2025, page 12)\n19.3 percent in 2023, when the 2022-23 post-pandemic fiscal stimulus package was implemented.\n\nLabor market conditions improved as manufacturing job creation recovered Formal employment remained stable, yet small improvements in underemployment contrasted with persistently high youth unemployment. There were 52.1 million Vietnamese employed by December 2024, adding about 550,000 workers over the last 12 months (GSO). Labor force participation and formal unemployment remained relatively stable at 68.5 and 2.2 percent in 2024, respectively, while underemployment rates lowered at 1.7 percent at the end of 2024 (-0.3 pp from the same period in 2023) suggesting greater labor utilization. However, youth unemployment rose, reaching 8 percent by end-2024, from 7.6 percent the previous year.\n\n[B__wb_taking_stock_aug2024__p025__c001] (source: wb_taking_stock_aug2024, page 25)\n7 Employment changes remained negligible with unemployment and underemployment rates stabilized at 2.3 and 2.1 percent (y/y), respectively in June 2024. Underemployment remains higher than before the health crisis, suggesting more partial employment and plausibly higher informality rates. Real income growth also remained subdued, weighing on domestic consumption. Domestic consumption contributed about 64 percent of GDP growth in 2024. Average monthly earnings of VND 7.45 million (US$293) in June 2024 correspond to 7 percent growth (y/y), or 2.5 percent (y/y) in real terms.",
+    "final_context_ids": [
+      "B__wb_taking_stock_mar2025__p012__c000",
+      "B__wb_taking_stock_aug2024__p025__c001"
+    ],
+    "num_searches": 1,
+    "api_calls": 2,
+    "latency_s": 16.4001,
+    "usage": {
+      "prompt_tokens": 1654,
+      "completion_tokens": 219,
+      "total_tokens": 1873
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "How did youth unemployment contrast with overall unemployment and underemployment trends in Viet Nam by the end of 2024?",
+    "answerable": true
+  },
+  {
+    "query_id": "q10",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (The available documents in the World Bank Viet Nam Taking Stock reports (August 2024 and March 2025) do not contain information explaining why Viet Nam's fiscal account tightened to a surplus of 1.8 percent of GDP in 2024 despite the public sector wage hike.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "fiscal account surplus 1.8 percent GDP 2024 wage hike July 2024 Viet Nam Taking Stock",
+        "filter": null,
+        "latency_s": 0.2097,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p027__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 27,
+            "score": 0.784977,
+            "text": "Despite positive current account and financial account balances, Viet Nam's external position deteriorated due to increased informal capital outflows The current account remained in surplus during Q1-2024 compared to Q1-2023 with a larger trade surplus balancing a high primary income deficit (Figure 1.18). The current account registered a surplus of 5.1 percent of GDP in Q1-2024 compared to 2.1 percent in Q1-2023. The merchandise trade surplus increased from 8.7 percent of GDP in Q1-2023 to 11.7 percent in Q1-2024 due the strong 17.1 percent (y/y) rebound of exports in the first three months of 2024, while imports grew by 12.9 percent (y/y). The net primary income deficit was 7.5 percent of GDP in Q1-2024 comparable to 7.7 percent in Q1-2023."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p013__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 13,
+            "score": 0.77858,
+            "text": "2024. Overall, the current account surplus reached US$17.5 billion, or 5.4 percent of GDP in 9M-2024, down from US$19.6 billion or 6.3 percent of GDP in 9M-2023.\n\nSteady FDI inflows were offset by large capital outflows. FDI remained large at 4.1 percent of GDP in 9M-2024 comparable to 2023 (4.6 percent of GDP in 9M-2023), thanks to foreign investors' continued confidence in Viet Nam's economic prospects and the ongoing relocation of supply chains across the region. However, large capital outflows amid continued interest rate differentials led to a financial account deficit of 2.5 percent of GDP in 9M-2024 (-2.1pp), rising from 0.4 percent in 9M-2023."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p014__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 14,
+            "score": 0.778223,
+            "text": "percent (y/y) in H1-2024 compared to 20.5 percent in H1-2023, following a boost in public investment in 2023 to support the economy.\n\nViet Nam's external position deteriorated as increased informal capital outflows offset current account and financial account surpluses The current account registered a substantial surplus, driven by a robust trade performance. The current account registered a surplus of 5.1 percent of GDP in Q1-2024 3 compared to 2.1 percent in Q1-2023, thanks to a trade surplus of 11.7 percent of GDP in Q1-2024, up from 8.7 percent in Q1-2023, underpinned by a large rebound in merchandise exports."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p027__c001] (source: wb_taking_stock_aug2024, page 27)\nDespite positive current account and financial account balances, Viet Nam's external position deteriorated due to increased informal capital outflows The current account remained in surplus during Q1-2024 compared to Q1-2023 with a larger trade surplus balancing a high primary income deficit (Figure 1.18). The current account registered a surplus of 5.1 percent of GDP in Q1-2024 compared to 2.1 percent in Q1-2023. The merchandise trade surplus increased from 8.7 percent of GDP in Q1-2023 to 11.7 percent in Q1-2024 due the strong 17.1 percent (y/y) rebound of exports in the first three months of 2024, while imports grew by 12.9 percent (y/y). The net primary income deficit was 7.5 percent of GDP in Q1-2024 comparable to 7.7 percent in Q1-2023.\n\n[B__wb_taking_stock_mar2025__p013__c001] (source: wb_taking_stock_mar2025, page 13)\n2024. Overall, the current account surplus reached US$17.5 billion, or 5.4 percent of GDP in 9M-2024, down from US$19.6 billion or 6.3 percent of GDP in 9M-2023.\n\nSteady FDI inflows were offset by large capital outflows. FDI remained large at 4.1 percent of GDP in 9M-2024 comparable to 2023 (4.6 percent of GDP in 9M-2023), thanks to foreign investors' continued confidence in Viet Nam's economic prospects and the ongoing relocation of supply chains across the region. However, large capital outflows amid continued interest rate differentials led to a financial account deficit of 2.5 percent of GDP in 9M-2024 (-2.1pp), rising from 0.4 percent in 9M-2023.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p027__c001",
+          "B__wb_taking_stock_mar2025__p013__c001"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p014__c000"
+        ],
+        "context_chars": 1581
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "fiscal account surplus wage hike 2024 GDP Taking Stock",
+        "filter": null,
+        "latency_s": 0.2047,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p038__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 38,
+            "score": 0.717073,
+            "text": "After tightening in 2024, the fiscal account is expected to return to a deficit is in 2025-26 due to planned increases in expenditures. Fiscal deficit is estimated to reach 1.4 percent of GDP in 2025 and to narrow to 1.0 percent in 2026, while the government planned a continued reduction in debt stock as growth is expected to outpace interest rate. Expenditure in 2025 is planned to increase by 20 percent compared to 2024 due to planned investment in several national infrastructure projects and increased public sector salaries and severance payments as part of the state re-organization. Improved domestic revenue collection is expected to mitigate the fiscal deficit in 2025 and help with the fiscal consolidation anticipated in 2026."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p032__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 32,
+            "score": 0.704947,
+            "text": "Figure 1.28. Bond issuance sharply increased driven by banking sector Trillions VND\n\n2019 2020 2021 2022 2023 6M-2024\n\nTrillion VND\n\nCredit institutions\n\nCommerce\n\nSecurities\n\nConstruction Production Energy\n\nOthers\n\nReal estate\n\nAmid the economic recovery, the fiscal balance registered a large surplus in the first half of 2024 The large fiscal surplus of 4.2 percent of GDP in H1-2024, compared to 1.5 percent in H1-2023, was due to higher total revenues and reduced public spending (Figure 1.29). Revenues climbed to 19.5 percent of GDP in H1-2024 (+1pp compared to H1-2023), driven by higher capital revenues (from land sales) and larger tax revenues (from CIT and VAT) (Figure 1.30)."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p013__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 13,
+            "score": 0.702601,
+            "text": "2024. Overall, the current account surplus reached US$17.5 billion, or 5.4 percent of GDP in 9M-2024, down from US$19.6 billion or 6.3 percent of GDP in 9M-2023.\n\nSteady FDI inflows were offset by large capital outflows. FDI remained large at 4.1 percent of GDP in 9M-2024 comparable to 2023 (4.6 percent of GDP in 9M-2023), thanks to foreign investors' continued confidence in Viet Nam's economic prospects and the ongoing relocation of supply chains across the region. However, large capital outflows amid continued interest rate differentials led to a financial account deficit of 2.5 percent of GDP in 9M-2024 (-2.1pp), rising from 0.4 percent in 9M-2023."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p027__c001] (source: wb_taking_stock_aug2024, page 27)\nDespite positive current account and financial account balances, Viet Nam's external position deteriorated due to increased informal capital outflows The current account remained in surplus during Q1-2024 compared to Q1-2023 with a larger trade surplus balancing a high primary income deficit (Figure 1.18). The current account registered a surplus of 5.1 percent of GDP in Q1-2024 compared to 2.1 percent in Q1-2023. The merchandise trade surplus increased from 8.7 percent of GDP in Q1-2023 to 11.7 percent in Q1-2024 due the strong 17.1 percent (y/y) rebound of exports in the first three months of 2024, while imports grew by 12.9 percent (y/y). The net primary income deficit was 7.5 percent of GDP in Q1-2024 comparable to 7.7 percent in Q1-2023.\n\n[B__wb_taking_stock_mar2025__p013__c001] (source: wb_taking_stock_mar2025, page 13)\n2024. Overall, the current account surplus reached US$17.5 billion, or 5.4 percent of GDP in 9M-2024, down from US$19.6 billion or 6.3 percent of GDP in 9M-2023.\n\nSteady FDI inflows were offset by large capital outflows. FDI remained large at 4.1 percent of GDP in 9M-2024 comparable to 2023 (4.6 percent of GDP in 9M-2023), thanks to foreign investors' continued confidence in Viet Nam's economic prospects and the ongoing relocation of supply chains across the region. However, large capital outflows amid continued interest rate differentials led to a financial account deficit of 2.5 percent of GDP in 9M-2024 (-2.1pp), rising from 0.4 percent in 9M-2023.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p027__c001",
+          "B__wb_taking_stock_mar2025__p013__c001"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p014__c000",
+          "B__wb_taking_stock_mar2025__p038__c001",
+          "B__wb_taking_stock_aug2024__p032__c001"
+        ],
+        "context_chars": 1581
+      },
+      {
+        "event": "abstain",
+        "reason": "The available documents in the World Bank Viet Nam Taking Stock reports (August 2024 and March 2025) do not contain information explaining why Viet Nam's fiscal account tightened to a surplus of 1.8 percent of GDP in 2024 despite the public sector wage hike."
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p027__c001] (source: wb_taking_stock_aug2024, page 27)\nDespite positive current account and financial account balances, Viet Nam's external position deteriorated due to increased informal capital outflows The current account remained in surplus during Q1-2024 compared to Q1-2023 with a larger trade surplus balancing a high primary income deficit (Figure 1.18). The current account registered a surplus of 5.1 percent of GDP in Q1-2024 compared to 2.1 percent in Q1-2023. The merchandise trade surplus increased from 8.7 percent of GDP in Q1-2023 to 11.7 percent in Q1-2024 due the strong 17.1 percent (y/y) rebound of exports in the first three months of 2024, while imports grew by 12.9 percent (y/y). The net primary income deficit was 7.5 percent of GDP in Q1-2024 comparable to 7.7 percent in Q1-2023.\n\n[B__wb_taking_stock_mar2025__p013__c001] (source: wb_taking_stock_mar2025, page 13)\n2024. Overall, the current account surplus reached US$17.5 billion, or 5.4 percent of GDP in 9M-2024, down from US$19.6 billion or 6.3 percent of GDP in 9M-2023.\n\nSteady FDI inflows were offset by large capital outflows. FDI remained large at 4.1 percent of GDP in 9M-2024 comparable to 2023 (4.6 percent of GDP in 9M-2023), thanks to foreign investors' continued confidence in Viet Nam's economic prospects and the ongoing relocation of supply chains across the region. However, large capital outflows amid continued interest rate differentials led to a financial account deficit of 2.5 percent of GDP in 9M-2024 (-2.1pp), rising from 0.4 percent in 9M-2023.",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p027__c001",
+      "B__wb_taking_stock_mar2025__p013__c001"
+    ],
+    "num_searches": 2,
+    "api_calls": 4,
+    "latency_s": 14.7864,
+    "usage": {
+      "prompt_tokens": 5843,
+      "completion_tokens": 176,
+      "total_tokens": 6019
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "Why did Viet Nam's fiscal account tighten to a surplus of 1.8 percent of GDP in 2024 despite a large public sector wage hike from July 2024?",
+    "answerable": true
+  },
+  {
+    "query_id": "q11",
+    "status": "answered",
+    "answer": "Electric two-wheelers (e-2Ws) will be the primary driver of Viet Nam's e-mobility transition between 2024 and 2035 because they will remain the dominant vehicle choice in the country [B__wb_taking_stock_mar2025__p044__c001]. Specifically:\n- Two-wheelers are overwhelmingly dominant in Viet Nam's vehicle stock, totaling 72.16 million registered units in 2022 (94 percent of total registered vehicles) [B__wb_taking_stock_mar2025__p044__c001].\n- This represents a high motorization rate of close to 518 units of 2Ws per 1,000 population, compared to just 22 units per 1,000 population for passenger cars [B__wb_taking_stock_mar2025__p044__c001].\n- The uptake of e-2Ws follows historical trends in Viet Nam's e-mobility transition since 2014 [B__wb_taking_stock_mar2025__p044__c001].",
+    "citations": [
+      "B__wb_taking_stock_mar2025__p044__c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "electric two-wheelers e-2Ws primary driver e-mobility transition 2024 2035 Viet Nam",
+        "filter": null,
+        "latency_s": 0.2196,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p044__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 44,
+            "score": 0.792418,
+            "text": "Between 2024 and 2035, Viet Nam's e-mobility transition will primarily be driven by the transition of the two-wheeler (2W) segment to electric 2Ws (e-2Ws) given they will remain the dominant vehicle choice until 2035. In 2022, registered 2Ws in Viet Nam totaled 72.16 million (94 percent of total registered vehicles stock). This represents a motorization rate of close to 518 units of 2Ws per 1,000 population - in sharp contrast to the rate for passenger cars (PCs) at 22 units per 1,000 population (Figure 2.2). As such, the e-mobility transition will be driven by the uptake of e-2Ws, as it has been historically since 2014.\n\nThe market for electric 2Ws could account for more than half (56 percent) of total 2W sales by"
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p016__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 16,
+            "score": 0.779293,
+            "text": "E-mobility transition in Viet Nam would also require the transition of the two-wheeler\n\n(2W) segment to electric 2Ws (E-2Ws) given Special Focus: E-mobility transition"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p017__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 17,
+            "score": 0.757302,
+            "text": "that they will remain the dominant vehicle choice until 2035. In 2022, the registered 2Ws in Viet Nam reached 72.16 million (ca.\n\n94 percent of the total registered vehicles stock). This represents a motorization rate of close to 518 units of 2Ws per 1,000 population - in sharp contrast to the rate for passenger cars (PCs) at about 22 units per 1,000 population. E-Mobility transition will be driven by the uptake of electric 2Ws (E-2Ws), as it has been since 2014."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p044__c001] (source: wb_taking_stock_mar2025, page 44)\nBetween 2024 and 2035, Viet Nam's e-mobility transition will primarily be driven by the transition of the two-wheeler (2W) segment to electric 2Ws (e-2Ws) given they will remain the dominant vehicle choice until 2035. In 2022, registered 2Ws in Viet Nam totaled 72.16 million (94 percent of total registered vehicles stock). This represents a motorization rate of close to 518 units of 2Ws per 1,000 population - in sharp contrast to the rate for passenger cars (PCs) at 22 units per 1,000 population (Figure 2.2). As such, the e-mobility transition will be driven by the uptake of e-2Ws, as it has been historically since 2014.\n\nThe market for electric 2Ws could account for more than half (56 percent) of total 2W sales by\n\n[B__wb_taking_stock_mar2025__p016__c002] (source: wb_taking_stock_mar2025, page 16)\nE-mobility transition in Viet Nam would also require the transition of the two-wheeler\n\n(2W) segment to electric 2Ws (E-2Ws) given Special Focus: E-mobility transition",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p044__c001",
+          "B__wb_taking_stock_mar2025__p016__c002"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p017__c000"
+        ],
+        "context_chars": 1061
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "electric two-wheelers account for more than half 2W sales",
+        "filter": null,
+        "latency_s": 0.2193,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p044__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 44,
+            "score": 0.663569,
+            "text": "Between 2024 and 2035, Viet Nam's e-mobility transition will primarily be driven by the transition of the two-wheeler (2W) segment to electric 2Ws (e-2Ws) given they will remain the dominant vehicle choice until 2035. In 2022, registered 2Ws in Viet Nam totaled 72.16 million (94 percent of total registered vehicles stock). This represents a motorization rate of close to 518 units of 2Ws per 1,000 population - in sharp contrast to the rate for passenger cars (PCs) at 22 units per 1,000 population (Figure 2.2). As such, the e-mobility transition will be driven by the uptake of e-2Ws, as it has been historically since 2014.\n\nThe market for electric 2Ws could account for more than half (56 percent) of total 2W sales by"
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p044__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 44,
+            "score": 0.64228,
+            "text": "Figure 2.2. Motorization rate for two-wheelers and passenger cars 2010-2022\n\n4 10 22\n\n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022\n\nActive Two-wheelers Active Passenger cars\n\nSource: World Bank calculations\n\nTransitioning into electric motorbikes and leapfrogging into EV cars"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p048__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 48,
+            "score": 0.637576,
+            "text": "Despite no specific adoption target, uptake of e-2Ws is set to drive forward due its current level of market readiness with significant room for policy stimulation. Within the BAU pathway, in the absence of supportive policies, e-2W sales will peak in 2030 at 515,000 units (21.7 percent of total 2W sales), while cumulative demand for e-2Ws will be nine million units between 2024-50, accounting for 23 percent of cumulative demand for 2Ws during this period (Table 2.4). Under the BAU, e-2W uptake will concentrate in urban areas, but capped below 40 percent due to price premiums against ICE 2Ws and concerns over battery safety."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p044__c001] (source: wb_taking_stock_mar2025, page 44)\nBetween 2024 and 2035, Viet Nam's e-mobility transition will primarily be driven by the transition of the two-wheeler (2W) segment to electric 2Ws (e-2Ws) given they will remain the dominant vehicle choice until 2035. In 2022, registered 2Ws in Viet Nam totaled 72.16 million (94 percent of total registered vehicles stock). This represents a motorization rate of close to 518 units of 2Ws per 1,000 population - in sharp contrast to the rate for passenger cars (PCs) at 22 units per 1,000 population (Figure 2.2). As such, the e-mobility transition will be driven by the uptake of e-2Ws, as it has been historically since 2014.\n\nThe market for electric 2Ws could account for more than half (56 percent) of total 2W sales by\n\n[B__wb_taking_stock_mar2025__p016__c002] (source: wb_taking_stock_mar2025, page 16)\nE-mobility transition in Viet Nam would also require the transition of the two-wheeler\n\n(2W) segment to electric 2Ws (E-2Ws) given Special Focus: E-mobility transition\n\n[B__wb_taking_stock_mar2025__p044__c000] (source: wb_taking_stock_mar2025, page 44)\nFigure 2.2. Motorization rate for two-wheelers and passenger cars 2010-2022\n\n4 10 22\n\n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022\n\nActive Two-wheelers Active Passenger cars\n\nSource: World Bank calculations\n\nTransitioning into electric motorbikes and leapfrogging into EV cars",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p044__c001",
+          "B__wb_taking_stock_mar2025__p016__c002",
+          "B__wb_taking_stock_mar2025__p044__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p017__c000",
+          "B__wb_taking_stock_mar2025__p048__c000"
+        ],
+        "context_chars": 1443
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_mar2025__p044__c001] (source: wb_taking_stock_mar2025, page 44)\nBetween 2024 and 2035, Viet Nam's e-mobility transition will primarily be driven by the transition of the two-wheeler (2W) segment to electric 2Ws (e-2Ws) given they will remain the dominant vehicle choice until 2035. In 2022, registered 2Ws in Viet Nam totaled 72.16 million (94 percent of total registered vehicles stock). This represents a motorization rate of close to 518 units of 2Ws per 1,000 population - in sharp contrast to the rate for passenger cars (PCs) at 22 units per 1,000 population (Figure 2.2). As such, the e-mobility transition will be driven by the uptake of e-2Ws, as it has been historically since 2014.\n\nThe market for electric 2Ws could account for more than half (56 percent) of total 2W sales by\n\n[B__wb_taking_stock_mar2025__p016__c002] (source: wb_taking_stock_mar2025, page 16)\nE-mobility transition in Viet Nam would also require the transition of the two-wheeler\n\n(2W) segment to electric 2Ws (E-2Ws) given Special Focus: E-mobility transition\n\n[B__wb_taking_stock_mar2025__p044__c000] (source: wb_taking_stock_mar2025, page 44)\nFigure 2.2. Motorization rate for two-wheelers and passenger cars 2010-2022\n\n4 10 22\n\n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022\n\nActive Two-wheelers Active Passenger cars\n\nSource: World Bank calculations\n\nTransitioning into electric motorbikes and leapfrogging into EV cars",
+    "final_context_ids": [
+      "B__wb_taking_stock_mar2025__p044__c001",
+      "B__wb_taking_stock_mar2025__p016__c002",
+      "B__wb_taking_stock_mar2025__p044__c000"
+    ],
+    "num_searches": 2,
+    "api_calls": 4,
+    "latency_s": 15.7577,
+    "usage": {
+      "prompt_tokens": 5447,
+      "completion_tokens": 410,
+      "total_tokens": 5857
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "Why will electric two-wheelers (e-2Ws) be the primary driver of Viet Nam's e-mobility transition between 2024 and 2035?",
+    "answerable": true
+  },
+  {
+    "query_id": "q12",
+    "status": "answered",
+    "answer": "Based on the reports, EV charging is not expected to impose major pressure on Viet Nam's power sector before 2030 under PDP8 [B__wb_taking_stock_mar2025__p050__c002]. Up to 2030, EV charging demand under the more ambitious ADS pathway will require only **2.1 percent** of generation supply in addition to PDP8 targets, which can be accommodated by increasing planned generation surplus margins (largely because EV uptake during this period is mainly dominated by e-2Ws with small batteries and short distances) [B__wb_taking_stock_mar2025__p050__c002].",
+    "citations": [
+      "B__wb_taking_stock_mar2025__p050__c002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "EV charging power sector pressure 2030 PDP8 ADS additional generation supply",
+        "filter": null,
+        "latency_s": 0.2338,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p051__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 51,
+            "score": 0.758588,
+            "text": "The incremental demand for EV charging translates into estimated grid generation supply growth of 4.9 percent (CAGR 2035-50) compared to 3.7 percent currently planned in PDP8. To accommodate this level of demand, the sector will need additional network capacity on top of PDP8 at an average of 3-5 and 12-20 percent during 2030-45 and 2045-50, respectively. Subsequently, up to 15 percent of additional transmission capacity will be needed by 2050 to allow for 100 percent electrification of road transport."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p050__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 50,
+            "score": 0.738667,
+            "text": "While EV charging is not expected to impose major pressure on Viet Nam's power sector before 2030, its impact will subsequently intensify. To 2030, EV charging demand even under the more ambitious ADS pathway will require only 2.1 percent of generation supply in addition to PDP8 targets which can be accommodated by increasing planned generation surplus margins. This is because EV uptake during this period will be mainly dominated by e-2Ws, which operate on small batteries and cover short distances in general. From 2035 onwards, EVs will penetrate the passenger car and intercity commercial vehicle segments, 28 with a consequent surge in EV charging demand."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p050__c003",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 50,
+            "score": 0.715161,
+            "text": "By 2045, incremental demand for EV charging will be 13.5-16 percent on top of the PDP8 high-case outlook under the SPS or ADS pathways, which will further climb to 22-28 percent by 2050 (Table 2.5).\n\n2.4 Impact on electricity demand\n\nTable 2.5. EV charging demand under different EV uptake scenarios incremental to the PDP8 generation outlook (GWh)\n\n28 Intercity bus/coach, and small trucks, pickups and vans.\n\n2025 2030 2035 2040 2045 2050\n\nPDP8 High Case Generation Outlook\n\nSPS EV Charing Demand incremental over BAU\n\n% addition to PDP8 High Case Outlook ADS EV Charging Demand incremental over BAU"
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p051__c000] (source: wb_taking_stock_mar2025, page 51)\nThe incremental demand for EV charging translates into estimated grid generation supply growth of 4.9 percent (CAGR 2035-50) compared to 3.7 percent currently planned in PDP8. To accommodate this level of demand, the sector will need additional network capacity on top of PDP8 at an average of 3-5 and 12-20 percent during 2030-45 and 2045-50, respectively. Subsequently, up to 15 percent of additional transmission capacity will be needed by 2050 to allow for 100 percent electrification of road transport.\n\n[B__wb_taking_stock_mar2025__p050__c002] (source: wb_taking_stock_mar2025, page 50)\nWhile EV charging is not expected to impose major pressure on Viet Nam's power sector before 2030, its impact will subsequently intensify. To 2030, EV charging demand even under the more ambitious ADS pathway will require only 2.1 percent of generation supply in addition to PDP8 targets which can be accommodated by increasing planned generation surplus margins. This is because EV uptake during this period will be mainly dominated by e-2Ws, which operate on small batteries and cover short distances in general. From 2035 onwards, EVs will penetrate the passenger car and intercity commercial vehicle segments, 28 with a consequent surge in EV charging demand.",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p051__c000",
+          "B__wb_taking_stock_mar2025__p050__c002"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p050__c003"
+        ],
+        "context_chars": 1340
+      },
+      {
+        "event": "answer",
+        "via": "text_fallback"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_mar2025__p051__c000] (source: wb_taking_stock_mar2025, page 51)\nThe incremental demand for EV charging translates into estimated grid generation supply growth of 4.9 percent (CAGR 2035-50) compared to 3.7 percent currently planned in PDP8. To accommodate this level of demand, the sector will need additional network capacity on top of PDP8 at an average of 3-5 and 12-20 percent during 2030-45 and 2045-50, respectively. Subsequently, up to 15 percent of additional transmission capacity will be needed by 2050 to allow for 100 percent electrification of road transport.\n\n[B__wb_taking_stock_mar2025__p050__c002] (source: wb_taking_stock_mar2025, page 50)\nWhile EV charging is not expected to impose major pressure on Viet Nam's power sector before 2030, its impact will subsequently intensify. To 2030, EV charging demand even under the more ambitious ADS pathway will require only 2.1 percent of generation supply in addition to PDP8 targets which can be accommodated by increasing planned generation surplus margins. This is because EV uptake during this period will be mainly dominated by e-2Ws, which operate on small batteries and cover short distances in general. From 2035 onwards, EVs will penetrate the passenger car and intercity commercial vehicle segments, 28 with a consequent surge in EV charging demand.",
+    "final_context_ids": [
+      "B__wb_taking_stock_mar2025__p051__c000",
+      "B__wb_taking_stock_mar2025__p050__c002"
+    ],
+    "num_searches": 1,
+    "api_calls": 2,
+    "latency_s": 16.7809,
+    "usage": {
+      "prompt_tokens": 1616,
+      "completion_tokens": 181,
+      "total_tokens": 1797
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "Does EV charging pose major pressure on Viet Nam's power sector before 2030 under PDP8, and how much additional generation supply is needed by 2030 under ADS?",
+    "answerable": true
+  },
+  {
+    "query_id": "q13",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (The retrieved documents only contain information from the March 2025 edition of Taking Stock, while the query specifically asks for the GDP growth forecast from the August 2024 edition. No excerpts from the August 2024 report are present in the packed context.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "GDP growth forecast 2024 2025 2026 August 2024 Taking Stock Viet Nam",
+        "filter": null,
+        "latency_s": 0.2225,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p037__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 37,
+            "score": 0.757154,
+            "text": "Viet Nam's GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026 (Table 1.1). The rebound in export activities in 2024 is expected to ease in 2025 and further in 2026 due to projected economic slowdown in China and the United States in the near-term - Viet Nam's largest trade partners - and uncertain global trade prospects given expected shifts in trade policy. Domestic activities and services are expected to continue to firm up in 2025 and into 2026 as the real estate market recovery gathers steam."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p019__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 19,
+            "score": 0.751141,
+            "text": "Growth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2)."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p011__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 11,
+            "score": 0.750215,
+            "text": "EXECUTIVE SUMMARY\n\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers.\n\nExternal demand strongly rebounded in 2024 after a contraction in 2023. Final consumption and investment growth also accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, supporting the growth momentum. However, private consumption remained a moderate driver of aggregate demand relative to the region (54 percent of GDP compared to a median of 61.7 percent, respectively) as household savings increased amid heightened uncertainty in recent years."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p037__c002] (source: wb_taking_stock_mar2025, page 37)\nViet Nam's GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026 (Table 1.1). The rebound in export activities in 2024 is expected to ease in 2025 and further in 2026 due to projected economic slowdown in China and the United States in the near-term - Viet Nam's largest trade partners - and uncertain global trade prospects given expected shifts in trade policy. Domestic activities and services are expected to continue to firm up in 2025 and into 2026 as the real estate market recovery gathers steam.\n\n[B__wb_taking_stock_mar2025__p019__c000] (source: wb_taking_stock_mar2025, page 19)\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2).",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p037__c002",
+          "B__wb_taking_stock_mar2025__p019__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p011__c000"
+        ],
+        "context_chars": 1484
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "August 2024 GDP growth forecast 2024 2025 2026 Viet Nam Taking Stock",
+        "filter": null,
+        "latency_s": 0.2285,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p019__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 19,
+            "score": 0.74942,
+            "text": "Growth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2)."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p037__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 37,
+            "score": 0.743409,
+            "text": "Viet Nam's GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026 (Table 1.1). The rebound in export activities in 2024 is expected to ease in 2025 and further in 2026 due to projected economic slowdown in China and the United States in the near-term - Viet Nam's largest trade partners - and uncertain global trade prospects given expected shifts in trade policy. Domestic activities and services are expected to continue to firm up in 2025 and into 2026 as the real estate market recovery gathers steam."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p011__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 11,
+            "score": 0.741581,
+            "text": "EXECUTIVE SUMMARY\n\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers.\n\nExternal demand strongly rebounded in 2024 after a contraction in 2023. Final consumption and investment growth also accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, supporting the growth momentum. However, private consumption remained a moderate driver of aggregate demand relative to the region (54 percent of GDP compared to a median of 61.7 percent, respectively) as household savings increased amid heightened uncertainty in recent years."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p037__c002] (source: wb_taking_stock_mar2025, page 37)\nViet Nam's GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026 (Table 1.1). The rebound in export activities in 2024 is expected to ease in 2025 and further in 2026 due to projected economic slowdown in China and the United States in the near-term - Viet Nam's largest trade partners - and uncertain global trade prospects given expected shifts in trade policy. Domestic activities and services are expected to continue to firm up in 2025 and into 2026 as the real estate market recovery gathers steam.\n\n[B__wb_taking_stock_mar2025__p019__c000] (source: wb_taking_stock_mar2025, page 19)\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2).",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p037__c002",
+          "B__wb_taking_stock_mar2025__p019__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p011__c000"
+        ],
+        "context_chars": 1484
+      },
+      {
+        "event": "abstain",
+        "reason": "The retrieved documents only contain information from the March 2025 edition of Taking Stock, while the query specifically asks for the GDP growth forecast from the August 2024 edition. No excerpts from the August 2024 report are present in the packed context."
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_mar2025__p037__c002] (source: wb_taking_stock_mar2025, page 37)\nViet Nam's GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026 (Table 1.1). The rebound in export activities in 2024 is expected to ease in 2025 and further in 2026 due to projected economic slowdown in China and the United States in the near-term - Viet Nam's largest trade partners - and uncertain global trade prospects given expected shifts in trade policy. Domestic activities and services are expected to continue to firm up in 2025 and into 2026 as the real estate market recovery gathers steam.\n\n[B__wb_taking_stock_mar2025__p019__c000] (source: wb_taking_stock_mar2025, page 19)\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2).",
+    "final_context_ids": [
+      "B__wb_taking_stock_mar2025__p037__c002",
+      "B__wb_taking_stock_mar2025__p019__c000"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 4.7706,
+    "usage": {
+      "prompt_tokens": 3453,
+      "completion_tokens": 157,
+      "total_tokens": 3610
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "What is Viet Nam's GDP growth forecast for 2024 and 2025-26 according to the August 2024 edition?",
+    "answerable": true
+  },
+  {
+    "query_id": "q14",
+    "status": "answered",
+    "answer": "By end-2024, credit growth reached the government's target of 15 percent [B__wb_taking_stock_mar2025__p013__c004]. Regarding quota flexibility, the SBV allowed selected banks with stronger capital bases to exceed their quotas once they reached 80 percent of their limit by August, without needing to seek approval for additional credit room [B__wb_taking_stock_mar2025__p031__c001].",
+    "citations": [
+      "B__wb_taking_stock_mar2025__p013__c004",
+      "B__wb_taking_stock_mar2025__p031__c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "credit growth rate end-2024 SBV quota flexibility stronger capital bases 2025 report",
+        "filter": null,
+        "latency_s": 0.2467,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p013__c005",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 13,
+            "score": 0.751988,
+            "text": "Credit growth ceilings in recent years have provided an incentive for banks to extend credit to maintain their quotas, creating bunching by year end. These efforts to meet the credit ceiling could create inefficiencies by allocating resources to unproductive activities and distorting asset prices. However, in 2024, the SBV started to introduce a more flexible approach to its credit growth caps, allowing selected banks with a strong capital base to expand loan bases beyond the predetermined indicative"
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p031__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 31,
+            "score": 0.737028,
+            "text": "However, in 2024, the SBV introduced a slightly more flexible approach, allowing selected banks with stronger capital bases to exceed their quotas once they reached 80 percent of their limit by August, without having to seek approval for additional credit room."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p029__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 29,
+            "score": 0.698087,
+            "text": "The financial sector showed signs of recovery\n\nCredit growth improved but remained below the SBV's target of 15 percent for the year despite a favorable interest rate environment, reflecting continued weak domestic investment demand. By the close of June 2024, credit growth hit 13.5 percent (y/y), driven by manufacturing, real estate, and trade, transport and telecommunications 9 (Figure 1.24). The latest data on consumer loans from banks,\n\nFigure 1.20. Large unrecorded capital outflows generated a negative external position despite positive current and financial account balances Percent of GDP\n\nFigure 1.21. Continued pressure on the exchange rate led to depreciation VND/US$\n\nSource: SBV and World Bank staff calculations"
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p013__c005] (source: wb_taking_stock_mar2025, page 13)\nCredit growth ceilings in recent years have provided an incentive for banks to extend credit to maintain their quotas, creating bunching by year end. These efforts to meet the credit ceiling could create inefficiencies by allocating resources to unproductive activities and distorting asset prices. However, in 2024, the SBV started to introduce a more flexible approach to its credit growth caps, allowing selected banks with a strong capital base to expand loan bases beyond the predetermined indicative\n\n[B__wb_taking_stock_mar2025__p031__c001] (source: wb_taking_stock_mar2025, page 31)\nHowever, in 2024, the SBV introduced a slightly more flexible approach, allowing selected banks with stronger capital bases to exceed their quotas once they reached 80 percent of their limit by August, without having to seek approval for additional credit room.",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p013__c005",
+          "B__wb_taking_stock_mar2025__p031__c001"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p029__c000"
+        ],
+        "context_chars": 936
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "credit growth end-2024 percent 2025 report",
+        "filter": null,
+        "latency_s": 0.2071,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p015__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 15,
+            "score": 0.749839,
+            "text": "Amid the economic recovery, credit growth picked up slowly and bank asset quality remains a significant concern Credit growth improved after a sluggish start to 2024. By the close of June 2024, credit growth hit 13.5 percent (y/y), driven by improvements in manufacturing, real estate, and trade, transportation, and telecommunications. However, the latest data on consumer loans suggests subdued consumer sentiment as homebuying and auto loans in Q1-2024 declined compared to the end of 2023. Total consumer loans grew by only 6.8 percent (y/y) in Q1-2024, on the back of soft growth in 2023, lower than the average (y/y) growth rate of 16.1 percent in the previous five years."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p031__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 31,
+            "score": 0.70238,
+            "text": "Credit growth picked up during 2024, reaching the government's target of 15 percent by the end of the year. Credit growth increased in the second half of the year, driven by wholesale and retail trade, manufacturing, and real estate (Figure 1.25). Credit growth ceilings, a monetary and macroprudential tool to control inflation and excessive growth, have provided an incentive for banks to extend credit to maintain their indicative quotas, creating bunching by year end. These efforts to meet the credit ceiling could create inefficiencies by allocating resource to unproductive activities and distorting asset prices."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p013__c004",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 13,
+            "score": 0.685461,
+            "text": "VND and 60.8 trillion VND, respectively). As a result, the overnight interbank rate rose to 4.04 percent (y/y) by December 2024, easing pressure on the local currency.\n\nCredit growth picked up during 2024, reaching the government's target of 15 percent by the end of the year. Credit growth increased in the second half of the year, driven by wholesale and retail trade, manufacturing, and real estate."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p013__c005] (source: wb_taking_stock_mar2025, page 13)\nCredit growth ceilings in recent years have provided an incentive for banks to extend credit to maintain their quotas, creating bunching by year end. These efforts to meet the credit ceiling could create inefficiencies by allocating resources to unproductive activities and distorting asset prices. However, in 2024, the SBV started to introduce a more flexible approach to its credit growth caps, allowing selected banks with a strong capital base to expand loan bases beyond the predetermined indicative\n\n[B__wb_taking_stock_mar2025__p031__c001] (source: wb_taking_stock_mar2025, page 31)\nHowever, in 2024, the SBV introduced a slightly more flexible approach, allowing selected banks with stronger capital bases to exceed their quotas once they reached 80 percent of their limit by August, without having to seek approval for additional credit room.\n\n[B__wb_taking_stock_mar2025__p013__c004] (source: wb_taking_stock_mar2025, page 13)\nVND and 60.8 trillion VND, respectively). As a result, the overnight interbank rate rose to 4.04 percent (y/y) by December 2024, easing pressure on the local currency.\n\nCredit growth picked up during 2024, reaching the government's target of 15 percent by the end of the year. Credit growth increased in the second half of the year, driven by wholesale and retail trade, manufacturing, and real estate.",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p013__c005",
+          "B__wb_taking_stock_mar2025__p031__c001",
+          "B__wb_taking_stock_mar2025__p013__c004"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p029__c000",
+          "B__wb_taking_stock_aug2024__p015__c000",
+          "B__wb_taking_stock_mar2025__p031__c000"
+        ],
+        "context_chars": 1424
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_mar2025__p013__c005] (source: wb_taking_stock_mar2025, page 13)\nCredit growth ceilings in recent years have provided an incentive for banks to extend credit to maintain their quotas, creating bunching by year end. These efforts to meet the credit ceiling could create inefficiencies by allocating resources to unproductive activities and distorting asset prices. However, in 2024, the SBV started to introduce a more flexible approach to its credit growth caps, allowing selected banks with a strong capital base to expand loan bases beyond the predetermined indicative\n\n[B__wb_taking_stock_mar2025__p031__c001] (source: wb_taking_stock_mar2025, page 31)\nHowever, in 2024, the SBV introduced a slightly more flexible approach, allowing selected banks with stronger capital bases to exceed their quotas once they reached 80 percent of their limit by August, without having to seek approval for additional credit room.\n\n[B__wb_taking_stock_mar2025__p013__c004] (source: wb_taking_stock_mar2025, page 13)\nVND and 60.8 trillion VND, respectively). As a result, the overnight interbank rate rose to 4.04 percent (y/y) by December 2024, easing pressure on the local currency.\n\nCredit growth picked up during 2024, reaching the government's target of 15 percent by the end of the year. Credit growth increased in the second half of the year, driven by wholesale and retail trade, manufacturing, and real estate.",
+    "final_context_ids": [
+      "B__wb_taking_stock_mar2025__p013__c005",
+      "B__wb_taking_stock_mar2025__p031__c001",
+      "B__wb_taking_stock_mar2025__p013__c004"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 11.5153,
+    "usage": {
+      "prompt_tokens": 3078,
+      "completion_tokens": 247,
+      "total_tokens": 3325
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "In the 2025 report, what credit growth rate was achieved by end-2024 and what quota flexibility did the SBV grant to banks with stronger capital bases?",
+    "answerable": true
+  },
+  {
+    "query_id": "q15",
+    "status": "answered",
+    "answer": "In the e-mobility special focus section, the three transition pathways analyzed are:\n1. **Business-as-Usual (BAU) Scenario** [B__wb_taking_stock_mar2025__p047__c000]\n2. **Stated Policy Scenario (SPS)** [B__wb_taking_stock_mar2025__p047__c000]\n3. **Accelerated Decarbonization Scenario (ADS)** [B__wb_taking_stock_mar2025__p047__c000]\n\nIn terms of timelines, policy levers under the **ADS** are activated from **2025**, compared to **2030** under the **SPS** [B__wb_taking_stock_mar2025__p047__c001].",
+    "citations": [
+      "B__wb_taking_stock_mar2025__p047__c000",
+      "B__wb_taking_stock_mar2025__p047__c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "e-mobility transition pathways ADS SPS policy levers",
+        "filter": null,
+        "latency_s": 0.2123,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p058__c003",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 58,
+            "score": 0.738588,
+            "text": "To achieve the ADS pathway for e-2Ws, the key lever is implementing SPS pathway policy actions faster and more decisively, particularly rolling out demand incentives and accelerating development of charging and battery swapping facilities."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p047__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 47,
+            "score": 0.718538,
+            "text": "Each pathway rests on different policy choices to support EV uptake, production, and its charging network. Variations across the three pathways are further split into the following parameters: (i) levels of EV uptake, (ii) levels of EV production and supply and (iii) availability of EV charging (Table 2.3). In terms of timelines, ADS is based on policy levers activated from 2025, compared to 2030 under the SPS.\n\n2.3 E-mobility scenarios\n\nTable 2.2. Definitions and key components of three transition pathways\n\n• The government does not provide any supportive programmes, policies and investments for EV uptake or public charging network development."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p047__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 47,
+            "score": 0.695209,
+            "text": "Three e-mobility transition pathways were developed to better understand EV uptake scenarios and accompanying policy. Based on the pathways - Business-as-Usual (BAU) Scenario, Stated Policy Scenario (SPS) and Accelerated Decarbonization Scenario (ADS) - the analysis included modelling different levels of EV uptake for 18 specific vehicle use categories in Viet Nam. Table 2.2 highlights key assumptions across all scenarios."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p058__c003] (source: wb_taking_stock_mar2025, page 58)\nTo achieve the ADS pathway for e-2Ws, the key lever is implementing SPS pathway policy actions faster and more decisively, particularly rolling out demand incentives and accelerating development of charging and battery swapping facilities.\n\n[B__wb_taking_stock_mar2025__p047__c001] (source: wb_taking_stock_mar2025, page 47)\nEach pathway rests on different policy choices to support EV uptake, production, and its charging network. Variations across the three pathways are further split into the following parameters: (i) levels of EV uptake, (ii) levels of EV production and supply and (iii) availability of EV charging (Table 2.3). In terms of timelines, ADS is based on policy levers activated from 2025, compared to 2030 under the SPS.\n\n2.3 E-mobility scenarios\n\nTable 2.2. Definitions and key components of three transition pathways\n\n• The government does not provide any supportive programmes, policies and investments for EV uptake or public charging network development.\n\n[B__wb_taking_stock_mar2025__p047__c000] (source: wb_taking_stock_mar2025, page 47)\nThree e-mobility transition pathways were developed to better understand EV uptake scenarios and accompanying policy. Based on the pathways - Business-as-Usual (BAU) Scenario, Stated Policy Scenario (SPS) and Accelerated Decarbonization Scenario (ADS) - the analysis included modelling different levels of EV uptake for 18 specific vehicle use categories in Viet Nam. Table 2.2 highlights key assumptions across all scenarios.",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p058__c003",
+          "B__wb_taking_stock_mar2025__p047__c001",
+          "B__wb_taking_stock_mar2025__p047__c000"
+        ],
+        "dropped_ids": [],
+        "context_chars": 1574
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Table 2.2 Business-as-Usual Stated Policy Scenario Accelerated Decarbonization Scenario e-mobility transition pathways",
+        "filter": null,
+        "latency_s": 0.2401,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p047__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 47,
+            "score": 0.771256,
+            "text": "Three e-mobility transition pathways were developed to better understand EV uptake scenarios and accompanying policy. Based on the pathways - Business-as-Usual (BAU) Scenario, Stated Policy Scenario (SPS) and Accelerated Decarbonization Scenario (ADS) - the analysis included modelling different levels of EV uptake for 18 specific vehicle use categories in Viet Nam. Table 2.2 highlights key assumptions across all scenarios."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p047__c003",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 47,
+            "score": 0.737591,
+            "text": "• Assumes more accelerated penetration of EVs, beyond SPS to maximize decarbonization impacts from the e-mobility transition.\n\n• More aggressive penetration rates are assumed across:\n\n- 2W segments in the short-term (to 2035).\n\n- Inter-city commercial buses/coaches and small/medium trucks (65 percent of GHG emissions from domestic road transport).\n\n• For EV charging, policy interventions go beyond infrastructure development and include electricity tariff reforms and smart charging to incentivize EV charging during off-peak hours, and behind-the-meter (BTM) off-grid solar for public charging facilities. These interventions reduce the impacts of EV charging on the power system, particularly peak loads.\n\nBusiness-as-Usual\n\nScenario\n\nStated Policy\n\nScenario\n\nAccelerated\n\nDecarbonization"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p049__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 49,
+            "score": 0.704932,
+            "text": "The ADS pathway for e-2Ws allows for a faster e-mobility transition and decarbonization than under SPS, achieved by the same policy interventions - but implemented at a faster pace by the former. While the SPS pathway assumes 50 percent e-2Ws uptake in urban areas and 100 percent uptake by 2050, Viet Nam has great potential to achieve the ADS pathway, whereby annual demand for e-2Ws in 2025 will be 1.5 times greater than under SPS and peak at 1.6 million in 2030. The ADS pathway fully leverages the impact of e-2Ws for road transport decarbonization by driving the transition, while 2Ws are still the dominant choice in the vehicle sales market."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p058__c003] (source: wb_taking_stock_mar2025, page 58)\nTo achieve the ADS pathway for e-2Ws, the key lever is implementing SPS pathway policy actions faster and more decisively, particularly rolling out demand incentives and accelerating development of charging and battery swapping facilities.\n\n[B__wb_taking_stock_mar2025__p047__c001] (source: wb_taking_stock_mar2025, page 47)\nEach pathway rests on different policy choices to support EV uptake, production, and its charging network. Variations across the three pathways are further split into the following parameters: (i) levels of EV uptake, (ii) levels of EV production and supply and (iii) availability of EV charging (Table 2.3). In terms of timelines, ADS is based on policy levers activated from 2025, compared to 2030 under the SPS.\n\n2.3 E-mobility scenarios\n\nTable 2.2. Definitions and key components of three transition pathways\n\n• The government does not provide any supportive programmes, policies and investments for EV uptake or public charging network development.\n\n[B__wb_taking_stock_mar2025__p047__c000] (source: wb_taking_stock_mar2025, page 47)\nThree e-mobility transition pathways were developed to better understand EV uptake scenarios and accompanying policy. Based on the pathways - Business-as-Usual (BAU) Scenario, Stated Policy Scenario (SPS) and Accelerated Decarbonization Scenario (ADS) - the analysis included modelling different levels of EV uptake for 18 specific vehicle use categories in Viet Nam. Table 2.2 highlights key assumptions across all scenarios.",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p058__c003",
+          "B__wb_taking_stock_mar2025__p047__c001",
+          "B__wb_taking_stock_mar2025__p047__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p047__c003",
+          "B__wb_taking_stock_mar2025__p049__c001"
+        ],
+        "context_chars": 1574
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_mar2025__p058__c003] (source: wb_taking_stock_mar2025, page 58)\nTo achieve the ADS pathway for e-2Ws, the key lever is implementing SPS pathway policy actions faster and more decisively, particularly rolling out demand incentives and accelerating development of charging and battery swapping facilities.\n\n[B__wb_taking_stock_mar2025__p047__c001] (source: wb_taking_stock_mar2025, page 47)\nEach pathway rests on different policy choices to support EV uptake, production, and its charging network. Variations across the three pathways are further split into the following parameters: (i) levels of EV uptake, (ii) levels of EV production and supply and (iii) availability of EV charging (Table 2.3). In terms of timelines, ADS is based on policy levers activated from 2025, compared to 2030 under the SPS.\n\n2.3 E-mobility scenarios\n\nTable 2.2. Definitions and key components of three transition pathways\n\n• The government does not provide any supportive programmes, policies and investments for EV uptake or public charging network development.\n\n[B__wb_taking_stock_mar2025__p047__c000] (source: wb_taking_stock_mar2025, page 47)\nThree e-mobility transition pathways were developed to better understand EV uptake scenarios and accompanying policy. Based on the pathways - Business-as-Usual (BAU) Scenario, Stated Policy Scenario (SPS) and Accelerated Decarbonization Scenario (ADS) - the analysis included modelling different levels of EV uptake for 18 specific vehicle use categories in Viet Nam. Table 2.2 highlights key assumptions across all scenarios.",
+    "final_context_ids": [
+      "B__wb_taking_stock_mar2025__p058__c003",
+      "B__wb_taking_stock_mar2025__p047__c001",
+      "B__wb_taking_stock_mar2025__p047__c000"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 10.4392,
+    "usage": {
+      "prompt_tokens": 3396,
+      "completion_tokens": 328,
+      "total_tokens": 3724
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "In the e-mobility special focus section, what are the three transition pathways analyzed and when are policy levers activated under ADS compared to SPS?",
+    "answerable": true
+  },
+  {
+    "query_id": "u01",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (The provided World Bank Taking Stock reports (August 2024 and March 2025) do not contain data or figures for Viet Nam's real GDP growth rate in the first quarter (Q1) of 2025.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "real GDP growth rate first quarter 2025 Viet Nam Taking Stock",
+        "filter": null,
+        "latency_s": 0.2094,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p019__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 19,
+            "score": 0.766439,
+            "text": "Growth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2)."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p013__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 13,
+            "score": 0.7644,
+            "text": "Growth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p011__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 11,
+            "score": 0.760343,
+            "text": "EXECUTIVE SUMMARY\n\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers.\n\nExternal demand strongly rebounded in 2024 after a contraction in 2023. Final consumption and investment growth also accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, supporting the growth momentum. However, private consumption remained a moderate driver of aggregate demand relative to the region (54 percent of GDP compared to a median of 61.7 percent, respectively) as household savings increased amid heightened uncertainty in recent years."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p019__c000] (source: wb_taking_stock_mar2025, page 19)\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2).\n\n[B__wb_taking_stock_aug2024__p013__c000] (source: wb_taking_stock_aug2024, page 13)\nGrowth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively.",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p019__c000",
+          "B__wb_taking_stock_aug2024__p013__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p011__c000"
+        ],
+        "context_chars": 1574
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Q1 2025 real GDP growth rate Viet Nam Taking Stock March 2025",
+        "filter": null,
+        "latency_s": 0.2201,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p037__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 37,
+            "score": 0.776535,
+            "text": "Viet Nam's GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026 (Table 1.1). The rebound in export activities in 2024 is expected to ease in 2025 and further in 2026 due to projected economic slowdown in China and the United States in the near-term - Viet Nam's largest trade partners - and uncertain global trade prospects given expected shifts in trade policy. Domestic activities and services are expected to continue to firm up in 2025 and into 2026 as the real estate market recovery gathers steam."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p019__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 19,
+            "score": 0.768515,
+            "text": "Growth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2)."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p013__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 13,
+            "score": 0.767466,
+            "text": "Growth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p019__c000] (source: wb_taking_stock_mar2025, page 19)\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2).\n\n[B__wb_taking_stock_aug2024__p013__c000] (source: wb_taking_stock_aug2024, page 13)\nGrowth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively.",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p019__c000",
+          "B__wb_taking_stock_aug2024__p013__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p011__c000",
+          "B__wb_taking_stock_mar2025__p037__c002"
+        ],
+        "context_chars": 1574
+      },
+      {
+        "event": "abstain",
+        "reason": "The provided World Bank Taking Stock reports (August 2024 and March 2025) do not contain data or figures for Viet Nam's real GDP growth rate in the first quarter (Q1) of 2025."
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_mar2025__p019__c000] (source: wb_taking_stock_mar2025, page 19)\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2).\n\n[B__wb_taking_stock_aug2024__p013__c000] (source: wb_taking_stock_aug2024, page 13)\nGrowth accelerated in the first half of 2024\n\nViet Nam's GDP grew by 6.4 percent (y/y) in H1-2024 after a moderate 5 percent growth in 2023, boosted by a rebound in manufacturing exports as well as higher consumption and investment. Merchandise trade was more robust than expected in H1-2024, fueled by stronger external demand, with exports and imports growing at 16.9 and 17 percent (y/y), respectively. While the net export contribution to GDP remains modest, expanding trade was accompanied by a gradual recovery of domestic demand with investment and consumption growth recording 6.7 and 5.8 percent (y/y) in H1- 2024, respectively.",
+    "final_context_ids": [
+      "B__wb_taking_stock_mar2025__p019__c000",
+      "B__wb_taking_stock_aug2024__p013__c000"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 22.6453,
+    "usage": {
+      "prompt_tokens": 3499,
+      "completion_tokens": 134,
+      "total_tokens": 3633
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "What was Viet Nam's real GDP growth rate (y/y) in the first quarter of 2025?",
+    "answerable": false
+  },
+  {
+    "query_id": "u02",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (The provided World Bank reports do not contain specific data or figures regarding the non-performing loan ratio of Vietcombank at end-2023.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Vietcombank non-performing loan ratio end-2023",
+        "filter": null,
+        "latency_s": 0.2087,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p015__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 15,
+            "score": 0.69574,
+            "text": "Bank asset quality has remained a concern since 2023. System-wide non-performing loans (NPLs) have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023, based on the latest available data, driven largely by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included. Latest Q1-2024 data suggests that the NPL ratios of 27 listed commercial banks, which account for 83 percent of total outstanding credit in the banking sector, rose from 1.9 percent in Q4-2023 to 2.2 percent in Q1-2024, amid rising bad debts coupled with sluggish credit growth."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p031__c003",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 31,
+            "score": 0.642909,
+            "text": "(NPLs) increased slightly from 4.6 percent in 2023 to 4.9 percent in May 2024, before stabilizing at 4.6 percent by September 2024. (Figure 1.27). This improvement may be attributed to a surge in loan disbursements in Q2 and Q3-2024. Total (adjusted) NPLs including restructured loans and Viet Nam Asset Management Company (VAMC) debts held steady at 6.9 percent across the year. In September 2024, the government implemented additional forbearance measures to support households and\n\nFigure 1.26. Inflation\n\nPercent, Percentage points (y/y)\n\n-4% -2% 0% 2% 4% 6% Dec-19 Dec-20 Dec-21 Dec-22 Dec-23 Dec-24\n\nFood Housing Transport\n\nHealth & edu.\n\nOthers\n\nHeadlineCore\n\nSource: GSO, Haver Analytics, and World Bank staff calculations"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p031__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 31,
+            "score": 0.625955,
+            "text": "Asset quality has remained a significant banking sector concern since 2023, amid increasing NPLs and loan-loss coverage. System-wide on balance sheet NPLs have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023 (Figure 1.27), based on the latest available data, driven by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p015__c001] (source: wb_taking_stock_aug2024, page 15)\nBank asset quality has remained a concern since 2023. System-wide non-performing loans (NPLs) have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023, based on the latest available data, driven largely by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included. Latest Q1-2024 data suggests that the NPL ratios of 27 listed commercial banks, which account for 83 percent of total outstanding credit in the banking sector, rose from 1.9 percent in Q4-2023 to 2.2 percent in Q1-2024, amid rising bad debts coupled with sluggish credit growth.\n\n[B__wb_taking_stock_aug2024__p031__c000] (source: wb_taking_stock_aug2024, page 31)\nAsset quality has remained a significant banking sector concern since 2023, amid increasing NPLs and loan-loss coverage. System-wide on balance sheet NPLs have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023 (Figure 1.27), based on the latest available data, driven by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p015__c001",
+          "B__wb_taking_stock_aug2024__p031__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p031__c003"
+        ],
+        "context_chars": 1444
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "Vietcombank 2023 NPL ratio state-owned commercial bank",
+        "filter": null,
+        "latency_s": 0.1919,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p015__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 15,
+            "score": 0.662557,
+            "text": "Bank asset quality has remained a concern since 2023. System-wide non-performing loans (NPLs) have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023, based on the latest available data, driven largely by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included. Latest Q1-2024 data suggests that the NPL ratios of 27 listed commercial banks, which account for 83 percent of total outstanding credit in the banking sector, rose from 1.9 percent in Q4-2023 to 2.2 percent in Q1-2024, amid rising bad debts coupled with sluggish credit growth."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p031__c000",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 31,
+            "score": 0.629561,
+            "text": "Asset quality has remained a significant banking sector concern since 2023, amid increasing NPLs and loan-loss coverage. System-wide on balance sheet NPLs have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023 (Figure 1.27), based on the latest available data, driven by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p031__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 31,
+            "score": 0.629216,
+            "text": "Latest Q1-2024 data suggests that the NPL ratios of 27 listed commercial banks, which account for 83 percent of total outstanding credit in the banking sector, rose from 1.9 percent in Q4-2023 to 2.2 percent in Q1-2024, amid rising bad debts coupled with sluggish credit growth. In addition, the expiration of pandemic forbearance measures, set to end in December 2024, may further increase NPL levels. Provisions for loan losses remain uneven among banks and in some cases, insufficient against rising bad debts. The potential need to increase provisioning, adding loanloss reserves, is placing additional pressure on bank profitability already squeezed by a slowdown in net interest income, fees, and commissions."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p015__c001] (source: wb_taking_stock_aug2024, page 15)\nBank asset quality has remained a concern since 2023. System-wide non-performing loans (NPLs) have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023, based on the latest available data, driven largely by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included. Latest Q1-2024 data suggests that the NPL ratios of 27 listed commercial banks, which account for 83 percent of total outstanding credit in the banking sector, rose from 1.9 percent in Q4-2023 to 2.2 percent in Q1-2024, amid rising bad debts coupled with sluggish credit growth.\n\n[B__wb_taking_stock_aug2024__p031__c000] (source: wb_taking_stock_aug2024, page 31)\nAsset quality has remained a significant banking sector concern since 2023, amid increasing NPLs and loan-loss coverage. System-wide on balance sheet NPLs have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023 (Figure 1.27), based on the latest available data, driven by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p015__c001",
+          "B__wb_taking_stock_aug2024__p031__c000"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p031__c003",
+          "B__wb_taking_stock_aug2024__p031__c001"
+        ],
+        "context_chars": 1444
+      },
+      {
+        "event": "abstain",
+        "reason": "The provided World Bank reports do not contain specific data or figures regarding the non-performing loan ratio of Vietcombank at end-2023."
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p015__c001] (source: wb_taking_stock_aug2024, page 15)\nBank asset quality has remained a concern since 2023. System-wide non-performing loans (NPLs) have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023, based on the latest available data, driven largely by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included. Latest Q1-2024 data suggests that the NPL ratios of 27 listed commercial banks, which account for 83 percent of total outstanding credit in the banking sector, rose from 1.9 percent in Q4-2023 to 2.2 percent in Q1-2024, amid rising bad debts coupled with sluggish credit growth.\n\n[B__wb_taking_stock_aug2024__p031__c000] (source: wb_taking_stock_aug2024, page 31)\nAsset quality has remained a significant banking sector concern since 2023, amid increasing NPLs and loan-loss coverage. System-wide on balance sheet NPLs have grown significantly, from 1.9 percent in 2022 to 4.6 percent of total loans in 2023 (Figure 1.27), based on the latest available data, driven by the recognition of bad debts held by Saigon Joint Stock Commercial Bank (SCB). However, total problem loans could be as high as 7.9 percent if restructured loans and Viet Nam Asset Management Company (VAMC) debts are included.",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p015__c001",
+      "B__wb_taking_stock_aug2024__p031__c000"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 33.1895,
+    "usage": {
+      "prompt_tokens": 3390,
+      "completion_tokens": 107,
+      "total_tokens": 3497
+    },
+    "cost_usd": 0.0,
+    "split": "dev",
+    "question": "What was the non-performing loan ratio of Vietcombank, Viet Nam's largest state-owned commercial bank, at end-2023?",
+    "answerable": false
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "query_id": "q16",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "notes": "Complete and grounded answer citing B__wb_taking_stock_aug2024__p052__c001 for VND 786 trillion (US$31 billion), 8% of GDP, and second largest domestic institutional investor."
+  },
+  {
+    "query_id": "q17",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "notes": "Complete answer comparing ~4-year corporate bond maturity (< half regional average) and 2019-2023 annual averages (VND 37T shares, 271T govt bonds, 403T corp bonds) supported by B__wb_taking_stock_aug2024__p040__c001."
+  },
+  {
+    "query_id": "q18",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "notes": "Inferred section=special_focus_emobility and used get_adjacent_chunks; explains 2030 modest 5.3 MtCO2eq impact (mainly e-2Ws) vs 2050 scale-up (226 MtCO2eq SPS / 249 MtCO2eq ADS from cars, trucks, intercity buses) accurately supported by p053__c000 and p053__c001."
+  },
+  {
+    "query_id": "q19",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "notes": "States 6.8% (2025) and 6.5% (2026) GDP forecasts plus China/US slowdowns and global trade policy uncertainty, fully supported by B__wb_taking_stock_mar2025__p037__c002."
+  },
+  {
+    "query_id": "q20",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "notes": "Inferred year=2024 filter and accurately cited B__wb_taking_stock_aug2024__p015__c004 for H1-2024 fiscal surplus (4.2% vs 1.5% of GDP in H1-2023)."
+  },
+  {
+    "query_id": "u03",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Verified absence of VinFast via both search_documents and keyword_search('VinFast') (0 hits) before abstaining cleanly."
+  },
+  {
+    "query_id": "u04",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Searched across 4 turns including keyword_search('minimum wage'), distinguished public-sector civil service/pension increases from missing private-sector regional minimum wage, and abstained cleanly."
+  }
+]
+

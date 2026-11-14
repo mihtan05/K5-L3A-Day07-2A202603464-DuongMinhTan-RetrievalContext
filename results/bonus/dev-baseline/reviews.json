@@ -1,0 +1,92 @@
+[
+  {
+    "query_id": "bd_q01",
+    "passed": true,
+    "audit_note": "Đạt: Trả lời đúng CCI Moderate (5–10, 'A few pieces of waste were detected'), Dirty (10–20, 'A lot of waste on shore/at sites'), và hệ số k = 20 từ Table 4 [BONUS__wb_vn_plastic_2022__p034__table_04]."
+  },
+  {
+    "query_id": "bd_q02",
+    "passed": true,
+    "audit_note": "Đạt: Đầy đủ tỷ lệ thu gom và số cơ sở xử lý chất thải cho Hải Phòng (90%, 6–8 facilities), Lào Cai/Sa Pa (85%, 1 facility) và Hải Dương (80–85%, 2 facilities) theo [BONUS__wb_vn_plastic_2022__p057__t00]."
+  },
+  {
+    "query_id": "bd_q03",
+    "passed": true,
+    "audit_note": "Đạt: Trích xuất chính xác 16,800 tons/year, 380,000–550,000 VND/unit, tuổi thọ 1–2 năm cho phao xốp lồng bè và so sánh đúng với composite/HDPE (1,500 tons/year, 900,000–1,450,000 VND/unit, 10–15 năm) [BONUS__wb_vn_plastic_2022__p085__table_19]."
+  },
+  {
+    "query_id": "bd_q04",
+    "passed": true,
+    "audit_note": "Đạt: Nêu đúng cả 4 nhãn vị trí ảnh UAV ở Hải Dương (Thach Khoi 1 site 1 & site 2) và Hải Phòng (Chanh Duong 01 (6m) Site 1 & Chanh Duong 02 (6m) site 2) [BONUS__wb_vn_plastic_2022__p066__fig_27]."
+  },
+  {
+    "query_id": "bd_q05",
+    "passed": true,
+    "audit_note": "Đạt: Xác định đúng 3 thiết bị thực địa trong Figure 25 (camera GoPro gắn cầu, UAV drone 4 cánh, khung lưới lấy mẫu bằng kim loại đặt thẳng đứng dưới cầu) [BONUS__wb_vn_plastic_2022__p062__fig_25]."
+  },
+  {
+    "query_id": "bd_q06",
+    "passed": true,
+    "audit_note": "Đạt: Đủ 3 thông số kỹ thuật từ Figure 51 trang 125: ống thép 48 mm, khung lưới 600x600 mm, tổng tạ đối trọng bổ sung 240 kg [BONUS__wb_vn_plastic_2022__p125__fig_51]."
+  },
+  {
+    "query_id": "bd_q07",
+    "passed": true,
+    "audit_note": "Đạt: Đủ cả Figure 5 (Plastic 93.6%, Other 3.6% gồm Mix 1.5%, Cloth/fabric 1.5%, Paper/timber 0.6%) và Figure 6 (Plastic 70.7%, Other 14.1% gồm Mix 6.6%, Cloth/fabric 5.1%, Paper/timber 2.4%) kèm citation chuẩn [fig_05, fig_06]."
+  },
+  {
+    "query_id": "bd_q08",
+    "passed": true,
+    "audit_note": "Đạt: Trả lời chính xác River sites (72% single-use, 28% other) và Coastal sites (52% single-use, 48% other) từ Figure 10 [BONUS__wb_vn_plastic_2022__p042__fig_10]."
+  },
+  {
+    "query_id": "bd_q09",
+    "passed": false,
+    "audit_note": "Không đạt (từ chối nhầm): Lượt search 2 đã tìm ra fig_32 (rank 1) nhưng FIFO budget 1600 ký tự chỉ giữ fig_33 và p020__t00, làm rơi fig_32 nên agent abstain."
+  },
+  {
+    "query_id": "bd_q10",
+    "passed": false,
+    "audit_note": "Không đạt (thiếu ý): Nêu đúng Chanh Duong 2 từ table_10 nhưng table_09 (rank 3) bị FIFO budget 1600 cắt bỏ nên thiếu tọa độ Latitude 20.641278, Longitude 106.566986."
+  },
+  {
+    "query_id": "bd_q11",
+    "passed": false,
+    "audit_note": "Không đạt (thiếu ý): Chỉ trả lời được hạng #1 theo trọng lượng (Organic waste 1,500 g, 58%) từ fig_31; table_14 bị FIFO budget 1600 cắt mất nên thiếu hạng #1 theo số lượng (Packages and other wrapper: 50 pcs / 41.32%)."
+  },
+  {
+    "query_id": "bd_q12",
+    "passed": false,
+    "audit_note": "Không đạt (thiếu số liệu Table 15): Chỉ nêu được 2 nhóm loại bỏ #6 và #9 từ table_16 và lý do quá đa dạng, nhưng thiếu tỷ lệ % của từng nhóm trong Table 15 (6.1% và 3.2%)."
+  },
+  {
+    "query_id": "bd_q13",
+    "passed": false,
+    "audit_note": "Không đạt (từ chối nhầm): Search 2 lượt trong baseline dense + FIFO budget 1600 ký tự không pack được chunk trang 26 chứa số liệu 2.8–3.1 million tons trên đất liền và tỷ lệ thu gom đô thị/nông thôn (10–15% / 45–60%), dẫn đến abstain."
+  },
+  {
+    "query_id": "bd_q14",
+    "passed": false,
+    "audit_note": "Không đạt (từ chối nhầm): Đã truy xuất trúng p032__t01 và p034__t00 ở lượt 2 nhưng FIFO budget 1600 cắt mất cả hai chunk này sau p106__t00 và p031__t04."
+  },
+  {
+    "query_id": "bd_q15",
+    "passed": false,
+    "audit_note": "Không đạt (từ chối nhầm): Search 2 lượt trong baseline dense + FIFO budget 1600 ký tự không pack được p042__t00 (Waste Brand Audit: 1,184/24,461 mẫu thuộc 266 nhãn hiệu, top 21 chiếm 56%), dẫn đến abstain."
+  },
+  {
+    "query_id": "bd_u01",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; vịnh Hạ Long / Quảng Ninh không nằm trong 14 điểm khảo sát ven biển của Table 6."
+  },
+  {
+    "query_id": "bd_u02",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; Han Bridge không có số liệu giám sát cầu/lưới trong Table 13 hay Table 14 (Table 10 bỏ trống)."
+  },
+  {
+    "query_id": "bd_u03",
+    "passed": true,
+    "audit_note": "Đạt: Abstain chính xác; báo cáo không đo nồng độ thôi nhiễm hóa chất BPA hay phthalates (ng/L) trong nước sông."
+  }
+]

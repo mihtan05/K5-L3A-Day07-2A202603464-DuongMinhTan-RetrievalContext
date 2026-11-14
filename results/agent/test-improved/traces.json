@@ -1,0 +1,961 @@
+[
+  {
+    "query_id": "q16",
+    "status": "answered",
+    "answer": "By December 2023, Viet Nam's life insurance sector held total assets of VND 786 trillion (US$31 billion), which is equivalent to 8 percent of GDP [B__wb_taking_stock_aug2024__p052__c001]. It ranks as the second largest type of domestic institutional investor in Viet Nam [B__wb_taking_stock_aug2024__p052__c001].",
+    "citations": [
+      "B__wb_taking_stock_aug2024__p052__c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "life insurance total assets December 2023 rank domestic institutional investors",
+        "filter": null,
+        "latency_s": 0.2465,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p052__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 52,
+            "score": 0.032787,
+            "text": "Insurance companies could play an impactful role in capital markets, in particular life insurance firms that must invest in long-term instruments to support matching long-term liabilities. By December 2023, the life insurance sector held VND 786 trillion (US$31 billion) in total assets, with a strong average annual growth rate of 20 percent in the last five years. Equivalent to 8 percent of GDP, it is the second largest type of domestic institutional investor in Viet Nam."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p052__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 52,
+            "score": 0.032258,
+            "text": "Addressing these problems in the corporate securities market will imbue more confidence in insurance companies to diversify which, in turn, will help the corporate securities market grow more healthily. Deposits\n\nGovernment bonds\n\nUnsecured corporate bonds, shares, and investment funds\n\nSecured corporate bonds\n\nCapital contributions\n\nReal estate\n\nLoans\n\nOther\n\nTotal investment assets\n\n249,236 243,252 73,226 26,891 12,881 8,382 614,771 40.5 39.6 4.4 11.9 0.1 0.0 2.1 0.0 VND bnAsset classes\n\nLife Insurer Investments\n\n%\n\nTable 2.2. Investment assets of life insurers, Dec 2022\n\nSource: Insurance Supervisory Authority"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p060__c005",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 60,
+            "score": 0.029911,
+            "text": "36 Assuming that the investment fund industry reaches 6 percent to GDP and the private pension funds cover an additional 1 percent of total workers.\n\n37 Continued reforms, such as addressing the FOL issues and successful equitization or IPOs of large companies, will likely increase Viet Nam's weight in the EM indices, leading to further reallocation of global investors' portfolio into Viet Nam. Furthermore, a healthy global investment environment would ensure a persistent growth in the assets under management of global investors investing in emerging markets. The pool of assets benchmarked to MSCI equity indices, for example, was estimated to have grown at more than 7 percent per year during 2014-2021."
+          },
+          {
+            "rank": 4,
+            "id": "B__wb_taking_stock_aug2024__p040__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 40,
+            "score": 0.029437,
+            "text": "Also, recent market turbulence - which saw a significant drop in corporate bond issuances from late 2022 - exposed weaknesses in the market's foundations. Savings function: The total amount of savings is still low, limiting the amount available for long-term investments. In recent years, the number of securities accounts held by individuals has increased, but the total size of Viet Nam's institutional investors remains smaller than most regional peers at 19 percent of GDP (Figure 2.3). This underlines the untapped potential of Viet Nam's capital markets, limiting the provision of long-term financing. Of the existing domestic institutional investors, few invest in the corporate sector."
+          },
+          {
+            "rank": 5,
+            "id": "B__wb_taking_stock_aug2024__p060__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 60,
+            "score": 0.027402,
+            "text": "Proper reforms, if carefully implemented, will help to unlock significant additional longterm capital for Viet Nam's corporate sector. A modest allocation of VSS investment into corporate securities could mean an additional US$20 billion for the corporate sector by 2030. 34 Extra returns may also accumulate US$4 billion by 2030. Similarly, reallocation of a modest portion of life insurance investment into corporate securities could mobilize US$15 billion within the same timeframe."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p052__c001] (source: wb_taking_stock_aug2024, page 52)\nInsurance companies could play an impactful role in capital markets, in particular life insurance firms that must invest in long-term instruments to support matching long-term liabilities. By December 2023, the life insurance sector held VND 786 trillion (US$31 billion) in total assets, with a strong average annual growth rate of 20 percent in the last five years. Equivalent to 8 percent of GDP, it is the second largest type of domestic institutional investor in Viet Nam.\n\n[B__wb_taking_stock_aug2024__p052__c003] (source: wb_taking_stock_aug2024, page 52)\nAddressing these problems in the corporate securities market will imbue more confidence in insurance companies to diversify which, in turn, will help the corporate securities market grow more healthily. Deposits\n\nGovernment bonds\n\nUnsecured corporate bonds, shares, and investment funds\n\nSecured corporate bonds\n\nCapital contributions\n\nReal estate\n\nLoans\n\nOther\n\nTotal investment assets\n\n249,236 243,252 73,226 26,891 12,881 8,382 614,771 40.5 39.6 4.4 11.9 0.1 0.0 2.1 0.0 VND bnAsset classes\n\nLife Insurer Investments\n\n%\n\nTable 2.2. Investment assets of life insurers, Dec 2022\n\nSource: Insurance Supervisory Authority\n\n[B__wb_taking_stock_aug2024__p060__c005] (source: wb_taking_stock_aug2024, page 60)\n36 Assuming that the investment fund industry reaches 6 percent to GDP and the private pension funds cover an additional 1 percent of total workers.\n\n37 Continued reforms, such as addressing the FOL issues and successful equitization or IPOs of large companies, will likely increase Viet Nam's weight in the EM indices, leading to further reallocation of global investors' portfolio into Viet Nam. Furthermore, a healthy global investment environment would ensure a persistent growth in the assets under management of global investors investing in emerging markets. The pool of assets benchmarked to MSCI equity indices, for example, was estimated to have grown at more than 7 percent per year during 2014-2021.\n\n[B__wb_taking_stock_aug2024__p040__c002] (source: wb_taking_stock_aug2024, page 40)\nAlso, recent market turbulence - which saw a significant drop in corporate bond issuances from late 2022 - exposed weaknesses in the market's foundations. Savings function: The total amount of savings is still low, limiting the amount available for long-term investments. In recent years, the number of securities accounts held by individuals has increased, but the total size of Viet Nam's institutional investors remains smaller than most regional peers at 19 percent of GDP (Figure 2.3). This underlines the untapped potential of Viet Nam's capital markets, limiting the provision of long-term financing. Of the existing domestic institutional investors, few invest in the corporate sector.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p052__c001",
+          "B__wb_taking_stock_aug2024__p052__c003",
+          "B__wb_taking_stock_aug2024__p060__c005",
+          "B__wb_taking_stock_aug2024__p040__c002"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p060__c002"
+        ],
+        "context_chars": 2842
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p052__c001] (source: wb_taking_stock_aug2024, page 52)\nInsurance companies could play an impactful role in capital markets, in particular life insurance firms that must invest in long-term instruments to support matching long-term liabilities. By December 2023, the life insurance sector held VND 786 trillion (US$31 billion) in total assets, with a strong average annual growth rate of 20 percent in the last five years. Equivalent to 8 percent of GDP, it is the second largest type of domestic institutional investor in Viet Nam.\n\n[B__wb_taking_stock_aug2024__p052__c003] (source: wb_taking_stock_aug2024, page 52)\nAddressing these problems in the corporate securities market will imbue more confidence in insurance companies to diversify which, in turn, will help the corporate securities market grow more healthily. Deposits\n\nGovernment bonds\n\nUnsecured corporate bonds, shares, and investment funds\n\nSecured corporate bonds\n\nCapital contributions\n\nReal estate\n\nLoans\n\nOther\n\nTotal investment assets\n\n249,236 243,252 73,226 26,891 12,881 8,382 614,771 40.5 39.6 4.4 11.9 0.1 0.0 2.1 0.0 VND bnAsset classes\n\nLife Insurer Investments\n\n%\n\nTable 2.2. Investment assets of life insurers, Dec 2022\n\nSource: Insurance Supervisory Authority\n\n[B__wb_taking_stock_aug2024__p060__c005] (source: wb_taking_stock_aug2024, page 60)\n36 Assuming that the investment fund industry reaches 6 percent to GDP and the private pension funds cover an additional 1 percent of total workers.\n\n37 Continued reforms, such as addressing the FOL issues and successful equitization or IPOs of large companies, will likely increase Viet Nam's weight in the EM indices, leading to further reallocation of global investors' portfolio into Viet Nam. Furthermore, a healthy global investment environment would ensure a persistent growth in the assets under management of global investors investing in emerging markets. The pool of assets benchmarked to MSCI equity indices, for example, was estimated to have grown at more than 7 percent per year during 2014-2021.\n\n[B__wb_taking_stock_aug2024__p040__c002] (source: wb_taking_stock_aug2024, page 40)\nAlso, recent market turbulence - which saw a significant drop in corporate bond issuances from late 2022 - exposed weaknesses in the market's foundations. Savings function: The total amount of savings is still low, limiting the amount available for long-term investments. In recent years, the number of securities accounts held by individuals has increased, but the total size of Viet Nam's institutional investors remains smaller than most regional peers at 19 percent of GDP (Figure 2.3). This underlines the untapped potential of Viet Nam's capital markets, limiting the provision of long-term financing. Of the existing domestic institutional investors, few invest in the corporate sector.",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p052__c001",
+      "B__wb_taking_stock_aug2024__p052__c003",
+      "B__wb_taking_stock_aug2024__p060__c005",
+      "B__wb_taking_stock_aug2024__p040__c002"
+    ],
+    "num_searches": 1,
+    "api_calls": 2,
+    "latency_s": 8.9578,
+    "usage": {
+      "prompt_tokens": 3605,
+      "completion_tokens": 178,
+      "total_tokens": 3783
+    },
+    "cost_usd": 0.0,
+    "split": "test",
+    "question": "How large were total assets in Viet Nam's life insurance sector by December 2023, and how does it rank among domestic institutional investors?",
+    "answerable": true
+  },
+  {
+    "query_id": "q17",
+    "status": "answered",
+    "answer": "The average maturity for corporate bonds in Viet Nam is short at around four years, which is less than half the regional average [B__wb_taking_stock_aug2024__p040__c001]. Between 2019 and 2023, the amount raised annually averaged VND 37 trillion (US$1.5 billion) via shares across the two stock exchanges, while corporate bonds averaged VND 403 trillion (US$17 billion) annually (alongside an annual average of VND 271 trillion or US$11 billion in government bonds) [B__wb_taking_stock_aug2024__p040__c001].",
+    "citations": [
+      "B__wb_taking_stock_aug2024__p040__c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "corporate bonds average maturity regional average shares bonds 2019 2023",
+        "filter": null,
+        "latency_s": 0.2216,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p040__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 40,
+            "score": 0.032522,
+            "text": "Funding function: Despite the large equity market capitalization, the amount of funds raised through shares over the past five years has been relatively small, averaging VND 37 trillion (US$1.5 billion) per year in the two stock exchanges. Bonds were relatively more significant, with an annual average of VND 271 trillion (US$11 billion) and VND 403 trillion (US$17 billion) issued in government bonds and corporate bonds, respectively between 2019 and 2023 (Figure 2.2). Corporate bonds appeared promising with significant growth in issuances until 2021, when peaking at VND 637 trillion (US$26 billion). Yet, the average maturity for corporate bonds is short at around four years, less than half the regional average, reflecting limited long-term financing."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p045__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 45,
+            "score": 0.030415,
+            "text": "Participation of the Viet Nam Social Security Fund (VSS) in government bonds is significant and has enabled the government to focus on issuing long-term instruments. These longterm instruments dominate the issuance profile of government bonds, helping to lengthen the average maturity and protect the government against short-term shocks, including changes in interest rates and investor sentiment. It has been a strategic goal of the Ministry of Finance (MoF) to gradually increase the average maturity of the government bond portfolio. As such, 95 percent of all issuances in 2021 were 10 years or longer in maturity and this hit 100 percent in 2022."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p046__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 46,
+            "score": 0.030118,
+            "text": "The government bond portfolio is also highly fragmented, as numerous bonds have similar maturity dates. There were 194 government bonds in 2023, reflecting that the average bond size is smaller than potential, leading to sub-optimal liquidity. This has also led to a practice of quoting prices for a group of bonds with similar tenors rather than prices for a specific bond. In this instance, buyers are not guaranteed to receive a specific bond they want, only those that fall into a certain group. This practice, common in Viet Nam, is not aligned with the international market and is likely a significant obstacle for inclusion in international bond indices, such as the J.P. Morgan Global Bond Index."
+          },
+          {
+            "rank": 4,
+            "id": "B__wb_taking_stock_aug2024__p052__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 52,
+            "score": 0.029958,
+            "text": "Addressing these problems in the corporate securities market will imbue more confidence in insurance companies to diversify which, in turn, will help the corporate securities market grow more healthily. Deposits\n\nGovernment bonds\n\nUnsecured corporate bonds, shares, and investment funds\n\nSecured corporate bonds\n\nCapital contributions\n\nReal estate\n\nLoans\n\nOther\n\nTotal investment assets\n\n249,236 243,252 73,226 26,891 12,881 8,382 614,771 40.5 39.6 4.4 11.9 0.1 0.0 2.1 0.0 VND bnAsset classes\n\nLife Insurer Investments\n\n%\n\nTable 2.2. Investment assets of life insurers, Dec 2022\n\nSource: Insurance Supervisory Authority"
+          },
+          {
+            "rank": 5,
+            "id": "B__wb_taking_stock_aug2024__p015__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 15,
+            "score": 0.029631,
+            "text": "Meanwhile the corporate bond market showed signs of recovery. Corporate bond issuances increased by 2.5-fold in H1-2024 compared to the same period in 2023, as banks took advantage of the lower interest rate environment to refinance bonds. However, bonds maturing in the second half of 2024 are estimated at VND 139.8 trillion (US$5.6 billion), with real estate bonds comprising 42 percent, placing the property sector under pressure amid cash flow challenges. Beyond these short-term developments, the gradual rebalancing of Viet Nam's financial system towards a more prominent role of capital markets remains an important agenda, as discussed further in this edition's special topic chapter. Fiscal consolidation resumed in H1-2024 after a moderately expansionary 2023"
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p040__c001] (source: wb_taking_stock_aug2024, page 40)\nFunding function: Despite the large equity market capitalization, the amount of funds raised through shares over the past five years has been relatively small, averaging VND 37 trillion (US$1.5 billion) per year in the two stock exchanges. Bonds were relatively more significant, with an annual average of VND 271 trillion (US$11 billion) and VND 403 trillion (US$17 billion) issued in government bonds and corporate bonds, respectively between 2019 and 2023 (Figure 2.2). Corporate bonds appeared promising with significant growth in issuances until 2021, when peaking at VND 637 trillion (US$26 billion). Yet, the average maturity for corporate bonds is short at around four years, less than half the regional average, reflecting limited long-term financing.\n\n[B__wb_taking_stock_aug2024__p045__c002] (source: wb_taking_stock_aug2024, page 45)\nParticipation of the Viet Nam Social Security Fund (VSS) in government bonds is significant and has enabled the government to focus on issuing long-term instruments. These longterm instruments dominate the issuance profile of government bonds, helping to lengthen the average maturity and protect the government against short-term shocks, including changes in interest rates and investor sentiment. It has been a strategic goal of the Ministry of Finance (MoF) to gradually increase the average maturity of the government bond portfolio. As such, 95 percent of all issuances in 2021 were 10 years or longer in maturity and this hit 100 percent in 2022.\n\n[B__wb_taking_stock_aug2024__p046__c002] (source: wb_taking_stock_aug2024, page 46)\nThe government bond portfolio is also highly fragmented, as numerous bonds have similar maturity dates. There were 194 government bonds in 2023, reflecting that the average bond size is smaller than potential, leading to sub-optimal liquidity. This has also led to a practice of quoting prices for a group of bonds with similar tenors rather than prices for a specific bond. In this instance, buyers are not guaranteed to receive a specific bond they want, only those that fall into a certain group. This practice, common in Viet Nam, is not aligned with the international market and is likely a significant obstacle for inclusion in international bond indices, such as the J.P. Morgan Global Bond Index.\n\n[B__wb_taking_stock_aug2024__p052__c003] (source: wb_taking_stock_aug2024, page 52)\nAddressing these problems in the corporate securities market will imbue more confidence in insurance companies to diversify which, in turn, will help the corporate securities market grow more healthily. Deposits\n\nGovernment bonds\n\nUnsecured corporate bonds, shares, and investment funds\n\nSecured corporate bonds\n\nCapital contributions\n\nReal estate\n\nLoans\n\nOther\n\nTotal investment assets\n\n249,236 243,252 73,226 26,891 12,881 8,382 614,771 40.5 39.6 4.4 11.9 0.1 0.0 2.1 0.0 VND bnAsset classes\n\nLife Insurer Investments\n\n%\n\nTable 2.2. Investment assets of life insurers, Dec 2022\n\nSource: Insurance Supervisory Authority",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p040__c001",
+          "B__wb_taking_stock_aug2024__p045__c002",
+          "B__wb_taking_stock_aug2024__p046__c002",
+          "B__wb_taking_stock_aug2024__p052__c003"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p015__c003"
+        ],
+        "context_chars": 3078
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p040__c001] (source: wb_taking_stock_aug2024, page 40)\nFunding function: Despite the large equity market capitalization, the amount of funds raised through shares over the past five years has been relatively small, averaging VND 37 trillion (US$1.5 billion) per year in the two stock exchanges. Bonds were relatively more significant, with an annual average of VND 271 trillion (US$11 billion) and VND 403 trillion (US$17 billion) issued in government bonds and corporate bonds, respectively between 2019 and 2023 (Figure 2.2). Corporate bonds appeared promising with significant growth in issuances until 2021, when peaking at VND 637 trillion (US$26 billion). Yet, the average maturity for corporate bonds is short at around four years, less than half the regional average, reflecting limited long-term financing.\n\n[B__wb_taking_stock_aug2024__p045__c002] (source: wb_taking_stock_aug2024, page 45)\nParticipation of the Viet Nam Social Security Fund (VSS) in government bonds is significant and has enabled the government to focus on issuing long-term instruments. These longterm instruments dominate the issuance profile of government bonds, helping to lengthen the average maturity and protect the government against short-term shocks, including changes in interest rates and investor sentiment. It has been a strategic goal of the Ministry of Finance (MoF) to gradually increase the average maturity of the government bond portfolio. As such, 95 percent of all issuances in 2021 were 10 years or longer in maturity and this hit 100 percent in 2022.\n\n[B__wb_taking_stock_aug2024__p046__c002] (source: wb_taking_stock_aug2024, page 46)\nThe government bond portfolio is also highly fragmented, as numerous bonds have similar maturity dates. There were 194 government bonds in 2023, reflecting that the average bond size is smaller than potential, leading to sub-optimal liquidity. This has also led to a practice of quoting prices for a group of bonds with similar tenors rather than prices for a specific bond. In this instance, buyers are not guaranteed to receive a specific bond they want, only those that fall into a certain group. This practice, common in Viet Nam, is not aligned with the international market and is likely a significant obstacle for inclusion in international bond indices, such as the J.P. Morgan Global Bond Index.\n\n[B__wb_taking_stock_aug2024__p052__c003] (source: wb_taking_stock_aug2024, page 52)\nAddressing these problems in the corporate securities market will imbue more confidence in insurance companies to diversify which, in turn, will help the corporate securities market grow more healthily. Deposits\n\nGovernment bonds\n\nUnsecured corporate bonds, shares, and investment funds\n\nSecured corporate bonds\n\nCapital contributions\n\nReal estate\n\nLoans\n\nOther\n\nTotal investment assets\n\n249,236 243,252 73,226 26,891 12,881 8,382 614,771 40.5 39.6 4.4 11.9 0.1 0.0 2.1 0.0 VND bnAsset classes\n\nLife Insurer Investments\n\n%\n\nTable 2.2. Investment assets of life insurers, Dec 2022\n\nSource: Insurance Supervisory Authority",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p040__c001",
+      "B__wb_taking_stock_aug2024__p045__c002",
+      "B__wb_taking_stock_aug2024__p046__c002",
+      "B__wb_taking_stock_aug2024__p052__c003"
+    ],
+    "num_searches": 1,
+    "api_calls": 2,
+    "latency_s": 22.5256,
+    "usage": {
+      "prompt_tokens": 3696,
+      "completion_tokens": 230,
+      "total_tokens": 3926
+    },
+    "cost_usd": 0.0,
+    "split": "test",
+    "question": "How does the average maturity of corporate bonds in Viet Nam compare to the regional average, and how much was raised annually via shares versus bonds between 2019 and 2023?",
+    "answerable": true
+  },
+  {
+    "query_id": "q18",
+    "status": "answered",
+    "answer": "The modest contribution of e-mobility to Viet Nam's 2030 NDC emission reduction targets—producing 5.3 MtCO2eq in GHG reductions under the SPS scenario—is primarily because the vast majority of electrified vehicles by 2030 will consist of electric two-wheelers (e-2Ws) [B__wb_taking_stock_mar2025__p053__c000]. \n\nIn contrast, its projected impact scales up significantly by 2050 (reaching around 226 MtCO2eq under SPS or 249 MtCO2eq under ADS) because the e-mobility transition will shift beyond 2Ws after 2030 (particularly from 2035 onwards) to encompass passenger cars, trucks, and intercity buses [B__wb_taking_stock_mar2025__p053__c001].",
+    "citations": [
+      "B__wb_taking_stock_mar2025__p053__c000",
+      "B__wb_taking_stock_mar2025__p053__c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "e-mobility NDC emission reduction targets 2030 2050 modest",
+        "filter": {
+          "section": "special_focus_emobility"
+        },
+        "latency_s": 0.2264,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p053__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 53,
+            "score": 0.032787,
+            "text": "While the e-mobility transition will be critical for achieving the 2050 net-zero target, it will play a limited role in achieving the 2030 NDC goals. 30 The level of GHG reductions from e-mobility until 2030 is modest at 5.3 MtCO2eq under the SPS scenario, contributing around 8 and 15 percent to unconditional NDC emission reduction targets set for the overall energy-related sector under the SPS and ADS scenarios, respectively. This limited impact is due to the majority of electrified vehicles being e-2Ws by 2030 (Figure 2.5)."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p053__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 53,
+            "score": 0.032258,
+            "text": "Beyond 2030 and particularly from 2035, emission reduction impacts will rapidly scale-up as the e-mobility transition shifts from 2Ws to passenger cars, trucks, and intercity buses. Assuming all stated EV uptake targets included in Decision 876 materialize, total GHG emission reductions achieved by the transition would total around 226 MtCO2eq by 2050, representing a 60 percent reduction from the Nationally Determined Contribution (NDC) baseline scenario for transport emissions. Under ADS, total emission reductions could be slightly higher at 249 MtCO2eq, representing a 66 percent reduction from the baseline."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p053__c003",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 53,
+            "score": 0.031746,
+            "text": "30 Viet Nam's 2022 updated NDCs do not set specific emission reduction targets for the transport sector, whose emissions reductions are captured under the energy-related sector. The 2030 GHG emission targets sit at 64.8 MtCO2eq on an unconditional basis and\n\n227.0 MtCO2eq on a conditional basis versus a 2014 baseline (a year in which EV adoption was nil)."
+          },
+          {
+            "rank": 4,
+            "id": "B__wb_taking_stock_mar2025__p043__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 43,
+            "score": 0.03101,
+            "text": "Responding to environmental and economic imperatives, the government has set targets for electric mobility (-mobility) by 2050 related to electrification of vehicle stocks, production, and charging infrastructure. In July 2022, the prime minister approved Decision No.876/QD-TTg setting targets to transition the road transportation sector towards e-mobility through use of EVs, namely 50 percent of urban vehicles and 100 percent of urban buses and taxis to be powered by electricity or green energy by 2030 and subsequently 100 percent of all road vehicles by 2050. The decision also sets targets on charging infrastructure network development and EV production and assembly (Table 2.1).\n\nTable 2.1. Measures and targets for electrifying the road transport sector in\n\nGovernment Decision 876/QD-TTg"
+          },
+          {
+            "rank": 5,
+            "id": "B__wb_taking_stock_mar2025__p053__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 53,
+            "score": 0.029631,
+            "text": "Switching from ICE to electric vehicles could generate significant emissions reductions, even with the current power grid mix, due to the latter's much higher energy efficiency. If the grid mix remained unchanged from 2022's level, the e-mobility transition alone would still generate a net emissions reduction of 2.2 million tons CO2eq by 2050 thanks to EVs' higher energy efficiency. In addition, if\n\n2.5 Impact on GHG emissions\n\nFigure 2.5. Road transport emissions through 2050 under three transition pathways\n\n(Mt CO2eq) No-EV Total Emissions BAU-EV-Uptake Emissions\n\nSPS-EV-Uptake Emissions ADS-EV-Uptake Emissions\n\nSource: World Bank calculations"
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p053__c000] (source: wb_taking_stock_mar2025, page 53)\nWhile the e-mobility transition will be critical for achieving the 2050 net-zero target, it will play a limited role in achieving the 2030 NDC goals. 30 The level of GHG reductions from e-mobility until 2030 is modest at 5.3 MtCO2eq under the SPS scenario, contributing around 8 and 15 percent to unconditional NDC emission reduction targets set for the overall energy-related sector under the SPS and ADS scenarios, respectively. This limited impact is due to the majority of electrified vehicles being e-2Ws by 2030 (Figure 2.5).\n\n[B__wb_taking_stock_mar2025__p053__c001] (source: wb_taking_stock_mar2025, page 53)\nBeyond 2030 and particularly from 2035, emission reduction impacts will rapidly scale-up as the e-mobility transition shifts from 2Ws to passenger cars, trucks, and intercity buses. Assuming all stated EV uptake targets included in Decision 876 materialize, total GHG emission reductions achieved by the transition would total around 226 MtCO2eq by 2050, representing a 60 percent reduction from the Nationally Determined Contribution (NDC) baseline scenario for transport emissions. Under ADS, total emission reductions could be slightly higher at 249 MtCO2eq, representing a 66 percent reduction from the baseline.\n\n[B__wb_taking_stock_mar2025__p053__c003] (source: wb_taking_stock_mar2025, page 53)\n30 Viet Nam's 2022 updated NDCs do not set specific emission reduction targets for the transport sector, whose emissions reductions are captured under the energy-related sector. The 2030 GHG emission targets sit at 64.8 MtCO2eq on an unconditional basis and\n\n227.0 MtCO2eq on a conditional basis versus a 2014 baseline (a year in which EV adoption was nil).\n\n[B__wb_taking_stock_mar2025__p043__c001] (source: wb_taking_stock_mar2025, page 43)\nResponding to environmental and economic imperatives, the government has set targets for electric mobility (-mobility) by 2050 related to electrification of vehicle stocks, production, and charging infrastructure. In July 2022, the prime minister approved Decision No.876/QD-TTg setting targets to transition the road transportation sector towards e-mobility through use of EVs, namely 50 percent of urban vehicles and 100 percent of urban buses and taxis to be powered by electricity or green energy by 2030 and subsequently 100 percent of all road vehicles by 2050. The decision also sets targets on charging infrastructure network development and EV production and assembly (Table 2.1).\n\nTable 2.1. Measures and targets for electrifying the road transport sector in\n\nGovernment Decision 876/QD-TTg",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p053__c000",
+          "B__wb_taking_stock_mar2025__p053__c001",
+          "B__wb_taking_stock_mar2025__p053__c003",
+          "B__wb_taking_stock_mar2025__p043__c001"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p053__c002"
+        ],
+        "context_chars": 2646
+      },
+      {
+        "event": "search",
+        "tool_name": "get_adjacent_chunks",
+        "query": "B__wb_taking_stock_mar2025__p053__c001",
+        "filter": null,
+        "latency_s": 0.0002,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p053__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 53,
+            "score": 0.5,
+            "text": "While the e-mobility transition will be critical for achieving the 2050 net-zero target, it will play a limited role in achieving the 2030 NDC goals. 30 The level of GHG reductions from e-mobility until 2030 is modest at 5.3 MtCO2eq under the SPS scenario, contributing around 8 and 15 percent to unconditional NDC emission reduction targets set for the overall energy-related sector under the SPS and ADS scenarios, respectively. This limited impact is due to the majority of electrified vehicles being e-2Ws by 2030 (Figure 2.5)."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p053__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 53,
+            "score": 0.5,
+            "text": "Switching from ICE to electric vehicles could generate significant emissions reductions, even with the current power grid mix, due to the latter's much higher energy efficiency. If the grid mix remained unchanged from 2022's level, the e-mobility transition alone would still generate a net emissions reduction of 2.2 million tons CO2eq by 2050 thanks to EVs' higher energy efficiency. In addition, if\n\n2.5 Impact on GHG emissions\n\nFigure 2.5. Road transport emissions through 2050 under three transition pathways\n\n(Mt CO2eq) No-EV Total Emissions BAU-EV-Uptake Emissions\n\nSPS-EV-Uptake Emissions ADS-EV-Uptake Emissions\n\nSource: World Bank calculations"
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p053__c000] (source: wb_taking_stock_mar2025, page 53)\nWhile the e-mobility transition will be critical for achieving the 2050 net-zero target, it will play a limited role in achieving the 2030 NDC goals. 30 The level of GHG reductions from e-mobility until 2030 is modest at 5.3 MtCO2eq under the SPS scenario, contributing around 8 and 15 percent to unconditional NDC emission reduction targets set for the overall energy-related sector under the SPS and ADS scenarios, respectively. This limited impact is due to the majority of electrified vehicles being e-2Ws by 2030 (Figure 2.5).\n\n[B__wb_taking_stock_mar2025__p053__c002] (source: wb_taking_stock_mar2025, page 53)\nSwitching from ICE to electric vehicles could generate significant emissions reductions, even with the current power grid mix, due to the latter's much higher energy efficiency. If the grid mix remained unchanged from 2022's level, the e-mobility transition alone would still generate a net emissions reduction of 2.2 million tons CO2eq by 2050 thanks to EVs' higher energy efficiency. In addition, if\n\n2.5 Impact on GHG emissions\n\nFigure 2.5. Road transport emissions through 2050 under three transition pathways\n\n(Mt CO2eq) No-EV Total Emissions BAU-EV-Uptake Emissions\n\nSPS-EV-Uptake Emissions ADS-EV-Uptake Emissions\n\nSource: World Bank calculations\n\n[B__wb_taking_stock_mar2025__p053__c001] (source: wb_taking_stock_mar2025, page 53)\nBeyond 2030 and particularly from 2035, emission reduction impacts will rapidly scale-up as the e-mobility transition shifts from 2Ws to passenger cars, trucks, and intercity buses. Assuming all stated EV uptake targets included in Decision 876 materialize, total GHG emission reductions achieved by the transition would total around 226 MtCO2eq by 2050, representing a 60 percent reduction from the Nationally Determined Contribution (NDC) baseline scenario for transport emissions. Under ADS, total emission reductions could be slightly higher at 249 MtCO2eq, representing a 66 percent reduction from the baseline.\n\n[B__wb_taking_stock_mar2025__p053__c003] (source: wb_taking_stock_mar2025, page 53)\n30 Viet Nam's 2022 updated NDCs do not set specific emission reduction targets for the transport sector, whose emissions reductions are captured under the energy-related sector. The 2030 GHG emission targets sit at 64.8 MtCO2eq on an unconditional basis and\n\n227.0 MtCO2eq on a conditional basis versus a 2014 baseline (a year in which EV adoption was nil).",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p053__c000",
+          "B__wb_taking_stock_mar2025__p053__c002",
+          "B__wb_taking_stock_mar2025__p053__c001",
+          "B__wb_taking_stock_mar2025__p053__c003"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p043__c001"
+        ],
+        "context_chars": 2499
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_mar2025__p053__c000] (source: wb_taking_stock_mar2025, page 53)\nWhile the e-mobility transition will be critical for achieving the 2050 net-zero target, it will play a limited role in achieving the 2030 NDC goals. 30 The level of GHG reductions from e-mobility until 2030 is modest at 5.3 MtCO2eq under the SPS scenario, contributing around 8 and 15 percent to unconditional NDC emission reduction targets set for the overall energy-related sector under the SPS and ADS scenarios, respectively. This limited impact is due to the majority of electrified vehicles being e-2Ws by 2030 (Figure 2.5).\n\n[B__wb_taking_stock_mar2025__p053__c002] (source: wb_taking_stock_mar2025, page 53)\nSwitching from ICE to electric vehicles could generate significant emissions reductions, even with the current power grid mix, due to the latter's much higher energy efficiency. If the grid mix remained unchanged from 2022's level, the e-mobility transition alone would still generate a net emissions reduction of 2.2 million tons CO2eq by 2050 thanks to EVs' higher energy efficiency. In addition, if\n\n2.5 Impact on GHG emissions\n\nFigure 2.5. Road transport emissions through 2050 under three transition pathways\n\n(Mt CO2eq) No-EV Total Emissions BAU-EV-Uptake Emissions\n\nSPS-EV-Uptake Emissions ADS-EV-Uptake Emissions\n\nSource: World Bank calculations\n\n[B__wb_taking_stock_mar2025__p053__c001] (source: wb_taking_stock_mar2025, page 53)\nBeyond 2030 and particularly from 2035, emission reduction impacts will rapidly scale-up as the e-mobility transition shifts from 2Ws to passenger cars, trucks, and intercity buses. Assuming all stated EV uptake targets included in Decision 876 materialize, total GHG emission reductions achieved by the transition would total around 226 MtCO2eq by 2050, representing a 60 percent reduction from the Nationally Determined Contribution (NDC) baseline scenario for transport emissions. Under ADS, total emission reductions could be slightly higher at 249 MtCO2eq, representing a 66 percent reduction from the baseline.\n\n[B__wb_taking_stock_mar2025__p053__c003] (source: wb_taking_stock_mar2025, page 53)\n30 Viet Nam's 2022 updated NDCs do not set specific emission reduction targets for the transport sector, whose emissions reductions are captured under the energy-related sector. The 2030 GHG emission targets sit at 64.8 MtCO2eq on an unconditional basis and\n\n227.0 MtCO2eq on a conditional basis versus a 2014 baseline (a year in which EV adoption was nil).",
+    "final_context_ids": [
+      "B__wb_taking_stock_mar2025__p053__c000",
+      "B__wb_taking_stock_mar2025__p053__c002",
+      "B__wb_taking_stock_mar2025__p053__c001",
+      "B__wb_taking_stock_mar2025__p053__c003"
+    ],
+    "num_searches": 2,
+    "api_calls": 3,
+    "latency_s": 12.6391,
+    "usage": {
+      "prompt_tokens": 6824,
+      "completion_tokens": 357,
+      "total_tokens": 7181
+    },
+    "cost_usd": 0.0,
+    "split": "test",
+    "question": "Why is e-mobility's contribution to Viet Nam's 2030 NDC emission reduction targets modest compared to its projected impact by 2050?",
+    "answerable": true
+  },
+  {
+    "query_id": "q19",
+    "status": "answered",
+    "answer": "According to the 2025 report, Viet Nam's GDP growth is forecast to be **6.8 percent in 2025** and **6.5 percent in 2026** [B__wb_taking_stock_mar2025__p037__c002]. \n\nThe expected easing of exports is driven by:\n1. A **projected economic slowdown in China and the United States** in the near-term (Viet Nam's largest trade partners) [B__wb_taking_stock_mar2025__p037__c002].\n2. **Uncertain global trade prospects** given expected shifts in trade policy [B__wb_taking_stock_mar2025__p037__c002].",
+    "citations": [
+      "B__wb_taking_stock_mar2025__p037__c002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "GDP growth forecast 2025 2026 exports easing external factor",
+        "filter": null,
+        "latency_s": 0.2022,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p037__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 37,
+            "score": 0.031281,
+            "text": "Viet Nam's GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026 (Table 1.1). The rebound in export activities in 2024 is expected to ease in 2025 and further in 2026 due to projected economic slowdown in China and the United States in the near-term - Viet Nam's largest trade partners - and uncertain global trade prospects given expected shifts in trade policy. Domestic activities and services are expected to continue to firm up in 2025 and into 2026 as the real estate market recovery gathers steam."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p019__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 19,
+            "score": 0.030835,
+            "text": "Growth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2)."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p033__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 33,
+            "score": 0.030579,
+            "text": "Viet Nam's economy is forecast to grow by 6.1 percent in 2024 and rising to 6.5 percent in 2025-26 (Table 1.1). This projection assumes an easing of manufacturing exports growth in H2-2024, after a 16.9 percent rebound growth (y/y) in H1-2024 and the expected moderation of global demand in 2024, in particular from the United States, Viet Nam's largest export market. Export growth is expected to firm up moderately over 2025-26 as global trade prospects and external demand from major trade partners such as the United States, Euro zone, and China improves slightly (Figures 1.31 and 1.32, Box 1.1)."
+          },
+          {
+            "rank": 4,
+            "id": "B__wb_taking_stock_aug2024__p034__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 34,
+            "score": 0.030366,
+            "text": "The global outlook remains subdued reflecting the lagged effects of monetary tightening, resumed fiscal consolidation, and moderate consumption growth (World Bank 2024a). Investment growth is also expected to remain subdued in 2024, constrained by elevated real interest rates and policy uncertainty amid elevated geopolitical tensions. Global growth is forecast to edge up slightly in 2025-26 to 2.7 percent, nearly half a percentage point below the 2010-19 average, as inflation gradually subsides, policy interest rates decline, and trade growth firms up. Following weakness in 2023, trade growth is expected to pick up to 2.5 percent in 2024, well below pre-pandemic averages, and then to 3.4 percent in 2025 and 2026. Assuming no escalation of ongoing"
+          },
+          {
+            "rank": 5,
+            "id": "B__wb_taking_stock_mar2025__p011__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 11,
+            "score": 0.029911,
+            "text": "EXECUTIVE SUMMARY\n\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers.\n\nExternal demand strongly rebounded in 2024 after a contraction in 2023. Final consumption and investment growth also accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, supporting the growth momentum. However, private consumption remained a moderate driver of aggregate demand relative to the region (54 percent of GDP compared to a median of 61.7 percent, respectively) as household savings increased amid heightened uncertainty in recent years."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p037__c002] (source: wb_taking_stock_mar2025, page 37)\nViet Nam's GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026 (Table 1.1). The rebound in export activities in 2024 is expected to ease in 2025 and further in 2026 due to projected economic slowdown in China and the United States in the near-term - Viet Nam's largest trade partners - and uncertain global trade prospects given expected shifts in trade policy. Domestic activities and services are expected to continue to firm up in 2025 and into 2026 as the real estate market recovery gathers steam.\n\n[B__wb_taking_stock_mar2025__p019__c000] (source: wb_taking_stock_mar2025, page 19)\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2).\n\n[B__wb_taking_stock_aug2024__p033__c002] (source: wb_taking_stock_aug2024, page 33)\nViet Nam's economy is forecast to grow by 6.1 percent in 2024 and rising to 6.5 percent in 2025-26 (Table 1.1). This projection assumes an easing of manufacturing exports growth in H2-2024, after a 16.9 percent rebound growth (y/y) in H1-2024 and the expected moderation of global demand in 2024, in particular from the United States, Viet Nam's largest export market. Export growth is expected to firm up moderately over 2025-26 as global trade prospects and external demand from major trade partners such as the United States, Euro zone, and China improves slightly (Figures 1.31 and 1.32, Box 1.1).\n\n[B__wb_taking_stock_aug2024__p034__c003] (source: wb_taking_stock_aug2024, page 34)\nThe global outlook remains subdued reflecting the lagged effects of monetary tightening, resumed fiscal consolidation, and moderate consumption growth (World Bank 2024a). Investment growth is also expected to remain subdued in 2024, constrained by elevated real interest rates and policy uncertainty amid elevated geopolitical tensions. Global growth is forecast to edge up slightly in 2025-26 to 2.7 percent, nearly half a percentage point below the 2010-19 average, as inflation gradually subsides, policy interest rates decline, and trade growth firms up. Following weakness in 2023, trade growth is expected to pick up to 2.5 percent in 2024, well below pre-pandemic averages, and then to 3.4 percent in 2025 and 2026. Assuming no escalation of ongoing",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p037__c002",
+          "B__wb_taking_stock_mar2025__p019__c000",
+          "B__wb_taking_stock_aug2024__p033__c002",
+          "B__wb_taking_stock_aug2024__p034__c003"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p011__c000"
+        ],
+        "context_chars": 3013
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_mar2025__p037__c002] (source: wb_taking_stock_mar2025, page 37)\nViet Nam's GDP growth is forecast to moderate to 6.8 percent in 2025 before settling at 6.5 percent in 2026 (Table 1.1). The rebound in export activities in 2024 is expected to ease in 2025 and further in 2026 due to projected economic slowdown in China and the United States in the near-term - Viet Nam's largest trade partners - and uncertain global trade prospects given expected shifts in trade policy. Domestic activities and services are expected to continue to firm up in 2025 and into 2026 as the real estate market recovery gathers steam.\n\n[B__wb_taking_stock_mar2025__p019__c000] (source: wb_taking_stock_mar2025, page 19)\nGrowth accelerated in 2024 driven by a strong rebound in exports Viet Nam's real GDP growth reached 7.1 percent in 2024, driven by a strong rebound in exports, outpacing most regional peers. GDP growth is estimated to be the highest of developing countries in East Asia in 2024, including ASEAN countries, surpassing the government's target of 6-6.5 percent 2 (Figure 1.1). External demand weakened in 2023, leading to a trade contraction and a slowdown in GDP growth to 5 percent real GDP. This was followed by a sharp rebound in 2024 with exports and imports growing by 15.5 and 16.1 percent, respectively. Further, final consumption and investment growth accelerated in 2024 reaching 6.6 and 7.2 percent, respectively, also supporting growth momentum (Figure 1.2).\n\n[B__wb_taking_stock_aug2024__p033__c002] (source: wb_taking_stock_aug2024, page 33)\nViet Nam's economy is forecast to grow by 6.1 percent in 2024 and rising to 6.5 percent in 2025-26 (Table 1.1). This projection assumes an easing of manufacturing exports growth in H2-2024, after a 16.9 percent rebound growth (y/y) in H1-2024 and the expected moderation of global demand in 2024, in particular from the United States, Viet Nam's largest export market. Export growth is expected to firm up moderately over 2025-26 as global trade prospects and external demand from major trade partners such as the United States, Euro zone, and China improves slightly (Figures 1.31 and 1.32, Box 1.1).\n\n[B__wb_taking_stock_aug2024__p034__c003] (source: wb_taking_stock_aug2024, page 34)\nThe global outlook remains subdued reflecting the lagged effects of monetary tightening, resumed fiscal consolidation, and moderate consumption growth (World Bank 2024a). Investment growth is also expected to remain subdued in 2024, constrained by elevated real interest rates and policy uncertainty amid elevated geopolitical tensions. Global growth is forecast to edge up slightly in 2025-26 to 2.7 percent, nearly half a percentage point below the 2010-19 average, as inflation gradually subsides, policy interest rates decline, and trade growth firms up. Following weakness in 2023, trade growth is expected to pick up to 2.5 percent in 2024, well below pre-pandemic averages, and then to 3.4 percent in 2025 and 2026. Assuming no escalation of ongoing",
+    "final_context_ids": [
+      "B__wb_taking_stock_mar2025__p037__c002",
+      "B__wb_taking_stock_mar2025__p019__c000",
+      "B__wb_taking_stock_aug2024__p033__c002",
+      "B__wb_taking_stock_aug2024__p034__c003"
+    ],
+    "num_searches": 1,
+    "api_calls": 2,
+    "latency_s": 7.135,
+    "usage": {
+      "prompt_tokens": 3715,
+      "completion_tokens": 252,
+      "total_tokens": 3967
+    },
+    "cost_usd": 0.0,
+    "split": "test",
+    "question": "According to the 2025 report, what is Viet Nam's GDP growth forecast for 2025 and 2026, and what external factor drives the expected easing of exports?",
+    "answerable": true
+  },
+  {
+    "query_id": "q20",
+    "status": "answered",
+    "answer": "According to the August 2024 report, Viet Nam recorded a large fiscal surplus of 4.2 percent of GDP in the first half of 2024 (H1-2024), compared to 1.5 percent in H1-2023 [B__wb_taking_stock_aug2024__p015__c004].",
+    "citations": [
+      "B__wb_taking_stock_aug2024__p015__c004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "fiscal balance surplus first half 2024 H1 2023",
+        "filter": {
+          "year": 2024
+        },
+        "latency_s": 0.2132,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p032__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 32,
+            "score": 0.032522,
+            "text": "Figure 1.28. Bond issuance sharply increased driven by banking sector Trillions VND\n\n2019 2020 2021 2022 2023 6M-2024\n\nTrillion VND\n\nCredit institutions\n\nCommerce\n\nSecurities\n\nConstruction Production Energy\n\nOthers\n\nReal estate\n\nAmid the economic recovery, the fiscal balance registered a large surplus in the first half of 2024 The large fiscal surplus of 4.2 percent of GDP in H1-2024, compared to 1.5 percent in H1-2023, was due to higher total revenues and reduced public spending (Figure 1.29). Revenues climbed to 19.5 percent of GDP in H1-2024 (+1pp compared to H1-2023), driven by higher capital revenues (from land sales) and larger tax revenues (from CIT and VAT) (Figure 1.30)."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_aug2024__p032__c004",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 32,
+            "score": 0.031746,
+            "text": "The large fiscal surplus in H1-24 led to less financing needs. Over the first six months of 2024, total bond issuances reached VND 156.5 trillion (US$6.4 billion), equivalent to 39.1 percent of the annual plan, a significant slowdown compared to VND 179.9 trillion or 45 percent of that planned in H1-2023.\n\n13 Decree No. 73/2024/ND-CP (June 30, 2024) on prescribing statutory pay rate and bonus policies for officials, public employees, and armed forces.\n\n4.93%"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_aug2024__p033__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 33,
+            "score": 0.030777,
+            "text": "Fiscal balanceRecurrent expenditures\n\nPublic investment\n\n-30 -20 -10\n\n2019 2020 2021 2022 2023 6M-23 6M-24\n\nTaxes revenues Non-taxes revenues Public investment Recurrent expenditures Fiscal balance\n\n2019 2020 2021 2022 2023 H1-23 H1-24\n\n-10 -20 -30 Viet Nam's economic growth prospects are positive"
+          },
+          {
+            "rank": 4,
+            "id": "B__wb_taking_stock_aug2024__p015__c004",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 15,
+            "score": 0.030282,
+            "text": "The fiscal balance registered a surplus of 4.2 percent of GDP in H1-2024, compared to 1.5 percent in H1-2023, due to higher public revenues and reduced public spending. Public revenues climbed to 19.5 percent of GDP in H1-2024 (+1 pp compared to H1-2023), driven by higher capital revenues from land sales (+0.7 pp) and larger tax revenues from Corporate Income Tax (CIT) and Value Added Tax (VAT) collections (+0.5 pp). At the same time, public spending slowed by 1.6 percentage points of GDP from 17 percent in H1-2023 to 15.4 percent in H1-2024, due to cost-cutting in recurrent expenditures and lower public investment disbursement (4.5 percent of GDP in H1-2023 to 3.7 percent in H1-2024)."
+          },
+          {
+            "rank": 5,
+            "id": "B__wb_taking_stock_aug2024__p027__c001",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 27,
+            "score": 0.029211,
+            "text": "Despite positive current account and financial account balances, Viet Nam's external position deteriorated due to increased informal capital outflows The current account remained in surplus during Q1-2024 compared to Q1-2023 with a larger trade surplus balancing a high primary income deficit (Figure 1.18). The current account registered a surplus of 5.1 percent of GDP in Q1-2024 compared to 2.1 percent in Q1-2023. The merchandise trade surplus increased from 8.7 percent of GDP in Q1-2023 to 11.7 percent in Q1-2024 due the strong 17.1 percent (y/y) rebound of exports in the first three months of 2024, while imports grew by 12.9 percent (y/y). The net primary income deficit was 7.5 percent of GDP in Q1-2024 comparable to 7.7 percent in Q1-2023."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p032__c001] (source: wb_taking_stock_aug2024, page 32)\nFigure 1.28. Bond issuance sharply increased driven by banking sector Trillions VND\n\n2019 2020 2021 2022 2023 6M-2024\n\nTrillion VND\n\nCredit institutions\n\nCommerce\n\nSecurities\n\nConstruction Production Energy\n\nOthers\n\nReal estate\n\nAmid the economic recovery, the fiscal balance registered a large surplus in the first half of 2024 The large fiscal surplus of 4.2 percent of GDP in H1-2024, compared to 1.5 percent in H1-2023, was due to higher total revenues and reduced public spending (Figure 1.29). Revenues climbed to 19.5 percent of GDP in H1-2024 (+1pp compared to H1-2023), driven by higher capital revenues (from land sales) and larger tax revenues (from CIT and VAT) (Figure 1.30).\n\n[B__wb_taking_stock_aug2024__p032__c004] (source: wb_taking_stock_aug2024, page 32)\nThe large fiscal surplus in H1-24 led to less financing needs. Over the first six months of 2024, total bond issuances reached VND 156.5 trillion (US$6.4 billion), equivalent to 39.1 percent of the annual plan, a significant slowdown compared to VND 179.9 trillion or 45 percent of that planned in H1-2023.\n\n13 Decree No. 73/2024/ND-CP (June 30, 2024) on prescribing statutory pay rate and bonus policies for officials, public employees, and armed forces.\n\n4.93%\n\n[B__wb_taking_stock_aug2024__p033__c001] (source: wb_taking_stock_aug2024, page 33)\nFiscal balanceRecurrent expenditures\n\nPublic investment\n\n-30 -20 -10\n\n2019 2020 2021 2022 2023 6M-23 6M-24\n\nTaxes revenues Non-taxes revenues Public investment Recurrent expenditures Fiscal balance\n\n2019 2020 2021 2022 2023 H1-23 H1-24\n\n-10 -20 -30 Viet Nam's economic growth prospects are positive\n\n[B__wb_taking_stock_aug2024__p015__c004] (source: wb_taking_stock_aug2024, page 15)\nThe fiscal balance registered a surplus of 4.2 percent of GDP in H1-2024, compared to 1.5 percent in H1-2023, due to higher public revenues and reduced public spending. Public revenues climbed to 19.5 percent of GDP in H1-2024 (+1 pp compared to H1-2023), driven by higher capital revenues from land sales (+0.7 pp) and larger tax revenues from Corporate Income Tax (CIT) and Value Added Tax (VAT) collections (+0.5 pp). At the same time, public spending slowed by 1.6 percentage points of GDP from 17 percent in H1-2023 to 15.4 percent in H1-2024, due to cost-cutting in recurrent expenditures and lower public investment disbursement (4.5 percent of GDP in H1-2023 to 3.7 percent in H1-2024).",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p032__c001",
+          "B__wb_taking_stock_aug2024__p032__c004",
+          "B__wb_taking_stock_aug2024__p033__c001",
+          "B__wb_taking_stock_aug2024__p015__c004"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p027__c001"
+        ],
+        "context_chars": 2484
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p032__c001] (source: wb_taking_stock_aug2024, page 32)\nFigure 1.28. Bond issuance sharply increased driven by banking sector Trillions VND\n\n2019 2020 2021 2022 2023 6M-2024\n\nTrillion VND\n\nCredit institutions\n\nCommerce\n\nSecurities\n\nConstruction Production Energy\n\nOthers\n\nReal estate\n\nAmid the economic recovery, the fiscal balance registered a large surplus in the first half of 2024 The large fiscal surplus of 4.2 percent of GDP in H1-2024, compared to 1.5 percent in H1-2023, was due to higher total revenues and reduced public spending (Figure 1.29). Revenues climbed to 19.5 percent of GDP in H1-2024 (+1pp compared to H1-2023), driven by higher capital revenues (from land sales) and larger tax revenues (from CIT and VAT) (Figure 1.30).\n\n[B__wb_taking_stock_aug2024__p032__c004] (source: wb_taking_stock_aug2024, page 32)\nThe large fiscal surplus in H1-24 led to less financing needs. Over the first six months of 2024, total bond issuances reached VND 156.5 trillion (US$6.4 billion), equivalent to 39.1 percent of the annual plan, a significant slowdown compared to VND 179.9 trillion or 45 percent of that planned in H1-2023.\n\n13 Decree No. 73/2024/ND-CP (June 30, 2024) on prescribing statutory pay rate and bonus policies for officials, public employees, and armed forces.\n\n4.93%\n\n[B__wb_taking_stock_aug2024__p033__c001] (source: wb_taking_stock_aug2024, page 33)\nFiscal balanceRecurrent expenditures\n\nPublic investment\n\n-30 -20 -10\n\n2019 2020 2021 2022 2023 6M-23 6M-24\n\nTaxes revenues Non-taxes revenues Public investment Recurrent expenditures Fiscal balance\n\n2019 2020 2021 2022 2023 H1-23 H1-24\n\n-10 -20 -30 Viet Nam's economic growth prospects are positive\n\n[B__wb_taking_stock_aug2024__p015__c004] (source: wb_taking_stock_aug2024, page 15)\nThe fiscal balance registered a surplus of 4.2 percent of GDP in H1-2024, compared to 1.5 percent in H1-2023, due to higher public revenues and reduced public spending. Public revenues climbed to 19.5 percent of GDP in H1-2024 (+1 pp compared to H1-2023), driven by higher capital revenues from land sales (+0.7 pp) and larger tax revenues from Corporate Income Tax (CIT) and Value Added Tax (VAT) collections (+0.5 pp). At the same time, public spending slowed by 1.6 percentage points of GDP from 17 percent in H1-2023 to 15.4 percent in H1-2024, due to cost-cutting in recurrent expenditures and lower public investment disbursement (4.5 percent of GDP in H1-2023 to 3.7 percent in H1-2024).",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p032__c001",
+      "B__wb_taking_stock_aug2024__p032__c004",
+      "B__wb_taking_stock_aug2024__p033__c001",
+      "B__wb_taking_stock_aug2024__p015__c004"
+    ],
+    "num_searches": 1,
+    "api_calls": 3,
+    "latency_s": 27.928,
+    "usage": {
+      "prompt_tokens": 6634,
+      "completion_tokens": 362,
+      "total_tokens": 6996
+    },
+    "cost_usd": 0.0,
+    "split": "test",
+    "question": "In the 2024 report, what fiscal balance surplus was recorded in the first half of 2024 compared to H1-2023?",
+    "answerable": true
+  },
+  {
+    "query_id": "u03",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (The World Bank Viet Nam Taking Stock reports (August 2024 and March 2025) do not contain data or mentions regarding the number of electric two-wheelers sold by VinFast in Viet Nam in 2024.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "VinFast electric two-wheelers sold in Viet Nam 2024",
+        "filter": null,
+        "latency_s": 0.2708,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_mar2025__p042__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 42,
+            "score": 0.031281,
+            "text": "Figure 2.1. Share of GHG emissions by vehicle segments in Viet Nam, 2020\n\n28% 6% 1% 11% 54% Two-wheelers\n\nPassenger cars\n\nCity Buses\n\nIntercity Bus/Coach\n\nTrucks\n\nSource: Ministry of Transport, Viet Nam, and World Bank calculations\n\nViet Nam has set ambitious goals to decarbonize its economy by 2050. The prime minister of Viet Nam's pledge at COP2623 in 2021 to achieve economy-wide net-zero emissions by 2050 has set into motion plans to decarbonize the transport sector."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p044__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 44,
+            "score": 0.030679,
+            "text": "Between 2024 and 2035, Viet Nam's e-mobility transition will primarily be driven by the transition of the two-wheeler (2W) segment to electric 2Ws (e-2Ws) given they will remain the dominant vehicle choice until 2035. In 2022, registered 2Ws in Viet Nam totaled 72.16 million (94 percent of total registered vehicles stock). This represents a motorization rate of close to 518 units of 2Ws per 1,000 population - in sharp contrast to the rate for passenger cars (PCs) at 22 units per 1,000 population (Figure 2.2). As such, the e-mobility transition will be driven by the uptake of e-2Ws, as it has been historically since 2014.\n\nThe market for electric 2Ws could account for more than half (56 percent) of total 2W sales by"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p042__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 42,
+            "score": 0.03055,
+            "text": "Without decarbonization of the sector, transport-related emissions are set to rise significantly, reaching about 334 MtCO2eq by 2050 under the business-as-usual (BAU) scenario.\n\n2.1 Context22\n\n22 This section is based on findings from the World Bank report \"Viet Nam: Recommendations to the National Roadmap and Action Plan for the Electric Mobility Transition.\"\n\n23 United Nation's Climate Change Conference held in Glasgow, Scotland in 2021.\n\nMoving towards electric mobility also represents significant economic opportunities across the value chain. To achieve electric vehicle (EV) uptake targets set by the government, sales in Viet Nam will need to increase from 500,000 units in 2022 to about 1.5 million units by 2030, and 7.3 million by"
+          },
+          {
+            "rank": 4,
+            "id": "B__wb_taking_stock_mar2025__p016__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 16,
+            "score": 0.030331,
+            "text": "E-mobility transition in Viet Nam would also require the transition of the two-wheeler\n\n(2W) segment to electric 2Ws (E-2Ws) given Special Focus: E-mobility transition"
+          },
+          {
+            "rank": 5,
+            "id": "B__wb_taking_stock_mar2025__p044__c000",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 44,
+            "score": 0.029907,
+            "text": "Figure 2.2. Motorization rate for two-wheelers and passenger cars 2010-2022\n\n4 10 22\n\n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022\n\nActive Two-wheelers Active Passenger cars\n\nSource: World Bank calculations\n\nTransitioning into electric motorbikes and leapfrogging into EV cars"
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p042__c000] (source: wb_taking_stock_mar2025, page 42)\nFigure 2.1. Share of GHG emissions by vehicle segments in Viet Nam, 2020\n\n28% 6% 1% 11% 54% Two-wheelers\n\nPassenger cars\n\nCity Buses\n\nIntercity Bus/Coach\n\nTrucks\n\nSource: Ministry of Transport, Viet Nam, and World Bank calculations\n\nViet Nam has set ambitious goals to decarbonize its economy by 2050. The prime minister of Viet Nam's pledge at COP2623 in 2021 to achieve economy-wide net-zero emissions by 2050 has set into motion plans to decarbonize the transport sector.\n\n[B__wb_taking_stock_mar2025__p044__c001] (source: wb_taking_stock_mar2025, page 44)\nBetween 2024 and 2035, Viet Nam's e-mobility transition will primarily be driven by the transition of the two-wheeler (2W) segment to electric 2Ws (e-2Ws) given they will remain the dominant vehicle choice until 2035. In 2022, registered 2Ws in Viet Nam totaled 72.16 million (94 percent of total registered vehicles stock). This represents a motorization rate of close to 518 units of 2Ws per 1,000 population - in sharp contrast to the rate for passenger cars (PCs) at 22 units per 1,000 population (Figure 2.2). As such, the e-mobility transition will be driven by the uptake of e-2Ws, as it has been historically since 2014.\n\nThe market for electric 2Ws could account for more than half (56 percent) of total 2W sales by\n\n[B__wb_taking_stock_mar2025__p042__c002] (source: wb_taking_stock_mar2025, page 42)\nWithout decarbonization of the sector, transport-related emissions are set to rise significantly, reaching about 334 MtCO2eq by 2050 under the business-as-usual (BAU) scenario.\n\n2.1 Context22\n\n22 This section is based on findings from the World Bank report \"Viet Nam: Recommendations to the National Roadmap and Action Plan for the Electric Mobility Transition.\"\n\n23 United Nation's Climate Change Conference held in Glasgow, Scotland in 2021.\n\nMoving towards electric mobility also represents significant economic opportunities across the value chain. To achieve electric vehicle (EV) uptake targets set by the government, sales in Viet Nam will need to increase from 500,000 units in 2022 to about 1.5 million units by 2030, and 7.3 million by\n\n[B__wb_taking_stock_mar2025__p016__c002] (source: wb_taking_stock_mar2025, page 16)\nE-mobility transition in Viet Nam would also require the transition of the two-wheeler\n\n(2W) segment to electric 2Ws (E-2Ws) given Special Focus: E-mobility transition\n\n[B__wb_taking_stock_mar2025__p044__c000] (source: wb_taking_stock_mar2025, page 44)\nFigure 2.2. Motorization rate for two-wheelers and passenger cars 2010-2022\n\n4 10 22\n\n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022\n\nActive Two-wheelers Active Passenger cars\n\nSource: World Bank calculations\n\nTransitioning into electric motorbikes and leapfrogging into EV cars",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p042__c000",
+          "B__wb_taking_stock_mar2025__p044__c001",
+          "B__wb_taking_stock_mar2025__p042__c002",
+          "B__wb_taking_stock_mar2025__p016__c002",
+          "B__wb_taking_stock_mar2025__p044__c000"
+        ],
+        "dropped_ids": [],
+        "context_chars": 2834
+      },
+      {
+        "event": "search",
+        "tool_name": "keyword_search",
+        "query": "VinFast",
+        "filter": null,
+        "latency_s": 0.0004,
+        "results": [],
+        "context": "[B__wb_taking_stock_mar2025__p042__c000] (source: wb_taking_stock_mar2025, page 42)\nFigure 2.1. Share of GHG emissions by vehicle segments in Viet Nam, 2020\n\n28% 6% 1% 11% 54% Two-wheelers\n\nPassenger cars\n\nCity Buses\n\nIntercity Bus/Coach\n\nTrucks\n\nSource: Ministry of Transport, Viet Nam, and World Bank calculations\n\nViet Nam has set ambitious goals to decarbonize its economy by 2050. The prime minister of Viet Nam's pledge at COP2623 in 2021 to achieve economy-wide net-zero emissions by 2050 has set into motion plans to decarbonize the transport sector.\n\n[B__wb_taking_stock_mar2025__p044__c001] (source: wb_taking_stock_mar2025, page 44)\nBetween 2024 and 2035, Viet Nam's e-mobility transition will primarily be driven by the transition of the two-wheeler (2W) segment to electric 2Ws (e-2Ws) given they will remain the dominant vehicle choice until 2035. In 2022, registered 2Ws in Viet Nam totaled 72.16 million (94 percent of total registered vehicles stock). This represents a motorization rate of close to 518 units of 2Ws per 1,000 population - in sharp contrast to the rate for passenger cars (PCs) at 22 units per 1,000 population (Figure 2.2). As such, the e-mobility transition will be driven by the uptake of e-2Ws, as it has been historically since 2014.\n\nThe market for electric 2Ws could account for more than half (56 percent) of total 2W sales by\n\n[B__wb_taking_stock_mar2025__p042__c002] (source: wb_taking_stock_mar2025, page 42)\nWithout decarbonization of the sector, transport-related emissions are set to rise significantly, reaching about 334 MtCO2eq by 2050 under the business-as-usual (BAU) scenario.\n\n2.1 Context22\n\n22 This section is based on findings from the World Bank report \"Viet Nam: Recommendations to the National Roadmap and Action Plan for the Electric Mobility Transition.\"\n\n23 United Nation's Climate Change Conference held in Glasgow, Scotland in 2021.\n\nMoving towards electric mobility also represents significant economic opportunities across the value chain. To achieve electric vehicle (EV) uptake targets set by the government, sales in Viet Nam will need to increase from 500,000 units in 2022 to about 1.5 million units by 2030, and 7.3 million by\n\n[B__wb_taking_stock_mar2025__p016__c002] (source: wb_taking_stock_mar2025, page 16)\nE-mobility transition in Viet Nam would also require the transition of the two-wheeler\n\n(2W) segment to electric 2Ws (E-2Ws) given Special Focus: E-mobility transition\n\n[B__wb_taking_stock_mar2025__p044__c000] (source: wb_taking_stock_mar2025, page 44)\nFigure 2.2. Motorization rate for two-wheelers and passenger cars 2010-2022\n\n4 10 22\n\n2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022\n\nActive Two-wheelers Active Passenger cars\n\nSource: World Bank calculations\n\nTransitioning into electric motorbikes and leapfrogging into EV cars",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p042__c000",
+          "B__wb_taking_stock_mar2025__p044__c001",
+          "B__wb_taking_stock_mar2025__p042__c002",
+          "B__wb_taking_stock_mar2025__p016__c002",
+          "B__wb_taking_stock_mar2025__p044__c000"
+        ],
+        "dropped_ids": [],
+        "context_chars": 2834
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "VinFast",
+        "filter": null,
+        "latency_s": 0.1994,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p044__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 44,
+            "score": 0.016393,
+            "text": "As refinancing and discount rates published by the State Bank of Viet Nam (SBV) are not sufficiently linked to the market (Figure 2.7), they cannot be used as a pricing anchor for longer-term instruments. The overnight interbank interest rate, compiled and published by the SBV, is a candidate to become a widely used transaction-based benchmark rate if strengthened in line with the Principles for Financial Benchmarks of the International Organization of Securities Commissions (IOSCO). Meanwhile, daily short-term rates published by the Viet Nam Bond Market Association (VBMA) are based on quotes in the less liquid repo market, rather than in actual transactions. The Viet Nam Interbank Offered Rate (VNIBOR) is also based on indicative quotes."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p013__c004",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 13,
+            "score": 0.016129,
+            "text": "VND and 60.8 trillion VND, respectively). As a result, the overnight interbank rate rose to 4.04 percent (y/y) by December 2024, easing pressure on the local currency.\n\nCredit growth picked up during 2024, reaching the government's target of 15 percent by the end of the year. Credit growth increased in the second half of the year, driven by wholesale and retail trade, manufacturing, and real estate."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p060__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 60,
+            "score": 0.015873,
+            "text": "Surge after 2035\n\nPromoting transport demand modal shift (i) from PCs to public mass transit in cities and from intercity commercial buses to railways; and (ii) from trucks to railways and waterway transport to intercity freight transport.\n\nLead: MoIT | Support: MoPI, MoF"
+          },
+          {
+            "rank": 4,
+            "id": "B__wb_taking_stock_mar2025__p047__c004",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 47,
+            "score": 0.015625,
+            "text": "Scenario"
+          },
+          {
+            "rank": 5,
+            "id": "B__wb_taking_stock_aug2024__p035__c002",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 35,
+            "score": 0.015385,
+            "text": "In contrast, faster-than-expected growth in the United States, supported for example by higher labor force participation or immigration, poses an upside risk to the outlook).\n\n15 African swine fever is a highly contagious viral disease affecting pigs and wild boar, with up to a 100 percent case fatality rate. By July 14, 2024, some 660 outbreaks had been detected compared to 208 in the same period in 2023, with 42,400 infected pigs culled in 2024, five-fold higher than the same period in 2023. The Vietnamese authorities announced an increase in priority funds to reduce the spread of the disease, including for the vaccination of pigs.\n\n16 Viet Nam, MOLISA, 2023 labor data."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p044__c003] (source: wb_taking_stock_aug2024, page 44)\nAs refinancing and discount rates published by the State Bank of Viet Nam (SBV) are not sufficiently linked to the market (Figure 2.7), they cannot be used as a pricing anchor for longer-term instruments. The overnight interbank interest rate, compiled and published by the SBV, is a candidate to become a widely used transaction-based benchmark rate if strengthened in line with the Principles for Financial Benchmarks of the International Organization of Securities Commissions (IOSCO). Meanwhile, daily short-term rates published by the Viet Nam Bond Market Association (VBMA) are based on quotes in the less liquid repo market, rather than in actual transactions. The Viet Nam Interbank Offered Rate (VNIBOR) is also based on indicative quotes.\n\n[B__wb_taking_stock_mar2025__p042__c000] (source: wb_taking_stock_mar2025, page 42)\nFigure 2.1. Share of GHG emissions by vehicle segments in Viet Nam, 2020\n\n28% 6% 1% 11% 54% Two-wheelers\n\nPassenger cars\n\nCity Buses\n\nIntercity Bus/Coach\n\nTrucks\n\nSource: Ministry of Transport, Viet Nam, and World Bank calculations\n\nViet Nam has set ambitious goals to decarbonize its economy by 2050. The prime minister of Viet Nam's pledge at COP2623 in 2021 to achieve economy-wide net-zero emissions by 2050 has set into motion plans to decarbonize the transport sector.\n\n[B__wb_taking_stock_mar2025__p013__c004] (source: wb_taking_stock_mar2025, page 13)\nVND and 60.8 trillion VND, respectively). As a result, the overnight interbank rate rose to 4.04 percent (y/y) by December 2024, easing pressure on the local currency.\n\nCredit growth picked up during 2024, reaching the government's target of 15 percent by the end of the year. Credit growth increased in the second half of the year, driven by wholesale and retail trade, manufacturing, and real estate.\n\n[B__wb_taking_stock_mar2025__p044__c001] (source: wb_taking_stock_mar2025, page 44)\nBetween 2024 and 2035, Viet Nam's e-mobility transition will primarily be driven by the transition of the two-wheeler (2W) segment to electric 2Ws (e-2Ws) given they will remain the dominant vehicle choice until 2035. In 2022, registered 2Ws in Viet Nam totaled 72.16 million (94 percent of total registered vehicles stock). This represents a motorization rate of close to 518 units of 2Ws per 1,000 population - in sharp contrast to the rate for passenger cars (PCs) at 22 units per 1,000 population (Figure 2.2). As such, the e-mobility transition will be driven by the uptake of e-2Ws, as it has been historically since 2014.\n\nThe market for electric 2Ws could account for more than half (56 percent) of total 2W sales by\n\n[B__wb_taking_stock_mar2025__p060__c002] (source: wb_taking_stock_mar2025, page 60)\nSurge after 2035\n\nPromoting transport demand modal shift (i) from PCs to public mass transit in cities and from intercity commercial buses to railways; and (ii) from trucks to railways and waterway transport to intercity freight transport.\n\nLead: MoIT | Support: MoPI, MoF\n\n[B__wb_taking_stock_mar2025__p047__c004] (source: wb_taking_stock_mar2025, page 47)\nScenario",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p044__c003",
+          "B__wb_taking_stock_mar2025__p042__c000",
+          "B__wb_taking_stock_mar2025__p013__c004",
+          "B__wb_taking_stock_mar2025__p044__c001",
+          "B__wb_taking_stock_mar2025__p060__c002",
+          "B__wb_taking_stock_mar2025__p047__c004"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_mar2025__p042__c002",
+          "B__wb_taking_stock_mar2025__p016__c002",
+          "B__wb_taking_stock_aug2024__p035__c002",
+          "B__wb_taking_stock_mar2025__p044__c000"
+        ],
+        "context_chars": 3142
+      },
+      {
+        "event": "abstain",
+        "reason": "The World Bank Viet Nam Taking Stock reports (August 2024 and March 2025) do not contain data or mentions regarding the number of electric two-wheelers sold by VinFast in Viet Nam in 2024."
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_aug2024__p044__c003] (source: wb_taking_stock_aug2024, page 44)\nAs refinancing and discount rates published by the State Bank of Viet Nam (SBV) are not sufficiently linked to the market (Figure 2.7), they cannot be used as a pricing anchor for longer-term instruments. The overnight interbank interest rate, compiled and published by the SBV, is a candidate to become a widely used transaction-based benchmark rate if strengthened in line with the Principles for Financial Benchmarks of the International Organization of Securities Commissions (IOSCO). Meanwhile, daily short-term rates published by the Viet Nam Bond Market Association (VBMA) are based on quotes in the less liquid repo market, rather than in actual transactions. The Viet Nam Interbank Offered Rate (VNIBOR) is also based on indicative quotes.\n\n[B__wb_taking_stock_mar2025__p042__c000] (source: wb_taking_stock_mar2025, page 42)\nFigure 2.1. Share of GHG emissions by vehicle segments in Viet Nam, 2020\n\n28% 6% 1% 11% 54% Two-wheelers\n\nPassenger cars\n\nCity Buses\n\nIntercity Bus/Coach\n\nTrucks\n\nSource: Ministry of Transport, Viet Nam, and World Bank calculations\n\nViet Nam has set ambitious goals to decarbonize its economy by 2050. The prime minister of Viet Nam's pledge at COP2623 in 2021 to achieve economy-wide net-zero emissions by 2050 has set into motion plans to decarbonize the transport sector.\n\n[B__wb_taking_stock_mar2025__p013__c004] (source: wb_taking_stock_mar2025, page 13)\nVND and 60.8 trillion VND, respectively). As a result, the overnight interbank rate rose to 4.04 percent (y/y) by December 2024, easing pressure on the local currency.\n\nCredit growth picked up during 2024, reaching the government's target of 15 percent by the end of the year. Credit growth increased in the second half of the year, driven by wholesale and retail trade, manufacturing, and real estate.\n\n[B__wb_taking_stock_mar2025__p044__c001] (source: wb_taking_stock_mar2025, page 44)\nBetween 2024 and 2035, Viet Nam's e-mobility transition will primarily be driven by the transition of the two-wheeler (2W) segment to electric 2Ws (e-2Ws) given they will remain the dominant vehicle choice until 2035. In 2022, registered 2Ws in Viet Nam totaled 72.16 million (94 percent of total registered vehicles stock). This represents a motorization rate of close to 518 units of 2Ws per 1,000 population - in sharp contrast to the rate for passenger cars (PCs) at 22 units per 1,000 population (Figure 2.2). As such, the e-mobility transition will be driven by the uptake of e-2Ws, as it has been historically since 2014.\n\nThe market for electric 2Ws could account for more than half (56 percent) of total 2W sales by\n\n[B__wb_taking_stock_mar2025__p060__c002] (source: wb_taking_stock_mar2025, page 60)\nSurge after 2035\n\nPromoting transport demand modal shift (i) from PCs to public mass transit in cities and from intercity commercial buses to railways; and (ii) from trucks to railways and waterway transport to intercity freight transport.\n\nLead: MoIT | Support: MoPI, MoF\n\n[B__wb_taking_stock_mar2025__p047__c004] (source: wb_taking_stock_mar2025, page 47)\nScenario",
+    "final_context_ids": [
+      "B__wb_taking_stock_aug2024__p044__c003",
+      "B__wb_taking_stock_mar2025__p042__c000",
+      "B__wb_taking_stock_mar2025__p013__c004",
+      "B__wb_taking_stock_mar2025__p044__c001",
+      "B__wb_taking_stock_mar2025__p060__c002",
+      "B__wb_taking_stock_mar2025__p047__c004"
+    ],
+    "num_searches": 3,
+    "api_calls": 4,
+    "latency_s": 6.9873,
+    "usage": {
+      "prompt_tokens": 12566,
+      "completion_tokens": 131,
+      "total_tokens": 12697
+    },
+    "cost_usd": 0.0,
+    "split": "test",
+    "question": "How many electric two-wheelers did VinFast sell in Viet Nam in 2024?",
+    "answerable": false
+  },
+  {
+    "query_id": "u04",
+    "status": "abstain",
+    "answer": "Insufficient evidence in the provided documents to answer reliably. (The World Bank Taking Stock reports for August 2024 and March 2025 discuss the civil service salary base increase (30 percent) and pension increase (15 percent) from July 1, 2024, but do not contain information or data on the percentage increase in the regional minimum wage for private-sector workers.)",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "regional minimum wage private sector July 2024 percentage",
+        "filter": null,
+        "latency_s": 0.223,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p032__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 32,
+            "score": 0.031778,
+            "text": "Planned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).13 By the end of June 2024, only 29 percent of the National Assembly's approved budget for 2024 was implemented, with public investment disbursement 6 percent lower than the same period in 2023. Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continue to slow implementation of public investment projects."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p033__c003",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 33,
+            "score": 0.030077,
+            "text": "Planned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).15 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects. Total bond issuances reached VND330.4 trillion (US$13.2 billion), equivalent to 82.6 percent of the annual plan, exceeding VND298.5 trillion planned in 2023.16"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p014__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 14,
+            "score": 0.028787,
+            "text": "Planned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively). 1 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects."
+          },
+          {
+            "rank": 4,
+            "id": "B__wb_taking_stock_aug2024__p035__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 35,
+            "score": 0.028783,
+            "text": "In Viet Nam, headline inflation is forecast to continue rising in 2024 to 4.5 percent, up from 3.2 percent a year earlier, as higher food prices are expected to persist. This forecast reflects the recent surge in food prices, contributing most to recent inflation in H1-2024, and expected to continue to rise as African swine fever outbreaks spread nationwide despite measures to strengthen control and prevention.15 Despite continued conflicts in Ukraine and the Middle East, oil and commodity price inflation is projected to continue easing over 2024. The increase in public wages and pensions in July 2024 is expected to have a marginal impact on headline inflation given the limited size of the public sector in overall employment (two million, 3.8 percent of total employment16)."
+          },
+          {
+            "rank": 5,
+            "id": "B__wb_taking_stock_aug2024__p013__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 13,
+            "score": 0.028595,
+            "text": "Private investment growth accelerated in H1-2024 but remained below pre-COVID levels.\n\nRecovering manufacturing exports contributed to a pick-up in investments. Total investment registered 6.8 percent growth (y/y) in H1-2024, up from 4.8 percent (y/y) in H1-2023, but below a pre-COVID average of 7.1 percent (y/y). Similar to total investment, domestic private investment - close to 60 percent of total investment - contributed 3.9 percentage points (y/y) growth in H1-2024, below its annual average of 4.7 percentage points over 2017-19. Foreign investments represented the largest increase in investment categories in H1-2024, up 13 percent (y/y). Meanwhile, public sector investment 2 growth eased to 4\n\n1 General Statistical Office, Viet Nam.\n\n2 Including state-owned enterprises' investment"
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p032__c003] (source: wb_taking_stock_aug2024, page 32)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).13 By the end of June 2024, only 29 percent of the National Assembly's approved budget for 2024 was implemented, with public investment disbursement 6 percent lower than the same period in 2023. Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continue to slow implementation of public investment projects.\n\n[B__wb_taking_stock_mar2025__p033__c003] (source: wb_taking_stock_mar2025, page 33)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).15 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects. Total bond issuances reached VND330.4 trillion (US$13.2 billion), equivalent to 82.6 percent of the annual plan, exceeding VND298.5 trillion planned in 2023.16\n\n[B__wb_taking_stock_mar2025__p014__c001] (source: wb_taking_stock_mar2025, page 14)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively). 1 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p032__c003",
+          "B__wb_taking_stock_mar2025__p033__c003",
+          "B__wb_taking_stock_mar2025__p014__c001"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p035__c003",
+          "B__wb_taking_stock_aug2024__p013__c003"
+        ],
+        "context_chars": 2413
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "minimum wage private sector July 2024 percent",
+        "filter": null,
+        "latency_s": 0.2135,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p032__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 32,
+            "score": 0.031778,
+            "text": "Planned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).13 By the end of June 2024, only 29 percent of the National Assembly's approved budget for 2024 was implemented, with public investment disbursement 6 percent lower than the same period in 2023. Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continue to slow implementation of public investment projects."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p033__c003",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 33,
+            "score": 0.031054,
+            "text": "Planned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).15 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects. Total bond issuances reached VND330.4 trillion (US$13.2 billion), equivalent to 82.6 percent of the annual plan, exceeding VND298.5 trillion planned in 2023.16"
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p011__c003",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 11,
+            "score": 0.029958,
+            "text": "Private investment growth also picked up in 2024 with total investment reaching near pre-pandemic growth rates. Total investment registered 7.2 percent growth in 2024 in real terms, up from 4.1 percent in 2023, but slightly below the pre-COVID average of 7.5 percent in 2019. Private investment drove the acceleration, contributing 62 percent to total investment growth in 2024, but below its 80 percent contribution in 2019. Foreign investment registered the highest growth in 2024 (10.6 percent), reaching US$38.2 billion in commitments by year-end supported by an uptick in manufacturing investment (67 percent of total FDI commitments).\n\nMeanwhile, public sector investment growth eased in 2024 to 3.5 percent compared to Recent Economic Developments"
+          },
+          {
+            "rank": 4,
+            "id": "B__wb_taking_stock_mar2025__p014__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 14,
+            "score": 0.029828,
+            "text": "Planned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively). 1 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects."
+          },
+          {
+            "rank": 5,
+            "id": "B__wb_taking_stock_aug2024__p035__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 35,
+            "score": 0.028778,
+            "text": "In Viet Nam, headline inflation is forecast to continue rising in 2024 to 4.5 percent, up from 3.2 percent a year earlier, as higher food prices are expected to persist. This forecast reflects the recent surge in food prices, contributing most to recent inflation in H1-2024, and expected to continue to rise as African swine fever outbreaks spread nationwide despite measures to strengthen control and prevention.15 Despite continued conflicts in Ukraine and the Middle East, oil and commodity price inflation is projected to continue easing over 2024. The increase in public wages and pensions in July 2024 is expected to have a marginal impact on headline inflation given the limited size of the public sector in overall employment (two million, 3.8 percent of total employment16)."
+          }
+        ],
+        "context": "[B__wb_taking_stock_aug2024__p032__c003] (source: wb_taking_stock_aug2024, page 32)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).13 By the end of June 2024, only 29 percent of the National Assembly's approved budget for 2024 was implemented, with public investment disbursement 6 percent lower than the same period in 2023. Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continue to slow implementation of public investment projects.\n\n[B__wb_taking_stock_mar2025__p033__c003] (source: wb_taking_stock_mar2025, page 33)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).15 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects. Total bond issuances reached VND330.4 trillion (US$13.2 billion), equivalent to 82.6 percent of the annual plan, exceeding VND298.5 trillion planned in 2023.16\n\n[B__wb_taking_stock_mar2025__p014__c001] (source: wb_taking_stock_mar2025, page 14)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively). 1 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects.",
+        "context_ids": [
+          "B__wb_taking_stock_aug2024__p032__c003",
+          "B__wb_taking_stock_mar2025__p033__c003",
+          "B__wb_taking_stock_mar2025__p014__c001"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p035__c003",
+          "B__wb_taking_stock_mar2025__p011__c003",
+          "B__wb_taking_stock_aug2024__p013__c003"
+        ],
+        "context_chars": 2413
+      },
+      {
+        "event": "search",
+        "tool_name": "keyword_search",
+        "query": "minimum wage",
+        "filter": null,
+        "latency_s": 0.0006,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p054__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 54,
+            "score": 6.493638,
+            "text": "Further reforms for authorities to consider include: (i) implementing a higher minimum value for single investments by professional investors, (ii) requiring securities firms to formally satisfy themselves that an investor has a good understanding of the risks and capacity to absorb losses and (iii) aligning the qualifying net portfolio value with those of other markets in the region.28\n\n2.6. International investors"
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p012__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 12,
+            "score": 5.392031,
+            "text": "Household consumption remained stable amid positive wage growth and nascent property sector recovery Private consumption remained stable, but below pre-pandemic rates as low consumer confidence dampened sales of durable and non-essential goods."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p014__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 14,
+            "score": 3.88563,
+            "text": "Planned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively). 1 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects."
+          },
+          {
+            "rank": 4,
+            "id": "B__wb_taking_stock_mar2025__p012__c004",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 12,
+            "score": 3.787651,
+            "text": "Amid improved labor market conditions and public sector wage hikes, real income grew modestly after 2023's headwinds but has not translated into higher private consumption. The average income of employees reached VND8.2 million/month (US$326) in December 2024, growing on average in 2024 by 8.6 percent in nominal terms and 4.8 percent in real terms, below pre-pandemic levels. Income growth has not fully translated into domestic consumption, instead contributing to higher gross savings rate, which reached 37.2 percent in 2024 compared to 33.6 percent in 2023, according to CEIC."
+          },
+          {
+            "rank": 5,
+            "id": "B__wb_taking_stock_mar2025__p025__c002",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 25,
+            "score": 3.787651,
+            "text": "Household consumption remained stable amid positive wage growth and a nascent property sector recovery Private consumption remained stable, but below pre-pandemic rates as low consumer confidence dampened sales of durable and non-essential goods. Retail sales grew 9.3 percent (y/y) by Q4- 2024, stable from 2023, but below a pre-pandemic average of 11.6 percent (Figure 1.14), despite a 2-percentage point reduction in VAT to 8 percent throughout 2024. Consumer confidence was impacted by the slow real estate recovery and rising inflation in H1-2024, which dampened demand for non-essential goods and services."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p014__c001] (source: wb_taking_stock_mar2025, page 14)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively). 1 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects.\n\n[B__wb_taking_stock_aug2024__p032__c003] (source: wb_taking_stock_aug2024, page 32)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).13 By the end of June 2024, only 29 percent of the National Assembly's approved budget for 2024 was implemented, with public investment disbursement 6 percent lower than the same period in 2023. Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continue to slow implementation of public investment projects.\n\n[B__wb_taking_stock_mar2025__p033__c003] (source: wb_taking_stock_mar2025, page 33)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).15 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects. Total bond issuances reached VND330.4 trillion (US$13.2 billion), equivalent to 82.6 percent of the annual plan, exceeding VND298.5 trillion planned in 2023.16\n\n[B__wb_taking_stock_aug2024__p054__c003] (source: wb_taking_stock_aug2024, page 54)\nFurther reforms for authorities to consider include: (i) implementing a higher minimum value for single investments by professional investors, (ii) requiring securities firms to formally satisfy themselves that an investor has a good understanding of the risks and capacity to absorb losses and (iii) aligning the qualifying net portfolio value with those of other markets in the region.28\n\n2.6. International investors",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p014__c001",
+          "B__wb_taking_stock_aug2024__p032__c003",
+          "B__wb_taking_stock_mar2025__p033__c003",
+          "B__wb_taking_stock_aug2024__p054__c003"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p035__c003",
+          "B__wb_taking_stock_mar2025__p012__c002",
+          "B__wb_taking_stock_mar2025__p011__c003",
+          "B__wb_taking_stock_mar2025__p012__c004",
+          "B__wb_taking_stock_aug2024__p013__c003",
+          "B__wb_taking_stock_mar2025__p025__c002"
+        ],
+        "context_chars": 2918
+      },
+      {
+        "event": "search",
+        "tool_name": "search_documents",
+        "query": "private sector wage OR workers July 2024 percent",
+        "filter": null,
+        "latency_s": 0.2047,
+        "results": [
+          {
+            "rank": 1,
+            "id": "B__wb_taking_stock_aug2024__p032__c003",
+            "source_id": "wb_taking_stock_aug2024",
+            "page": 32,
+            "score": 0.031258,
+            "text": "Planned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).13 By the end of June 2024, only 29 percent of the National Assembly's approved budget for 2024 was implemented, with public investment disbursement 6 percent lower than the same period in 2023. Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continue to slow implementation of public investment projects."
+          },
+          {
+            "rank": 2,
+            "id": "B__wb_taking_stock_mar2025__p012__c004",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 12,
+            "score": 0.030798,
+            "text": "Amid improved labor market conditions and public sector wage hikes, real income grew modestly after 2023's headwinds but has not translated into higher private consumption. The average income of employees reached VND8.2 million/month (US$326) in December 2024, growing on average in 2024 by 8.6 percent in nominal terms and 4.8 percent in real terms, below pre-pandemic levels. Income growth has not fully translated into domestic consumption, instead contributing to higher gross savings rate, which reached 37.2 percent in 2024 compared to 33.6 percent in 2023, according to CEIC."
+          },
+          {
+            "rank": 3,
+            "id": "B__wb_taking_stock_mar2025__p033__c003",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 33,
+            "score": 0.03055,
+            "text": "Planned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).15 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects. Total bond issuances reached VND330.4 trillion (US$13.2 billion), equivalent to 82.6 percent of the annual plan, exceeding VND298.5 trillion planned in 2023.16"
+          },
+          {
+            "rank": 4,
+            "id": "B__wb_taking_stock_mar2025__p027__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 27,
+            "score": 0.030118,
+            "text": "Amid improved labor market conditions and public sector wage hikes, real income grew modestly after 2023's headwinds but has not translated into higher private consumption. The average income of employees reached VND8.2 million/month (US$326) in December 2024, growing on average in 2024 by 8.6 percent in nominal terms and 4.8 percent in real terms, below pre-pandemic levels (Figure 1.18). Income growth has not fully translated into domestic consumption, instead contributing to higher gross savings rate, which reached 37.2 percent in 2024 compared to 33.6 percent in 2023, according to CEIC."
+          },
+          {
+            "rank": 5,
+            "id": "B__wb_taking_stock_mar2025__p014__c001",
+            "source_id": "wb_taking_stock_mar2025",
+            "page": 14,
+            "score": 0.029643,
+            "text": "Planned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively). 1 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects."
+          }
+        ],
+        "context": "[B__wb_taking_stock_mar2025__p014__c001] (source: wb_taking_stock_mar2025, page 14)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively). 1 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects.\n\n[B__wb_taking_stock_aug2024__p032__c003] (source: wb_taking_stock_aug2024, page 32)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).13 By the end of June 2024, only 29 percent of the National Assembly's approved budget for 2024 was implemented, with public investment disbursement 6 percent lower than the same period in 2023. Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continue to slow implementation of public investment projects.\n\n[B__wb_taking_stock_mar2025__p033__c003] (source: wb_taking_stock_mar2025, page 33)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).15 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects. Total bond issuances reached VND330.4 trillion (US$13.2 billion), equivalent to 82.6 percent of the annual plan, exceeding VND298.5 trillion planned in 2023.16\n\n[B__wb_taking_stock_mar2025__p012__c004] (source: wb_taking_stock_mar2025, page 12)\nAmid improved labor market conditions and public sector wage hikes, real income grew modestly after 2023's headwinds but has not translated into higher private consumption. The average income of employees reached VND8.2 million/month (US$326) in December 2024, growing on average in 2024 by 8.6 percent in nominal terms and 4.8 percent in real terms, below pre-pandemic levels. Income growth has not fully translated into domestic consumption, instead contributing to higher gross savings rate, which reached 37.2 percent in 2024 compared to 33.6 percent in 2023, according to CEIC.",
+        "context_ids": [
+          "B__wb_taking_stock_mar2025__p014__c001",
+          "B__wb_taking_stock_aug2024__p032__c003",
+          "B__wb_taking_stock_mar2025__p033__c003",
+          "B__wb_taking_stock_mar2025__p012__c004"
+        ],
+        "dropped_ids": [
+          "B__wb_taking_stock_aug2024__p035__c003",
+          "B__wb_taking_stock_aug2024__p054__c003",
+          "B__wb_taking_stock_mar2025__p012__c002",
+          "B__wb_taking_stock_mar2025__p011__c003",
+          "B__wb_taking_stock_mar2025__p027__c001",
+          "B__wb_taking_stock_aug2024__p013__c003",
+          "B__wb_taking_stock_mar2025__p025__c002"
+        ],
+        "context_chars": 3081
+      },
+      {
+        "event": "abstain",
+        "reason": "The World Bank Taking Stock reports for August 2024 and March 2025 discuss the civil service salary base increase (30 percent) and pension increase (15 percent) from July 1, 2024, but do not contain information or data on the percentage increase in the regional minimum wage for private-sector workers."
+      }
+    ],
+    "final_context": "[B__wb_taking_stock_mar2025__p014__c001] (source: wb_taking_stock_mar2025, page 14)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively). 1 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects.\n\n[B__wb_taking_stock_aug2024__p032__c003] (source: wb_taking_stock_aug2024, page 32)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).13 By the end of June 2024, only 29 percent of the National Assembly's approved budget for 2024 was implemented, with public investment disbursement 6 percent lower than the same period in 2023. Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continue to slow implementation of public investment projects.\n\n[B__wb_taking_stock_mar2025__p033__c003] (source: wb_taking_stock_mar2025, page 33)\nPlanned annual savings in recurrent expenditures are earmarked to finance the civil service salary reform agenda, including a substantive wage bill increase from July 1, 2024 (on average, 30 and 15 percent increases in salary base and pensions, respectively).15 Slow capital disbursement was attributed to delays in land clearance and compensation for major national highway projects, scarcity of backfill materials (stone and sand), and fluctuating prices of raw materials. In addition, regulatory hurdles and lengthy approval procedures continued to slow implementation of public investment projects. Total bond issuances reached VND330.4 trillion (US$13.2 billion), equivalent to 82.6 percent of the annual plan, exceeding VND298.5 trillion planned in 2023.16\n\n[B__wb_taking_stock_mar2025__p012__c004] (source: wb_taking_stock_mar2025, page 12)\nAmid improved labor market conditions and public sector wage hikes, real income grew modestly after 2023's headwinds but has not translated into higher private consumption. The average income of employees reached VND8.2 million/month (US$326) in December 2024, growing on average in 2024 by 8.6 percent in nominal terms and 4.8 percent in real terms, below pre-pandemic levels. Income growth has not fully translated into domestic consumption, instead contributing to higher gross savings rate, which reached 37.2 percent in 2024 compared to 33.6 percent in 2023, according to CEIC.",
+    "final_context_ids": [
+      "B__wb_taking_stock_mar2025__p014__c001",
+      "B__wb_taking_stock_aug2024__p032__c003",
+      "B__wb_taking_stock_mar2025__p033__c003",
+      "B__wb_taking_stock_mar2025__p012__c004"
+    ],
+    "num_searches": 4,
+    "api_calls": 5,
+    "latency_s": 21.0631,
+    "usage": {
+      "prompt_tokens": 15229,
+      "completion_tokens": 185,
+      "total_tokens": 15414
+    },
+    "cost_usd": 0.0,
+    "split": "test",
+    "question": "By what percentage did Viet Nam raise the regional minimum wage for private-sector workers from July 2024?",
+    "answerable": false
+  }
+]

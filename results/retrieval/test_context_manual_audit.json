@@ -1,0 +1,65 @@
+{
+  "split": "test",
+  "scale": "0 = no evidence; 1 = partial evidence or missing condition/source; 2 = complete evidence and source",
+  "runs_compared": [
+    "results/retrieval/test-baseline-dense-nofilter",
+    "results/retrieval/test-selected"
+  ],
+  "summary": {
+    "baseline_dense_nofilter": {
+      "counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      },
+      "mean_score": 2.0,
+      "notes": "All 5 answerable test queries contained full evidence in top-3 within 2400 chars, though q18 ranked footnote c003 ahead of main c000 and q19 leaked conflicting August 2024 forecast chunk (p033_c002) at rank 2 due to missing year filter."
+    },
+    "selected_hybrid_k5_b3200": {
+      "counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      },
+      "mean_score": 2.0,
+      "notes": "All 5 answerable test queries achieved Hit@1=True, 100% metadata compliance (zero cross-year leakage on q19/q20), and complete evidence + sources in packed context."
+    }
+  },
+  "items": [
+    {
+      "query_id": "q16",
+      "baseline_score": 2,
+      "baseline_reason": "Rank 1 chunk B__wb_taking_stock_aug2024__p052__c001 explicitly gives VND 786 trillion (US$31 billion), 8% of GDP, second largest domestic institutional investor, and source/page.",
+      "selected_score": 2,
+      "selected_reason": "Rank 1 chunk B__wb_taking_stock_aug2024__p052__c001 has complete figures, ranking, and source metadata."
+    },
+    {
+      "query_id": "q17",
+      "baseline_score": 2,
+      "baseline_reason": "Rank 1 chunk B__wb_taking_stock_aug2024__p040__c001 contains ~4 years maturity (< half regional average) and exact 2019-2023 annual averages (VND 37T shares, 271T govt bonds, 403T corp bonds).",
+      "selected_score": 2,
+      "selected_reason": "Rank 1 chunk B__wb_taking_stock_aug2024__p040__c001 has complete evidence and source metadata."
+    },
+    {
+      "query_id": "q18",
+      "baseline_score": 2,
+      "baseline_reason": "Context includes all three p053 chunks (c003, c000, c001) giving both 2030 modest e-2Ws impact (5.3 MtCO2eq, 8%/15% NDC) and 2050 scaling (226/249 MtCO2eq), though footnote c003 appeared at rank 1.",
+      "selected_score": 2,
+      "selected_reason": "Ranks main 2030 chunk p053__c000 at rank 1 and keeps p053__c003 and p053__c001 in context with full units and source."
+    },
+    {
+      "query_id": "q19",
+      "baseline_score": 2,
+      "baseline_reason": "Rank 1 mar2025__p037__c002 has full 2025 (6.8%) and 2026 (6.5%) forecast + China/US/trade uncertainty; however rank 2 leaked aug2024__p033__c002 (2024 edition forecast) due to no filter.",
+      "selected_score": 2,
+      "selected_reason": "Year=2025 filter eliminated 2024 edition leakage; rank 1 mar2025__p037__c002 and rank 2 mar2025__p015__c001 both cleanly support the 2025 report forecast."
+    },
+    {
+      "query_id": "q20",
+      "baseline_score": 2,
+      "baseline_reason": "Rank 1 aug2024__p015__c004 and rank 2 aug2024__p032__c001 provide 4.2% vs 1.5% of GDP fiscal surplus and revenue/spending drivers with source.",
+      "selected_score": 2,
+      "selected_reason": "Rank 1 aug2024__p032__c001 and rank 2 aug2024__p015__c004 provide complete 2024 report evidence with zero 2025 interference."
+    }
+  ]
+}

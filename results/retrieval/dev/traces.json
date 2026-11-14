@@ -1,0 +1,2883 @@
+[
+  {
+    "method": "dense",
+    "query_id": "q01",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.283,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p013__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 13,
+        "score": 0.843975,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p020__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 20,
+        "score": 0.841898,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p033__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 33,
+        "score": 0.803465,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p013__c000",
+      "B__wb_taking_stock_aug2024__p020__c000",
+      "B__wb_taking_stock_aug2024__p033__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1961,
+    "formatted_context_chars": 2217,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q02",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.2459,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p047__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 47,
+        "score": 0.733347,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p015__c003",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "score": 0.722537,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p040__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 40,
+        "score": 0.714069,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p047__c001",
+      "B__wb_taking_stock_aug2024__p015__c003",
+      "B__wb_taking_stock_aug2024__p040__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2130,
+    "formatted_context_chars": 2386,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q03",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.3132,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p050__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 50,
+        "score": 0.734148,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p050__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 50,
+        "score": 0.715603,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p055__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 55,
+        "score": 0.704128,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p050__c001",
+      "B__wb_taking_stock_aug2024__p050__c000",
+      "B__wb_taking_stock_aug2024__p055__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1792,
+    "formatted_context_chars": 2048,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q04",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.3344,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p015__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "score": 0.772556,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p031__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 31,
+        "score": 0.7688,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p031__c003",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 31,
+        "score": 0.694684,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p015__c001",
+      "B__wb_taking_stock_aug2024__p031__c000",
+      "B__wb_taking_stock_mar2025__p031__c003"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2004,
+    "formatted_context_chars": 2260,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q05",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.2792,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p018__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 18,
+        "score": 0.828354,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p051__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 51,
+        "score": 0.7928,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p045__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 45,
+        "score": 0.788929,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p018__c000",
+      "B__wb_taking_stock_aug2024__p051__c001",
+      "B__wb_taking_stock_aug2024__p045__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1969,
+    "formatted_context_chars": 2225,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q06",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.309,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p057__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 57,
+        "score": 0.764384,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p057__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 57,
+        "score": 0.65606,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p018__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 18,
+        "score": 0.625062,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p057__c001",
+      "B__wb_taking_stock_aug2024__p057__c002",
+      "B__wb_taking_stock_aug2024__p018__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1926,
+    "formatted_context_chars": 2182,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q07",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.3793,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p017__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 17,
+        "score": 0.722625,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p060__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 60,
+        "score": 0.713945,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p037__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 37,
+        "score": 0.691592,
+        "hit": true
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p017__c000",
+      "B__wb_taking_stock_aug2024__p060__c000",
+      "B__wb_taking_stock_aug2024__p037__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1993,
+    "formatted_context_chars": 2249,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q08",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.311,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p019__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 19,
+        "score": 0.81508,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p013__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 13,
+        "score": 0.805011,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p011__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 11,
+        "score": 0.797029,
+        "hit": true
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p019__c000",
+      "B__wb_taking_stock_aug2024__p013__c000",
+      "B__wb_taking_stock_mar2025__p011__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2073,
+    "formatted_context_chars": 2329,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q09",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.5245,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p012__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 12,
+        "score": 0.744914,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p027__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 27,
+        "score": 0.732592,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p025__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 25,
+        "score": 0.664658,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p012__c000",
+      "B__wb_taking_stock_mar2025__p027__c000"
+    ],
+    "dropped_ids": [
+      "B__wb_taking_stock_aug2024__p025__c001"
+    ],
+    "context_chars": 1571,
+    "formatted_context_chars": 1741,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q10",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.3995,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p027__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 27,
+        "score": 0.769938,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p014__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 14,
+        "score": 0.767134,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p013__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 13,
+        "score": 0.75973,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p027__c001",
+      "B__wb_taking_stock_aug2024__p014__c000",
+      "B__wb_taking_stock_mar2025__p013__c001"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2032,
+    "formatted_context_chars": 2288,
+    "context_has_evidence": false
+  },
+  {
+    "method": "dense",
+    "query_id": "q11",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.3763,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p044__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 44,
+        "score": 0.830914,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p016__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 16,
+        "score": 0.827536,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p044__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 44,
+        "score": 0.80875,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p044__c001",
+      "B__wb_taking_stock_mar2025__p016__c002",
+      "B__wb_taking_stock_mar2025__p044__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1530,
+    "formatted_context_chars": 1786,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q12",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.3916,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p050__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 50,
+        "score": 0.855354,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p051__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 51,
+        "score": 0.766265,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p060__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 60,
+        "score": 0.752079,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p050__c002",
+      "B__wb_taking_stock_mar2025__p051__c002",
+      "B__wb_taking_stock_mar2025__p060__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2002,
+    "formatted_context_chars": 2258,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q13",
+    "answerable": true,
+    "filter": {
+      "year": 2024
+    },
+    "latency_s": 0.3217,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p016__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 16,
+        "score": 0.773563,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p033__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 33,
+        "score": 0.772805,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p013__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 13,
+        "score": 0.765392,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p016__c000",
+      "B__wb_taking_stock_aug2024__p033__c002",
+      "B__wb_taking_stock_aug2024__p013__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2033,
+    "formatted_context_chars": 2289,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q14",
+    "answerable": true,
+    "filter": {
+      "year": 2025
+    },
+    "latency_s": 0.309,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p031__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 31,
+        "score": 0.767835,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p013__c005",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 13,
+        "score": 0.74954,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p031__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 31,
+        "score": 0.645878,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p031__c001",
+      "B__wb_taking_stock_mar2025__p013__c005",
+      "B__wb_taking_stock_mar2025__p031__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1386,
+    "formatted_context_chars": 1642,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "q15",
+    "answerable": true,
+    "filter": {
+      "section": "special_focus_emobility"
+    },
+    "latency_s": 0.2622,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p047__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 47,
+        "score": 0.735118,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p047__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 47,
+        "score": 0.708442,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p058__c003",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 58,
+        "score": 0.696779,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p047__c001",
+      "B__wb_taking_stock_mar2025__p047__c000",
+      "B__wb_taking_stock_mar2025__p058__c003"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1318,
+    "formatted_context_chars": 1574,
+    "context_has_evidence": true
+  },
+  {
+    "method": "dense",
+    "query_id": "u01",
+    "answerable": false,
+    "filter": null,
+    "latency_s": 0.2625,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p013__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 13,
+        "score": 0.750719,
+        "hit": null
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p020__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 20,
+        "score": 0.741384,
+        "hit": null
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p019__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 19,
+        "score": 0.730069,
+        "hit": null
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p013__c000",
+      "B__wb_taking_stock_aug2024__p020__c000",
+      "B__wb_taking_stock_mar2025__p019__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2127,
+    "formatted_context_chars": 2383
+  },
+  {
+    "method": "dense",
+    "query_id": "u02",
+    "answerable": false,
+    "filter": null,
+    "latency_s": 0.395,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p015__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "score": 0.664904,
+        "hit": null
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p053__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 53,
+        "score": 0.606278,
+        "hit": null
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p050__c005",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 50,
+        "score": 0.603928,
+        "hit": null
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p015__c001",
+      "B__wb_taking_stock_aug2024__p053__c000",
+      "B__wb_taking_stock_aug2024__p050__c005"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1930,
+    "formatted_context_chars": 2186
+  },
+  {
+    "method": "bm25",
+    "query_id": "q01",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0051,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p013__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 13,
+        "score": 23.196146,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p020__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 20,
+        "score": 22.252252,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p020__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 20,
+        "score": 19.724849,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p013__c000",
+      "B__wb_taking_stock_aug2024__p020__c000",
+      "B__wb_taking_stock_aug2024__p020__c001"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2085,
+    "formatted_context_chars": 2341,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q02",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0038,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p032__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 32,
+        "score": 18.139699,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p040__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 40,
+        "score": 18.043732,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p015__c003",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "score": 17.130649,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p032__c002",
+      "B__wb_taking_stock_aug2024__p040__c002"
+    ],
+    "dropped_ids": [
+      "B__wb_taking_stock_aug2024__p015__c003"
+    ],
+    "context_chars": 1442,
+    "formatted_context_chars": 1612,
+    "context_has_evidence": false
+  },
+  {
+    "method": "bm25",
+    "query_id": "q03",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0039,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p050__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 50,
+        "score": 25.800331,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p060__c003",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 60,
+        "score": 21.329389,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p048__c004",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 48,
+        "score": 20.849273,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p050__c001",
+      "B__wb_taking_stock_aug2024__p060__c003",
+      "B__wb_taking_stock_aug2024__p048__c004"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1760,
+    "formatted_context_chars": 2016,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q04",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0056,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p015__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "score": 38.714003,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p031__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 31,
+        "score": 36.701657,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p032__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 32,
+        "score": 33.205007,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p015__c001",
+      "B__wb_taking_stock_aug2024__p031__c000",
+      "B__wb_taking_stock_mar2025__p032__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1726,
+    "formatted_context_chars": 1982,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q05",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0028,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p051__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 51,
+        "score": 31.317826,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p018__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 18,
+        "score": 24.431476,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p045__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 45,
+        "score": 22.47659,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p051__c001",
+      "B__wb_taking_stock_aug2024__p018__c000",
+      "B__wb_taking_stock_aug2024__p045__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1969,
+    "formatted_context_chars": 2225,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q06",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0054,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p057__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 57,
+        "score": 55.443581,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p057__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 57,
+        "score": 43.499172,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p042__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 42,
+        "score": 32.441,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p057__c001",
+      "B__wb_taking_stock_aug2024__p057__c002",
+      "B__wb_taking_stock_aug2024__p042__c001"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2071,
+    "formatted_context_chars": 2327,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q07",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0047,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p037__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 37,
+        "score": 32.165282,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p039__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 39,
+        "score": 31.424599,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p014__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 14,
+        "score": 15.592649,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p037__c000",
+      "B__wb_taking_stock_mar2025__p039__c002"
+    ],
+    "dropped_ids": [
+      "B__wb_taking_stock_aug2024__p014__c002"
+    ],
+    "context_chars": 1465,
+    "formatted_context_chars": 1635,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q08",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0033,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p016__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 16,
+        "score": 15.987937,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p037__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 37,
+        "score": 15.181293,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p026__c005",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 26,
+        "score": 15.149447,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p016__c000",
+      "B__wb_taking_stock_mar2025__p037__c002",
+      "B__wb_taking_stock_aug2024__p026__c005"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1666,
+    "formatted_context_chars": 1922,
+    "context_has_evidence": false
+  },
+  {
+    "method": "bm25",
+    "query_id": "q09",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0039,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p012__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 12,
+        "score": 36.709841,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p027__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 27,
+        "score": 36.214782,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p025__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 25,
+        "score": 23.795926,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p012__c000",
+      "B__wb_taking_stock_mar2025__p027__c000"
+    ],
+    "dropped_ids": [
+      "B__wb_taking_stock_aug2024__p025__c001"
+    ],
+    "context_chars": 1571,
+    "formatted_context_chars": 1741,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q10",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0048,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p014__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 14,
+        "score": 47.416774,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p033__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 33,
+        "score": 31.049445,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p014__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 14,
+        "score": 31.011592,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p014__c000",
+      "B__wb_taking_stock_mar2025__p033__c002",
+      "B__wb_taking_stock_aug2024__p014__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1983,
+    "formatted_context_chars": 2239,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q11",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0042,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p044__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 44,
+        "score": 33.742803,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p017__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 17,
+        "score": 24.551593,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p044__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 44,
+        "score": 23.6687,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p044__c001",
+      "B__wb_taking_stock_mar2025__p017__c000",
+      "B__wb_taking_stock_mar2025__p044__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1830,
+    "formatted_context_chars": 2086,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q12",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.0058,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p050__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 50,
+        "score": 48.536556,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p050__c003",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 50,
+        "score": 36.645107,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p052__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 52,
+        "score": 32.140892,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p050__c002",
+      "B__wb_taking_stock_mar2025__p050__c003",
+      "B__wb_taking_stock_mar2025__p052__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1718,
+    "formatted_context_chars": 1974,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q13",
+    "answerable": true,
+    "filter": {
+      "year": 2024
+    },
+    "latency_s": 0.0045,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p016__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 16,
+        "score": 24.025263,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p033__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 33,
+        "score": 21.323796,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p026__c003",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 26,
+        "score": 18.472077,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p016__c000",
+      "B__wb_taking_stock_aug2024__p033__c002",
+      "B__wb_taking_stock_aug2024__p026__c003"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1822,
+    "formatted_context_chars": 2078,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q14",
+    "answerable": true,
+    "filter": {
+      "year": 2025
+    },
+    "latency_s": 0.0054,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p031__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 31,
+        "score": 31.5616,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p013__c005",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 13,
+        "score": 29.514052,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p039__c004",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 39,
+        "score": 20.150137,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p031__c001",
+      "B__wb_taking_stock_mar2025__p013__c005",
+      "B__wb_taking_stock_mar2025__p039__c004"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1531,
+    "formatted_context_chars": 1787,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "q15",
+    "answerable": true,
+    "filter": {
+      "section": "special_focus_emobility"
+    },
+    "latency_s": 0.0039,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p047__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 47,
+        "score": 48.769184,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p047__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 47,
+        "score": 35.133397,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p049__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 49,
+        "score": 31.523978,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p047__c001",
+      "B__wb_taking_stock_mar2025__p047__c000",
+      "B__wb_taking_stock_mar2025__p049__c001"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1729,
+    "formatted_context_chars": 1985,
+    "context_has_evidence": true
+  },
+  {
+    "method": "bm25",
+    "query_id": "u01",
+    "answerable": false,
+    "filter": null,
+    "latency_s": 0.0032,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p020__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 20,
+        "score": 24.133855,
+        "hit": null
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p013__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 13,
+        "score": 22.819633,
+        "hit": null
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p020__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 20,
+        "score": 22.260366,
+        "hit": null
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p020__c001",
+      "B__wb_taking_stock_aug2024__p013__c000",
+      "B__wb_taking_stock_aug2024__p020__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2085,
+    "formatted_context_chars": 2341
+  },
+  {
+    "method": "bm25",
+    "query_id": "u02",
+    "answerable": false,
+    "filter": null,
+    "latency_s": 0.0026,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p015__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "score": 14.604858,
+        "hit": null
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p057__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 57,
+        "score": 14.112817,
+        "hit": null
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p044__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 44,
+        "score": 13.451025,
+        "hit": null
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p015__c001",
+      "B__wb_taking_stock_aug2024__p057__c001",
+      "B__wb_taking_stock_mar2025__p044__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2085,
+    "formatted_context_chars": 2341
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q01",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.2555,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p013__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 13,
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p020__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 20,
+        "score": 0.032258,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p019__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 19,
+        "score": 0.03125,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p013__c000",
+      "B__wb_taking_stock_aug2024__p020__c000",
+      "B__wb_taking_stock_mar2025__p019__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2127,
+    "formatted_context_chars": 2383,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q02",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.3645,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p047__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 47,
+        "score": 0.032018,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p032__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 32,
+        "score": 0.032018,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p015__c003",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "score": 0.032002,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p047__c001",
+      "B__wb_taking_stock_mar2025__p032__c002"
+    ],
+    "dropped_ids": [
+      "B__wb_taking_stock_aug2024__p015__c003"
+    ],
+    "context_chars": 1416,
+    "formatted_context_chars": 1586,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q03",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.4041,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p050__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 50,
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p050__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 50,
+        "score": 0.031754,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p055__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 55,
+        "score": 0.031025,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p050__c001",
+      "B__wb_taking_stock_aug2024__p050__c000",
+      "B__wb_taking_stock_aug2024__p055__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1792,
+    "formatted_context_chars": 2048,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q04",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.3244,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p015__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p031__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 31,
+        "score": 0.032258,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p032__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 32,
+        "score": 0.03101,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p015__c001",
+      "B__wb_taking_stock_aug2024__p031__c000",
+      "B__wb_taking_stock_aug2024__p032__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2045,
+    "formatted_context_chars": 2301,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q05",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.4293,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p018__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 18,
+        "score": 0.032522,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p051__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 51,
+        "score": 0.032522,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p045__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 45,
+        "score": 0.031746,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p018__c000",
+      "B__wb_taking_stock_aug2024__p051__c001",
+      "B__wb_taking_stock_aug2024__p045__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1969,
+    "formatted_context_chars": 2225,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q06",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.2655,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p057__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 57,
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p057__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 57,
+        "score": 0.032258,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p055__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 55,
+        "score": 0.029911,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p057__c001",
+      "B__wb_taking_stock_aug2024__p057__c002",
+      "B__wb_taking_stock_aug2024__p055__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1867,
+    "formatted_context_chars": 2123,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q07",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.3237,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p037__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 37,
+        "score": 0.032266,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p017__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 17,
+        "score": 0.031778,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p060__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 60,
+        "score": 0.030835,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p037__c000",
+      "B__wb_taking_stock_aug2024__p017__c000",
+      "B__wb_taking_stock_aug2024__p060__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1993,
+    "formatted_context_chars": 2249,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q08",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.3122,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p016__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 16,
+        "score": 0.031545,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p019__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 19,
+        "score": 0.030886,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p037__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 37,
+        "score": 0.030622,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p016__c000",
+      "B__wb_taking_stock_mar2025__p019__c000",
+      "B__wb_taking_stock_mar2025__p037__c002"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2109,
+    "formatted_context_chars": 2365,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q09",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.3607,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p012__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 12,
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p027__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 27,
+        "score": 0.032258,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p025__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 25,
+        "score": 0.031746,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p012__c000",
+      "B__wb_taking_stock_mar2025__p027__c000"
+    ],
+    "dropped_ids": [
+      "B__wb_taking_stock_aug2024__p025__c001"
+    ],
+    "context_chars": 1571,
+    "formatted_context_chars": 1741,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q10",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.5629,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p027__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 27,
+        "score": 0.032018,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p014__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 14,
+        "score": 0.032018,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p014__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 14,
+        "score": 0.032002,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p027__c001",
+      "B__wb_taking_stock_mar2025__p014__c000",
+      "B__wb_taking_stock_aug2024__p014__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2086,
+    "formatted_context_chars": 2342,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q11",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 0.7876,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p044__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 44,
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p016__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 16,
+        "score": 0.031754,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p017__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 17,
+        "score": 0.031754,
+        "hit": true
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p044__c001",
+      "B__wb_taking_stock_mar2025__p016__c002",
+      "B__wb_taking_stock_mar2025__p017__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1358,
+    "formatted_context_chars": 1614,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q12",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 2.8676,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p050__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 50,
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p051__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 51,
+        "score": 0.031054,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p052__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 52,
+        "score": 0.031025,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p050__c002",
+      "B__wb_taking_stock_mar2025__p051__c002",
+      "B__wb_taking_stock_mar2025__p052__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1817,
+    "formatted_context_chars": 2073,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q13",
+    "answerable": true,
+    "filter": {
+      "year": 2024
+    },
+    "latency_s": 1.0126,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p016__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 16,
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p033__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 33,
+        "score": 0.032258,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p013__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 13,
+        "score": 0.029762,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p016__c000",
+      "B__wb_taking_stock_aug2024__p033__c002",
+      "B__wb_taking_stock_aug2024__p013__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2033,
+    "formatted_context_chars": 2289,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q14",
+    "answerable": true,
+    "filter": {
+      "year": 2025
+    },
+    "latency_s": 0.6202,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p031__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 31,
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p013__c005",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 13,
+        "score": 0.032258,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p031__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 31,
+        "score": 0.031258,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p031__c001",
+      "B__wb_taking_stock_mar2025__p013__c005",
+      "B__wb_taking_stock_mar2025__p031__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1386,
+    "formatted_context_chars": 1642,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "q15",
+    "answerable": true,
+    "filter": {
+      "section": "special_focus_emobility"
+    },
+    "latency_s": 0.367,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p047__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 47,
+        "score": 0.032787,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p047__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 47,
+        "score": 0.032258,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p049__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 49,
+        "score": 0.031258,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p047__c001",
+      "B__wb_taking_stock_mar2025__p047__c000",
+      "B__wb_taking_stock_mar2025__p049__c001"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1729,
+    "formatted_context_chars": 1985,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid",
+    "query_id": "u01",
+    "answerable": false,
+    "filter": null,
+    "latency_s": 0.6505,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p013__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 13,
+        "score": 0.032522,
+        "hit": null
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p020__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 20,
+        "score": 0.032002,
+        "hit": null
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p027__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 27,
+        "score": 0.02971,
+        "hit": null
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p013__c000",
+      "B__wb_taking_stock_aug2024__p020__c000",
+      "B__wb_taking_stock_aug2024__p027__c001"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2112,
+    "formatted_context_chars": 2368
+  },
+  {
+    "method": "hybrid",
+    "query_id": "u02",
+    "answerable": false,
+    "filter": null,
+    "latency_s": 0.7318,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p015__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "score": 0.032787,
+        "hit": null
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p050__c005",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 50,
+        "score": 0.031025,
+        "hit": null
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p058__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 58,
+        "score": 0.028718,
+        "hit": null
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p015__c001",
+      "B__wb_taking_stock_aug2024__p050__c005",
+      "B__wb_taking_stock_aug2024__p058__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1914,
+    "formatted_context_chars": 2170
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q01",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 25.4288,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p013__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 13,
+        "score": 0.999842,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p020__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 20,
+        "score": 0.999689,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p019__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 19,
+        "score": 0.99912,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p013__c000",
+      "B__wb_taking_stock_aug2024__p020__c000",
+      "B__wb_taking_stock_mar2025__p019__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2127,
+    "formatted_context_chars": 2383,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q02",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 11.2952,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p047__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 47,
+        "score": 0.811732,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p040__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 40,
+        "score": 0.736782,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p040__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 40,
+        "score": 0.32219,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p047__c001",
+      "B__wb_taking_stock_aug2024__p040__c002",
+      "B__wb_taking_stock_aug2024__p040__c001"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2120,
+    "formatted_context_chars": 2376,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q03",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 9.4027,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p050__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 50,
+        "score": 0.972324,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p050__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 50,
+        "score": 0.838935,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p060__c003",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 60,
+        "score": 0.825831,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p050__c000",
+      "B__wb_taking_stock_aug2024__p050__c001",
+      "B__wb_taking_stock_aug2024__p060__c003"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1983,
+    "formatted_context_chars": 2239,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q04",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 13.2634,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p015__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "score": 0.999251,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p031__c003",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 31,
+        "score": 0.9985,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p031__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 31,
+        "score": 0.998128,
+        "hit": true
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p015__c001",
+      "B__wb_taking_stock_mar2025__p031__c003",
+      "B__wb_taking_stock_aug2024__p031__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2004,
+    "formatted_context_chars": 2260,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q05",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 13.4173,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p018__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 18,
+        "score": 0.999967,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p051__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 51,
+        "score": 0.999954,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p046__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 46,
+        "score": 0.999804,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p018__c000",
+      "B__wb_taking_stock_aug2024__p051__c001",
+      "B__wb_taking_stock_aug2024__p046__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2049,
+    "formatted_context_chars": 2305,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q06",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 14.9023,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p057__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 57,
+        "score": 0.999581,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p057__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 57,
+        "score": 0.999537,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p042__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 42,
+        "score": 0.19327,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p057__c002",
+      "B__wb_taking_stock_aug2024__p057__c001",
+      "B__wb_taking_stock_aug2024__p042__c001"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2071,
+    "formatted_context_chars": 2327,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q07",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 11.2106,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p037__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 37,
+        "score": 0.999795,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p039__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 39,
+        "score": 0.997483,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p017__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 17,
+        "score": 0.806404,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p037__c000",
+      "B__wb_taking_stock_mar2025__p039__c002",
+      "B__wb_taking_stock_aug2024__p017__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2137,
+    "formatted_context_chars": 2393,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q08",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 10.1064,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p019__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 19,
+        "score": 0.999692,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p011__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 11,
+        "score": 0.999206,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p011__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 11,
+        "score": 0.997839,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p019__c000",
+      "B__wb_taking_stock_mar2025__p011__c000",
+      "B__wb_taking_stock_mar2025__p011__c001"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2118,
+    "formatted_context_chars": 2374,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q09",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 14.6503,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p027__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 27,
+        "score": 0.997515,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p012__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 12,
+        "score": 0.99701,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p011__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 11,
+        "score": 0.978499,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p027__c000",
+      "B__wb_taking_stock_mar2025__p012__c000"
+    ],
+    "dropped_ids": [
+      "B__wb_taking_stock_mar2025__p011__c001"
+    ],
+    "context_chars": 1571,
+    "formatted_context_chars": 1741,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q10",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 13.2657,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p014__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 14,
+        "score": 0.998486,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p033__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 33,
+        "score": 0.983439,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p035__c003",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 35,
+        "score": 0.946878,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p014__c000",
+      "B__wb_taking_stock_mar2025__p033__c002"
+    ],
+    "dropped_ids": [
+      "B__wb_taking_stock_aug2024__p035__c003"
+    ],
+    "context_chars": 1362,
+    "formatted_context_chars": 1532,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q11",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 9.8486,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p044__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 44,
+        "score": 0.999635,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p045__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 45,
+        "score": 0.997526,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p049__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 49,
+        "score": 0.973923,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p044__c001",
+      "B__wb_taking_stock_mar2025__p045__c000",
+      "B__wb_taking_stock_mar2025__p049__c001"
+    ],
+    "dropped_ids": [],
+    "context_chars": 2060,
+    "formatted_context_chars": 2316,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q12",
+    "answerable": true,
+    "filter": null,
+    "latency_s": 10.8814,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p050__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 50,
+        "score": 0.999898,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p051__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 51,
+        "score": 0.994968,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p051__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 51,
+        "score": 0.992294,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p050__c002",
+      "B__wb_taking_stock_mar2025__p051__c001",
+      "B__wb_taking_stock_mar2025__p051__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1845,
+    "formatted_context_chars": 2101,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q13",
+    "answerable": true,
+    "filter": {
+      "year": 2024
+    },
+    "latency_s": 10.8076,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p016__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 16,
+        "score": 0.999835,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_aug2024__p033__c002",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 33,
+        "score": 0.999632,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p035__c003",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 35,
+        "score": 0.995414,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p016__c000",
+      "B__wb_taking_stock_aug2024__p033__c002"
+    ],
+    "dropped_ids": [
+      "B__wb_taking_stock_aug2024__p035__c003"
+    ],
+    "context_chars": 1396,
+    "formatted_context_chars": 1566,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q14",
+    "answerable": true,
+    "filter": {
+      "year": 2025
+    },
+    "latency_s": 12.14,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p031__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 31,
+        "score": 0.997984,
+        "hit": true
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p013__c005",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 13,
+        "score": 0.984741,
+        "hit": false
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p031__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 31,
+        "score": 0.949877,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p031__c001",
+      "B__wb_taking_stock_mar2025__p013__c005",
+      "B__wb_taking_stock_mar2025__p031__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1386,
+    "formatted_context_chars": 1642,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "q15",
+    "answerable": true,
+    "filter": {
+      "section": "special_focus_emobility"
+    },
+    "latency_s": 9.5649,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p047__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 47,
+        "score": 0.999127,
+        "hit": false
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p047__c000",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 47,
+        "score": 0.981948,
+        "hit": true
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_mar2025__p049__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 49,
+        "score": 0.979787,
+        "hit": false
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p047__c001",
+      "B__wb_taking_stock_mar2025__p047__c000",
+      "B__wb_taking_stock_mar2025__p049__c001"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1729,
+    "formatted_context_chars": 1985,
+    "context_has_evidence": true
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "u01",
+    "answerable": false,
+    "filter": null,
+    "latency_s": 9.5199,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_mar2025__p037__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 37,
+        "score": 0.997557,
+        "hit": null
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p015__c001",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 15,
+        "score": 0.996034,
+        "hit": null
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p039__c000",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 39,
+        "score": 0.992127,
+        "hit": null
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_mar2025__p037__c002",
+      "B__wb_taking_stock_mar2025__p015__c001",
+      "B__wb_taking_stock_aug2024__p039__c000"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1816,
+    "formatted_context_chars": 2072
+  },
+  {
+    "method": "hybrid_rerank",
+    "query_id": "u02",
+    "answerable": false,
+    "filter": null,
+    "latency_s": 10.6281,
+    "results": [
+      {
+        "rank": 1,
+        "id": "B__wb_taking_stock_aug2024__p015__c001",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 15,
+        "score": 0.976845,
+        "hit": null
+      },
+      {
+        "rank": 2,
+        "id": "B__wb_taking_stock_mar2025__p031__c002",
+        "source_id": "wb_taking_stock_mar2025",
+        "page": 31,
+        "score": 0.211747,
+        "hit": null
+      },
+      {
+        "rank": 3,
+        "id": "B__wb_taking_stock_aug2024__p050__c005",
+        "source_id": "wb_taking_stock_aug2024",
+        "page": 50,
+        "score": 0.045077,
+        "hit": null
+      }
+    ],
+    "context_ids": [
+      "B__wb_taking_stock_aug2024__p015__c001",
+      "B__wb_taking_stock_mar2025__p031__c002",
+      "B__wb_taking_stock_aug2024__p050__c005"
+    ],
+    "dropped_ids": [],
+    "context_chars": 1927,
+    "formatted_context_chars": 2183
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "split": "dev",
+  "config": {
+    "name": "improved",
+    "retrieval_method": "hybrid",
+    "top_k": 5,
+    "budget_chars": 3200,
+    "max_searches": 4,
+    "pack_mode": "score_dedup",
+    "allow_filter_inference": true,
+    "enable_multi_tool": true,
+    "provider": "gemini",
+    "model": "gemini-flash-lite-latest",
+    "temperature": 0.0
+  },
+  "n_questions": 17,
+  "user_filters_passed_to_agent": false,
+  "gold_exposed_to_agent": false
+}
